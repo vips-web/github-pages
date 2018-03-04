@@ -41,7 +41,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #7bc3d1;
+	color: #ffc000;
 }
 ul, ol {
 	list-style: none;
@@ -73,7 +73,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #7bc3d1;
+	background: #ffc000;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -119,13 +119,13 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #7bc3d1;
+	color: #ffc000;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #7bc3d1;
+	color: #ffc000;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -159,8 +159,8 @@ hr {
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
-	background-color: #7bc3d1;
-	border-color: #7bc3d1;
+	background-color: #ffc000;
+	border-color: #ffc000;
 }
 .btn-primary i.fa {
 	margin-right: 10px;
@@ -174,7 +174,7 @@ hr {
 	text-align: center;
 	color: #fff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #7bc3d1;
+	background-color: #ffc000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -190,6 +190,7 @@ hr {
 }
 #about .about-text {
 	margin-left: 10px;
+	text-align: center;
 }
 #about img {
 	border-radius: 50%;
@@ -201,23 +202,44 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
-/* Skills Section */
-#skills {
+/* Wallet Section */
+#wallet {
 	padding: 100px 0;
-	background: #7bc3d1;
+	background: #f6f6f6;
 }
-#skills h2 {
+#wallet .wallet-text {
+	margin-top: 50px;
+	margin-left: 10px;
+	text-align: center;
+	word-wrap: break-word;
+}
+#wallet img {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+#wallet p {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+/* Stockholding Section */
+#stockholding {
+	padding: 100px 0;
+	background: #ffc000;
+}
+#stockholding h2 {
 	color: #fff;
 }
-#skills hr {
+#stockholding hr {
 	background: rgba(255,255,255,0.3);
 }
-#skills .skill {
+#stockholding .skill {
 	margin-bottom: 40px;
 	text-align: center;
 	padding: 0px;
 }
-#skills .skill h4 {
+#stockholding .skill h4 {
 	font-weight: 600;
 	color: #fff;
 }
@@ -246,8 +268,8 @@ hr {
 	margin-left: 0.1em;
 	font-size: .8em;
 }
-/* Portfolio Section */
-#portfolio {
+/* Event Section */
+#event {
 	padding: 80px 0;
 	background: #ffffff; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* FF3.6+ */
@@ -268,9 +290,10 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-left: 20px;
+	margin-bottom: 20px;
 }
 ol.type li a {
-	background: #7bc3d1;
+	background: #ffc000;
 	color: #fff;
 	padding: 6px 14px;
 }
@@ -313,7 +336,7 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
-.portfolio-item {
+.event-item {
 	margin: 15px 0;
 	-webkit-transition: all 0.5s ease-out;
 	-moz-transition: all 0.5s ease-out;
@@ -321,14 +344,14 @@ ol.type li a:hover {
 	-o-transition: all 0.5s ease-out;
 	transition: all 0.5s ease-out;
 }
-.portfolio-item:hover {
+.event-item:hover {
 	-webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);
 	-ms-transform: scale(1.1);
 	-o-transform: scale(1.1);
 	transform: scale(1.1);
 }
-.portfolio-item .hover-bg {
+.event-item .hover-bg {
 	height: 260px;
 	overflow: hidden;
 	position: relative;
@@ -339,7 +362,7 @@ ol.type li a:hover {
 	margin: 0 auto;
 	color: #ffffff;
 	background: rgba(0, 0, 0, 0.66);
-	padding: 33% 0 0 0;
+	padding: 33% 5% 0;
 	height: 100%;
 	width: 100%;
 	opacity: 0;
@@ -374,29 +397,32 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#portfolio i.fa {
+#event i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
 }
-/* Achivements Section */
-#achievements {
-	padding: 100px 0;
-	background: #7bc3d1;
+/* Community Section */
+#community {
+	padding: 100px 0 50px;
+	background: #ffc000;
 }
-#achievements h2 {
+#community h2 {
 	color: #fff;
 }
-#achievements hr {
+#community hr {
 	background: rgba(255,255,255,0.3);
 }
-.achievement-box h4 {
+.community-box {
+	margin-bottom: 50px;
+}
+.community-box h4 {
 	color: #fff;
 	font-size: 20px;
 	font-weight: 400;
 	margin-left: 5px;
 }
-.achievement-box span.count {
+.community-box span.count {
 	font-size: 52px;
 	font-weight: 600;
 	display: block;
@@ -404,10 +430,20 @@ ol.type li a:hover {
 	padding: 0;
 	margin: 0;
 }
-/* Resume Section */
-#resume {
+.community-box .fab {
+	color: #fff;
+}
+/* Roadmap Section */
+#roadmap {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: #ffc000;
+	color: #fff;
+}
+#roadmap h2 {
+	color: #fff;
+}
+#roadmap hr {
+	background: rgba(255,255,255,0.3);
 }
 .timeline {
 	position: relative;
@@ -512,29 +548,31 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #7bc3d1;
+	background: #fff;
 }
 #contact h2 {
-	color: #fff;
+	color: #000;
 }
 #contact hr {
-	background: rgba(255,255,255,0.3);
+	background: #ffc000;
 }
 #contact h3 {
 	padding-top: 20px;
 	font-size: 20px;
 	font-weight: 400;
-	color: #fff;
+	color: #000;
 }
 #contact form {
 	padding: 30px 0;
 }
-#contact i.fa {
-	color: #121d1f;
+#contact i {
 	margin-bottom: 10px;
 }
+#contact p {
+	margin-bottom: 30px;
+}
 #contact .text-danger {
-	color: #E87E04;
+	color: #ffc000;
 	text-align: left;
 }
 label {
@@ -552,7 +590,6 @@ label {
 	color: #2c3e50;
 	background-color: rgba(255,255,255,0.8);
 	background-image: none;
-	border: 0;
 	border-radius: 2px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
@@ -596,15 +633,16 @@ color: #2c3e50;
 }
 #contact .btn {
 	background-color: transparent;
-	border: 1px solid #fff;
+	border: 1px solid #000;
 	border-radius: 0;
 	padding: 10px 20px;
-	color: #fff;
+	color: #000;
 	margin-top: 15px;
 }
 #contact .btn:hover, #contact .btn:focus {
-	background-color: #121d1f;
-	border: 1px solid #121d1f;
+	background-color: #ffc000;
+	border: 1px solid #ffc000;
+	color: #fff;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -629,7 +667,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #a0a5a5;
 }
 #footer a:hover {
-	color: #7bc3d1;
+	color: #ffc000;
 }
 
 /* Media Queries */
@@ -650,6 +688,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro .intro-text {
 	max-width: 75%;
+	min-height: 800px;
 }
 .intro .intro-text p {
 	font-family: 'Lato', sans-serif;
@@ -684,7 +723,7 @@ header .intro-text {
 	margin-left: -50px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 16px;
+	margin-top: 32px;
 	line-height: 18px;
 	font-weight: 400;
 }
@@ -711,7 +750,7 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 30px;
+	margin-top: 50px;
 	font-size: 18px;
 	line-height: 26px;
 }
@@ -733,7 +772,7 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 40px;
+	margin-top: 45px;
 	font-weight: 400;
 }
 .timeline>li.timeline-inverted>.timeline-panel {
