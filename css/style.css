@@ -189,7 +189,6 @@ hr {
 	background: #f6f6f6;
 }
 #about .about-text {
-	margin-left: 10px;
 	text-align: center;
 }
 #about img {
@@ -202,16 +201,67 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+/* Holding Section */
+#holding {
+	padding: 100px 0;
+	/* background: #ffc000; */
+	background: #fff;
+}
+#holding h2 {
+	/* color: #fff; */
+}
+#holding hr {
+	/* background: rgba(255,255,255,0.3); */
+}
+#holding .holding-text {
+	margin-bottom: 40px;
+	text-align: left;
+	padding: 0 10px;
+}
+#holding .holding-text h4 {
+	font-weight: 600;
+	/* color: #fff; */
+}
+#holding .holding-text .holding-yellow {
+	color: rgb(255, 205, 86);
+}
+#holding .holding-text .holding-orange {
+	color: rgb(255, 159, 64);
+}
+#holding .holding-text .holding-red {
+	color: rgb(255, 99, 132);
+}
+#holding .holding-text .holding-purple {
+	color: rgb(153, 102, 255);
+}
+#holding .holding-text .holding-blue {
+	color: rgb(54, 162, 235);
+}
+#holding .holding-text .holding-green {
+	color: rgb(75, 192, 192);
+}
+#holding .holding-chart {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto 50px;
+}
 /* Wallet Section */
 #wallet {
 	padding: 100px 0;
-	background: #f6f6f6;
+	/* background: #f6f6f6; */
+	background: #ffc000;
+}
+#wallet h2 {
+	color: #fff;
+}
+#wallet hr {
+	background: rgba(255,255,255,0.3);
 }
 #wallet .wallet-text {
 	margin-top: 50px;
-	margin-left: 10px;
 	text-align: center;
 	word-wrap: break-word;
+	color: #fff;
 }
 #wallet img {
 	border-radius: 50%;
@@ -222,51 +272,6 @@ hr {
 #wallet p {
 	margin-top: 20px;
 	margin-bottom: 30px;
-}
-/* Stockholding Section */
-#stockholding {
-	padding: 100px 0;
-	background: #ffc000;
-}
-#stockholding h2 {
-	color: #fff;
-}
-#stockholding hr {
-	background: rgba(255,255,255,0.3);
-}
-#stockholding .skill {
-	margin-bottom: 40px;
-	text-align: center;
-	padding: 0px;
-}
-#stockholding .skill h4 {
-	font-weight: 600;
-	color: #fff;
-}
-.chart {
-	position: relative;
-	display: inline-block;
-	width: 152px;
-	height: 152px;
-	margin-bottom: 26px;
-	text-align: center;
-}
-.chart canvas {
-	position: absolute;
-	top: 0;
-	left: 0;
-}
-.percent {
-	display: inline-block;
-	font-size: 21px;
-	color: #121d1f;
-	line-height: 152px;
-	z-index: 2;
-}
-.percent:after {
-	content: '%';
-	margin-left: 0.1em;
-	font-size: .8em;
 }
 /* Event Section */
 #event {
@@ -479,7 +484,7 @@ ol.type li a:hover {
 	float: right;
 	position: relative;
 	width: 100%;
-	padding: 0 20px 0 100px;
+	padding: 0 0 0 100px;
 	text-align: left;
 }
 .timeline>li .timeline-panel:before {

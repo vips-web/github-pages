@@ -85,6 +85,63 @@ function main() {
   $("a[rel^='prettyPhoto']").prettyPhoto({
     social_tools: false
   });
+
+  // Chart
+  var ctx = document.getElementById("holdingChart").getContext('2d');
+  var data = {
+    datasets: [{
+      data: [25, 20, 20, 20, 13, 2],
+      backgroundColor: [
+        'rgb(255, 205, 86)',  // yellow
+        'rgb(255, 159, 64)',  // orange
+        'rgb(255, 99, 132)',  // red
+        'rgb(153, 102, 255)', // purple
+        'rgb(54, 162, 235)',  // blue
+        'rgb(75, 192, 192)',  // green
+      ],
+      borderColor: [
+        'rgb(255, 205, 86)',  // yellow
+        'rgb(255, 159, 64)',  // orange
+        'rgb(255, 99, 132)',  // red
+        'rgb(153, 102, 255)', // purple
+        'rgb(54, 162, 235)',  // blue
+        'rgb(75, 192, 192)',  // green
+      ],
+      label: 'Dataset 1'
+    }],
+    labels: [
+      'ヌクモリティ',
+      '再うｐ',
+      '開発費',
+      'マーケティング費',
+      'うｐ',
+      '運営チーム',
+    ],
+  };
+  var options = {
+    responsive: true,
+    legend: {
+      display: false,
+    },
+    title: {
+      display: false,
+    },
+    animation: {
+      animateScale: false,
+      animateRotate: true,
+      easing: "easeInOutQuart",
+    },
+  };
+
+  var $holdingChart = $('#holdingChart');
+  $holdingChart.on('inview', function() {
+    var myDoughnutChart = new Chart(ctx, {
+      type: 'doughnut',
+      data: data,
+      options: options
+    });
+    $holdingChart.off('inview');
+  });
 }());
 
 }
