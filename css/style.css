@@ -194,6 +194,7 @@ hr {
 }
 #about .about-text {
 	text-align: center;
+	font-size: 16px;
 }
 #about img {
 	border-radius: 50%;
