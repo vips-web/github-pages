@@ -433,6 +433,9 @@ ol.type li a:hover {
 .community-box .fab {
 	color: #fff;
 }
+.community-box:hover .fab {
+	color: #121d1f;
+}
 /* Roadmap Section */
 #roadmap {
 	padding: 100px 0;
