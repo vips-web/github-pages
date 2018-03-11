@@ -90,7 +90,6 @@ hr {
 	margin-bottom: 0;
 	background-color: #000;
 	border-radius: 0px;
-	padding: 10px 0;
 }
 .navbar-custom .navbar-brand {
 	font-weight: 600;
@@ -165,6 +164,12 @@ hr {
 	margin-right: 10px;
 }
 /* Home Section */
+.header {
+	position: relative;
+}
+.header .header-image {
+	width: 100%;
+}
 .intro {
 	display: table;
 	width: 100%;
@@ -189,6 +194,7 @@ hr {
 }
 #about .about-text {
 	text-align: center;
+	font-size: 16px;
 }
 #about img {
 	border-radius: 50%;
@@ -266,9 +272,11 @@ hr {
 	border-radius: 100%;
 	text-align: center;
 	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 20px;
 	font-size: 14px;
 	text-transform: uppercase;
 }
@@ -339,10 +347,21 @@ hr {
 #holding .holding-text .holding-green {
 	color: rgb(75, 192, 192);
 }
+#holding .holding-text .holding-grey {
+	color: rgb(201, 203, 207);
+}
+#holding .holding-header {
+	font-size: 16px;
+}
 #holding .holding-chart {
 	width: 200px;
 	height: 200px;
-	margin: 0 auto 50px;
+	margin: 50px auto 25px;
+}
+#holding .holding-chart .holding-total {
+	position: relative;
+	top: -120px;
+	font-weight: bold;
 }
 /* Wallet Section */
 #wallet {
@@ -358,6 +377,32 @@ hr {
 	word-wrap: break-word;
 	color: #fff;
 }
+#wallet .wallet-text .wallet-text-title {
+	font-weight: bold;
+	color: #000;
+}
+#wallet .wallet-swap {
+	margin-top: 100px;
+}
+#wallet .wallet-swap .wallet-swap-title-b {
+	text-align: center;
+	color: #fff;
+	margin: 0 0 20px;
+}
+#wallet .wallet-swap .wallet-swap-title {
+	margin: 0 0 10px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+}
+#wallet .wallet-swap .wallet-swap-text {
+	text-indent: -15px;
+	margin: 0 0 10px 15px;
+	color: #fff;
+}
+#wallet .wallet-swap .wallet-swap-text .wallet-swap-text-q {
+	color: #000;
+}
 #wallet img {
 	border-radius: 50%;
 	width: 200px;
@@ -368,8 +413,8 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
-/* Event Section */
-#event {
+/* News Section */
+#news {
 	padding: 80px 0;
 	background: #fff;
 }
@@ -429,7 +474,7 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
-.event-item {
+.news-item {
 	margin: 15px 0;
 	-webkit-transition: all 0.5s ease-out;
 	-moz-transition: all 0.5s ease-out;
@@ -437,14 +482,14 @@ ol.type li a:hover {
 	-o-transition: all 0.5s ease-out;
 	transition: all 0.5s ease-out;
 }
-.event-item:hover {
+.news-item:hover {
 	-webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);
 	-ms-transform: scale(1.1);
 	-o-transform: scale(1.1);
 	transform: scale(1.1);
 }
-.event-item .hover-bg {
+.news-item .hover-bg {
 	height: 260px;
 	overflow: hidden;
 	position: relative;
@@ -490,7 +535,19 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#event i.fa {
+#news .news-image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+#news .news-image img {
+	display: block;
+	max-width: 100%;
+	max-height: 100%;
+}
+#news i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
@@ -551,11 +608,14 @@ ol.type li a:hover {
 	margin-bottom: 10px;
 }
 #contact p {
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 #contact .text-danger {
 	color: #ffc000;
 	text-align: left;
+}
+#contact .contact-tweet {
+	margin-top: 50px;
 }
 label {
 	font-size: 12px;
@@ -705,7 +765,6 @@ header .intro-text {
 	margin-left: -50px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 32px;
 	line-height: 18px;
 	font-weight: 400;
 }
@@ -732,7 +791,6 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 50px;
 	font-size: 18px;
 	line-height: 26px;
 }
@@ -754,7 +812,6 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 45px;
 	font-weight: 400;
 }
 .timeline>li.timeline-inverted>.timeline-panel {
