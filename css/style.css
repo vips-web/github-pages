@@ -608,11 +608,14 @@ ol.type li a:hover {
 	margin-bottom: 10px;
 }
 #contact p {
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 #contact .text-danger {
 	color: #ffc000;
 	text-align: left;
+}
+#contact .contact-tweet {
+	margin-top: 50px;
 }
 label {
 	font-size: 12px;
