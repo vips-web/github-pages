@@ -13,7 +13,10 @@
 <link rel="apple-touch-icon" href="img/apple-touch-icon.jpg">
 
 <!-- Bootstrap -->
-<link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
+<link rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous">
 <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
 <!-- Stylesheet
     ================================================== -->
@@ -21,8 +24,6 @@
 <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
-<script type="text/javascript" src="js/modernizr.custom.js"></script>
-
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -60,10 +61,10 @@
           <li> <a class="page-scroll" href="#about">ABOUT</a> </li>
           <li> <a class="page-scroll" href="#roadmap">ROADMAP</a> </li>
           <li> <a class="page-scroll" href="#wallet">WALLET</a> </li>
-          <li> <a class="page-scroll" href="#stockholding">STOCKHOLDING</a> </li>
+          <li> <a class="page-scroll" href="#holding">HOLDING</a> </li>
           <li> <a class="page-scroll" href="#event">Event</a> </li>
-          <li> <a class="page-scroll" href="#community">Community</a> </li>
-          <li> <a class="page-scroll" href="#contact">Contact</a> </li>
+          <li> <a class="page-scroll" href="#community">COMMUNITY</a> </li>
+          <li> <a class="page-scroll" href="#contact">CONTACT</a> </li>
         </ul>
       </div>
     </div>
@@ -150,6 +151,30 @@
     </div>
   </div>
 </div>
+<!-- Holding Section -->
+<div id="holding" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>HOLDING</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="holding-chart">
+        <canvas id="holdingChart" width="200" height="200"></canvas>
+      </div>
+      <h4>保有比率</h4>
+      <br>
+      <div class="col-md-6 col-sm-6 col-md-offset-4 holding-text">
+        <p><span class="holding-yellow">■</span> ヌクモリティ（各種配布媒体からの配布）：25%</p>
+        <p><span class="holding-orange">■</span> 再うｐ（上場時販売）：20%</p>
+        <p><span class="holding-red">■</span> 開発費：20%</p>
+        <p><span class="holding-purple">■</span> マーケティング費：20%</p>
+        <p><span class="holding-blue">■</span> うｐ（VIPを中心とした初期配布・及び上場後含めた配布）：13%</p>
+        <p><span class="holding-green">■</span> 運営チーム：2%</p>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Wallet Section -->
 <div id="wallet">
   <div class="container">
@@ -169,23 +194,6 @@
           <p>トークンシンボル：VIPS</p>
           <p>桁数：0</p>
         </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- Stockholding Section -->
-<div id="stockholding" class="text-center">
-  <div class="container">
-    <div class="section-title center">
-      <h2>STOCKHOLDING</h2>
-      <hr>
-    </div>
-    <div class="row">
-      <div class="col-md-12 col-sm-12 skill"> <span class="chart" data-percent="85"> <span class="percent">85</span> </span>
-        <h4>保有比率</h4>
-        <p>運営チーム：2%</p>
-        <p>開発費：20%</p>
-        <p>マーケティング費：20%</p>
       </div>
     </div>
   </div>
@@ -275,8 +283,8 @@
       <h2>COMMUNITY</h2>
       <hr>
     </div>
-    <div class="row">
-      <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="200ms">
+    <div class="row col-md-8 col-md-offset-2">
+      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
         <a href="https://twitter.com/VIPSTARTOKEN" target="_blank">
           <div class="community-box">
             <i class="fab fa-twitter fa-5x"></i>
@@ -285,21 +293,12 @@
           </div>
         </a>
       </div>
-      <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="400ms">
+      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="400ms">
         <a href="https://discordapp.com/invite/K5gPZ2h" target="_blank">
           <div class="community-box">
             <i class="fab fa-discord fa-5x"></i>
             <span class="count">800</span>
             <h4>Members</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="600ms">
-        <a href="#" target="_blank">
-          <div class="community-box">
-            <i class="fab fa-github fa-5x"></i>
-            <span class="count">10</span>
-            <h4>Contributors</h4>
           </div>
         </a>
       </div>
@@ -316,42 +315,17 @@
     <div class="col-md-8 col-md-offset-2">
       <div class="col-md-6">
         <a href="https://twitter.com/VIPSTARTOKEN" target="_blank">
-          <i class="fab fa-twitter fa-4x"></i>
+          <i class="fab fa-twitter fa-5x"></i>
           <p>@VIPSTARTOKEN</p>
         </a>
       </div>
       <div class="col-md-6">
         <a href="mailto:example@example.com">
-          <i class="far fa-envelope fa-4x"></i>
+          <i class="far fa-envelope fa-5x"></i>
           <p>example@example.com</p>
         </a>
       </div>
       <div class="clearfix"></div>
-    </div>
-    <div class="col-md-8 col-md-offset-2">
-      <h3>問い合わせ</h3>
-      <form name="sentMessage" id="contactForm" novalidate>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="form-group">
-              <input type="text" id="name" class="form-control" placeholder="Name" required="required">
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="form-group">
-              <input type="email" id="email" class="form-control" placeholder="Email" required="required">
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-        </div>
-        <div class="form-group">
-          <textarea name="message" id="message" class="form-control" rows="4" placeholder="Message" required></textarea>
-          <p class="help-block text-danger"></p>
-        </div>
-        <div id="success"></div>
-        <button type="submit" class="btn btn-default">送信</button>
-      </form>
     </div>
   </div>
 </div>
@@ -362,8 +336,15 @@
     </div>
   </div>
 </div>
-<script type="text/javascript" src="js/jquery.1.11.1.js"></script>
-<script type="text/javascript" src="js/bootstrap.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"
+        integrity="sha256-XF29CBwU1MWLaGEnsELogU6Y6rcc5nCkhhx89nFMIDQ="
+        crossorigin="anonymous"></script>
 <script type="text/javascript" src="js/SmoothScroll.js"></script>
 <script type="text/javascript" src="js/easypiechart.js"></script>
 <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
@@ -372,6 +353,7 @@
 <script type="text/javascript" src="js/waypoints.js"></script>
 <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
 <script type="text/javascript" src="js/contact_me.js"></script>
+<script type="text/javascript" src="js/jquery.inview.min.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
