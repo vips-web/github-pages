@@ -46,7 +46,7 @@ function main() {
 
   // Portfolio isotope filter
   $(window).load(function() {
-    var $container = $('.event-items');
+    var $container = $('.news-items');
     $container.isotope({
       filter: '*',
       animationOptions: {
