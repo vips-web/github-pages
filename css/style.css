@@ -377,6 +377,32 @@ hr {
 	word-wrap: break-word;
 	color: #fff;
 }
+#wallet .wallet-text .wallet-text-title {
+	font-weight: bold;
+	color: #000;
+}
+#wallet .wallet-swap {
+	margin-top: 100px;
+}
+#wallet .wallet-swap .wallet-swap-title-b {
+	text-align: center;
+	color: #fff;
+	margin: 0 0 20px;
+}
+#wallet .wallet-swap .wallet-swap-title {
+	margin: 0 0 10px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+}
+#wallet .wallet-swap .wallet-swap-text {
+	text-indent: -15px;
+	margin: 0 0 10px 15px;
+	color: #fff;
+}
+#wallet .wallet-swap .wallet-swap-text .wallet-swap-text-q {
+	color: #000;
+}
 #wallet img {
 	border-radius: 50%;
 	width: 200px;
