@@ -347,10 +347,21 @@ hr {
 #holding .holding-text .holding-green {
 	color: rgb(75, 192, 192);
 }
+#holding .holding-text .holding-grey {
+	color: rgb(201, 203, 207);
+}
+#holding .holding-header {
+	font-size: 16px;
+}
 #holding .holding-chart {
 	width: 200px;
 	height: 200px;
-	margin: 0 auto 50px;
+	margin: 50px auto 25px;
+}
+#holding .holding-chart .holding-total {
+	position: relative;
+	top: -120px;
+	font-weight: bold;
 }
 /* Wallet Section */
 #wallet {

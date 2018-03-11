@@ -90,7 +90,7 @@ function main() {
   var ctx = document.getElementById("holdingChart").getContext('2d');
   var data = {
     datasets: [{
-      data: [25, 20, 20, 20, 13, 2],
+      data: [49.6, 14.88, 14.88, 12.4, 3.72, 3.72, 0.8],
       backgroundColor: [
         'rgb(255, 205, 86)',  // yellow
         'rgb(255, 159, 64)',  // orange
@@ -98,6 +98,7 @@ function main() {
         'rgb(153, 102, 255)', // purple
         'rgb(54, 162, 235)',  // blue
         'rgb(75, 192, 192)',  // green
+        'rgb(201, 203, 207)', // grey
       ],
       borderColor: [
         'rgb(255, 205, 86)',  // yellow
@@ -106,16 +107,18 @@ function main() {
         'rgb(153, 102, 255)', // purple
         'rgb(54, 162, 235)',  // blue
         'rgb(75, 192, 192)',  // green
+        'rgb(201, 203, 207)', // grey
       ],
       label: 'Dataset 1'
     }],
     labels: [
-      'ヌクモリティ',
-      '再うｐ',
-      '開発費',
-      'マーケティング費',
+      'Pos',
+      '開発',
+      'マーケティング',
+      'ﾇｸﾓﾘﾃｨ',
       'うｐ',
-      '運営チーム',
+      '運営',
+      'Pow',
     ],
   };
   var options = {
