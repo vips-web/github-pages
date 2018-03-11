@@ -272,9 +272,11 @@ hr {
 	border-radius: 100%;
 	text-align: center;
 	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 20px;
 	font-size: 14px;
 	text-transform: uppercase;
 }
@@ -711,7 +713,6 @@ header .intro-text {
 	margin-left: -50px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 32px;
 	line-height: 18px;
 	font-weight: 400;
 }
@@ -738,7 +739,6 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 50px;
 	font-size: 18px;
 	line-height: 26px;
 }
@@ -760,7 +760,6 @@ header .intro-text {
 	margin-left: -75px;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 45px;
 	font-weight: 400;
 }
 .timeline>li.timeline-inverted>.timeline-panel {
