@@ -24,6 +24,14 @@ function main() {
     }
   });
 
+  $('.navbar-toggle').on('click', function() {
+    $('.timeline .timeline-panel').show();
+  });
+
+  $('.navbar-nav .page-scroll').on('click', function() {
+    $('.navbar-collapse').collapse('hide');
+  });
+
   // Portfolio isotope filter
   $(window).load(function() {
     var $container = $('.news-items');
