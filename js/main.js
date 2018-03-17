@@ -24,24 +24,12 @@ function main() {
     }
   });
 
-  // skills chart
-  $(document).ready(function(e) {
-    var index=0;
-    $(document).scroll(function(){
-      var top = $('#skills').height()-$(window).scrollTop();
-      if(top<-300){
-        if(index==0){
+  $('.navbar-toggle').on('click', function() {
+    $('.timeline .timeline-panel').show();
+  });
 
-          $('.chart').easyPieChart({
-            easing: 'easeOutBounce',
-            onStep: function(from, to, percent) {
-              $(this.el).find('.percent').text(Math.round(percent));
-            }
-          });
-        }
-        index++;
-      }
-    })
+  $('.navbar-nav .page-scroll').on('click', function() {
+    $('.navbar-collapse').collapse('hide');
   });
 
   // Portfolio isotope filter
@@ -81,9 +69,19 @@ function main() {
     }
   });
 
-  // Pretty Photo
-  $("a[rel^='prettyPhoto']").prettyPhoto({
-    social_tools: false
+  // アニメーション
+  $('.js_about-img').on('inview', function() {
+      $(this).css('transform', 'rotateY(360deg)');
+  });
+
+  $('.timeline li').each(function(i, line){
+    $(line).on('inview', function() {
+      $(line).find('.timeline-panel').slideDown();
+    });
+  });
+
+  $('.js_wallet-img').on('inview', function() {
+      $(this).css('transform', 'rotateZ(360deg)');
   });
 
   // Chart
@@ -109,7 +107,6 @@ function main() {
         'rgb(75, 192, 192)',  // green
         'rgb(201, 203, 207)', // grey
       ],
-      label: 'Dataset 1'
     }],
     labels: [
       'Pos',
@@ -133,6 +130,10 @@ function main() {
       animateScale: false,
       animateRotate: true,
       easing: "easeInOutQuart",
+    },
+    tooltips: {
+      backgroundColor: 'rgb(0, 0, 0)',
+      displayColors: false,
     },
   };
 

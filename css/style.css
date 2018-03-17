@@ -4,6 +4,7 @@ body, html {
 	-webkit-font-smoothing: antialiased !important;
 	width: 100% !important;
 	height: 100% !important;
+	color: #000;
 }
 h1 {
 	font-weight: 700;
@@ -97,12 +98,13 @@ hr {
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
 }
-.navbar-custom .navbar-brand .navbar-toggle {
+.navbar-custom .navbar-toggle {
 	padding: 4px 6px;
 	font-size: 16px;
 	color: #fff;
 }
-.navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
+.navbar-custom .navbar-toggle:focus,
+.navbar-custom .navbar-toggle:active {
 	outline: 0;
 }
 .navbar-custom a {
@@ -200,11 +202,16 @@ hr {
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
+	margin-bottom: 20px;
 	display: inline-block;
+	transition-duration: 1s;
 }
 #about p {
 	margin-top: 20px;
 	margin-bottom: 30px;
+}
+#about .btn {
+	margin-top: 20px;
 }
 /* Roadmap Section */
 #roadmap {
@@ -316,6 +323,9 @@ hr {
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
 }
+.timeline .timeline-panel {
+	display: none;
+}
 /* Holding Section */
 #holding {
 	padding: 100px 0;
@@ -360,7 +370,9 @@ hr {
 }
 #holding .holding-chart .holding-total {
 	position: relative;
+	width: 80px;
 	top: -120px;
+	left: 60px;
 	font-weight: bold;
 }
 /* Wallet Section */
@@ -408,6 +420,7 @@ hr {
 	width: 200px;
 	height: 200px;
 	display: inline-block;
+	transition-duration: 1s;
 }
 #wallet p {
 	margin-top: 20px;
@@ -700,7 +713,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer {
 	background: #000;
 	color: #fff;
-	padding: 30px 0 25px 0;
+	padding: 15px 0 7px 0;
 }
 #footer p {
 	font-size: 13px;
