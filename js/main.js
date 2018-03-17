@@ -66,6 +66,12 @@ function main() {
     social_tools: false
   });
 
+  $('.timeline li').each(function(i, line){
+    $(line).on('inview', function() {
+      $(line).find('.timeline-panel').slideDown();
+    });
+  });
+
   // Chart
   var ctx = document.getElementById("holdingChart").getContext('2d');
   var data = {
@@ -118,6 +124,7 @@ function main() {
       displayColors: false,
     },
   };
+
   var $holdingChart = $('#holdingChart');
   $holdingChart.on('inview', function() {
     var myDoughnutChart = new Chart(ctx, {

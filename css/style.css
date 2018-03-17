@@ -317,6 +317,9 @@ hr {
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
 }
+.timeline .timeline-panel {
+	display: none;
+}
 /* Holding Section */
 #holding {
 	padding: 100px 0;
