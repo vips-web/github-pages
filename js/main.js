@@ -24,26 +24,6 @@ function main() {
     }
   });
 
-  // skills chart
-  $(document).ready(function(e) {
-    var index=0;
-    $(document).scroll(function(){
-      var top = $('#skills').height()-$(window).scrollTop();
-      if(top<-300){
-        if(index==0){
-
-          $('.chart').easyPieChart({
-            easing: 'easeOutBounce',
-            onStep: function(from, to, percent) {
-              $(this.el).find('.percent').text(Math.round(percent));
-            }
-          });
-        }
-        index++;
-      }
-    })
-  });
-
   // Portfolio isotope filter
   $(window).load(function() {
     var $container = $('.news-items');
@@ -109,7 +89,6 @@ function main() {
         'rgb(75, 192, 192)',  // green
         'rgb(201, 203, 207)', // grey
       ],
-      label: 'Dataset 1'
     }],
     labels: [
       'Pos',
@@ -134,8 +113,11 @@ function main() {
       animateRotate: true,
       easing: "easeInOutQuart",
     },
+    tooltips: {
+      backgroundColor: 'rgb(0, 0, 0)',
+      displayColors: false,
+    },
   };
-
   var $holdingChart = $('#holdingChart');
   $holdingChart.on('inview', function() {
     var myDoughnutChart = new Chart(ctx, {
