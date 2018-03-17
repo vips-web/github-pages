@@ -77,6 +77,10 @@ function main() {
     });
   });
 
+  $('.js_wallet-img').on('inview', function() {
+      $(this).css('transform', 'rotateZ(360deg)');
+  });
+
   // Chart
   var ctx = document.getElementById("holdingChart").getContext('2d');
   var data = {
