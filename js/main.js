@@ -66,6 +66,11 @@ function main() {
     social_tools: false
   });
 
+  // アニメーション
+  $('.js_about-img').on('inview', function() {
+      $(this).css('transform', 'rotateY(360deg)');
+  });
+
   $('.timeline li').each(function(i, line){
     $(line).on('inview', function() {
       $(line).find('.timeline-panel').slideDown();

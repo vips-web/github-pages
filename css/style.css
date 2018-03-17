@@ -202,6 +202,7 @@ hr {
 	width: 200px;
 	height: 200px;
 	display: inline-block;
+	transition-duration: 1s;
 }
 #about p {
 	margin-top: 20px;
