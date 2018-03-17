@@ -61,11 +61,6 @@ function main() {
     }
   });
 
-  // Pretty Photo
-  $("a[rel^='prettyPhoto']").prettyPhoto({
-    social_tools: false
-  });
-
   // アニメーション
   $('.js_about-img').on('inview', function() {
       $(this).css('transform', 'rotateY(360deg)');
