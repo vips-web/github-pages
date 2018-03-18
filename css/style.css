@@ -222,16 +222,16 @@ hr {
 	color: #ffc000;
 	text-decoration: underline;
 }
-#about .btn {
-	margin-top: 20px;
+#about .bl_about-button {
+	margin: 60px 0 10px;
 }
-#about .modal-body p {
+#qaModal .modal-body p {
 	margin: 20px 0 0;
 }
-#about .modal-body p:first-child {
+#qaModal .modal-body p:first-child {
 	margin: 0;
 }
-#about .modal-body p span {
+#qaModal .modal-body p span {
 	display: inline-block;
 	text-indent: -20px;
 	margin-left: 20px;
@@ -751,15 +751,21 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	padding: 10px 20px;
 	border: 0;
 	border-radius: 4px;
+	font-size: 16px;
 }
-.button.button-black {
+.button.button-bw,
+.button.button-by {
 	color: #fff;
 	background-color: #000;
 	border: 1px solid #000;
 }
-.button.button-black:hover {
+.button.button-bw:hover {
 	color: #000;
 	background-color: #fff;
+}
+.button.button-by:hover {
+	background-color: #ffc000;
+	border: 1px solid #ffc000;
 }
 /* Media Queries */
 @media(min-width:768px) {
