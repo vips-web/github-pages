@@ -397,26 +397,13 @@ hr {
 	color: #000;
 }
 #wallet .wallet-swap {
-	margin-top: 100px;
+	margin-top: 50px;
+	text-align: center;
 }
 #wallet .wallet-swap .wallet-swap-title-b {
-	text-align: center;
 	color: #fff;
-	margin: 0 0 20px;
-}
-#wallet .wallet-swap .wallet-swap-title {
-	margin: 0 0 10px;
-	text-align: center;
 	font-weight: bold;
-	color: #000;
-}
-#wallet .wallet-swap .wallet-swap-text {
-	text-indent: -15px;
-	margin: 0 0 10px 15px;
-	color: #fff;
-}
-#wallet .wallet-swap .wallet-swap-text .wallet-swap-text-q {
-	color: #000;
+	margin: 0 0 20px;
 }
 #wallet img {
 	border-radius: 50%;
@@ -727,7 +714,33 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer a:hover {
 	color: #ffc000;
 }
-
+/* Modal */
+.modal {
+	margin-top: 50px;
+	text-align: left;
+}
+.modal .modal-text {
+	text-indent: -15px;
+	margin: 15px 0 0 15px !important;
+}
+.modal .modal-text:first-child {
+	margin: 0 0 0 15px !important;
+}
+/* Button */
+.button {
+	padding: 10px 20px;
+	border: 0;
+	border-radius: 4px;
+}
+.button.button-black {
+	color: #fff;
+	background-color: #000;
+	border: 1px solid #000;
+}
+.button.button-black:hover {
+	color: #000;
+	background-color: #fff;
+}
 /* Media Queries */
 @media(min-width:768px) {
 .intro {
