@@ -213,8 +213,28 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+#about .about-qa {
+	color: #ffc000;
+	font-weight: bold;
+}
+#about .about-qa:hover,
+#about .about-qa:focus {
+	color: #ffc000;
+	text-decoration: underline;
+}
 #about .btn {
 	margin-top: 20px;
+}
+#about .modal-body p {
+	margin: 20px 0 0;
+}
+#about .modal-body p:first-child {
+	margin: 0;
+}
+#about .modal-body p span {
+	display: inline-block;
+	text-indent: -20px;
+	margin-left: 20px;
 }
 /* Roadmap Section */
 #roadmap {
