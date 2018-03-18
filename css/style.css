@@ -172,6 +172,9 @@ hr {
 .header .header-image {
 	width: 100%;
 }
+.header.affix-affected {
+	margin-bottom: 52px;
+}
 .intro {
 	display: table;
 	width: 100%;
@@ -210,8 +213,28 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
-#about .btn {
-	margin-top: 20px;
+#about .about-qa {
+	color: #ffc000;
+	font-weight: bold;
+}
+#about .about-qa:hover,
+#about .about-qa:focus {
+	color: #ffc000;
+	text-decoration: underline;
+}
+#about .bl_about-button {
+	margin: 60px 0 10px;
+}
+#qaModal .modal-body p {
+	margin: 20px 0 0;
+}
+#qaModal .modal-body p:first-child {
+	margin: 0;
+}
+#qaModal .modal-body p span {
+	display: inline-block;
+	text-indent: -20px;
+	margin-left: 20px;
 }
 /* Roadmap Section */
 #roadmap {
@@ -394,26 +417,13 @@ hr {
 	color: #000;
 }
 #wallet .wallet-swap {
-	margin-top: 100px;
+	margin-top: 50px;
+	text-align: center;
 }
 #wallet .wallet-swap .wallet-swap-title-b {
-	text-align: center;
 	color: #fff;
-	margin: 0 0 20px;
-}
-#wallet .wallet-swap .wallet-swap-title {
-	margin: 0 0 10px;
-	text-align: center;
 	font-weight: bold;
-	color: #000;
-}
-#wallet .wallet-swap .wallet-swap-text {
-	text-indent: -15px;
-	margin: 0 0 10px 15px;
-	color: #fff;
-}
-#wallet .wallet-swap .wallet-swap-text .wallet-swap-text-q {
-	color: #000;
+	margin: 0 0 20px;
 }
 #wallet img {
 	border-radius: 50%;
@@ -724,7 +734,39 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer a:hover {
 	color: #ffc000;
 }
-
+/* Modal */
+.modal {
+	margin-top: 50px;
+	text-align: left;
+}
+.modal .modal-text {
+	text-indent: -15px;
+	margin: 15px 0 0 15px !important;
+}
+.modal .modal-text:first-child {
+	margin: 0 0 0 15px !important;
+}
+/* Button */
+.button {
+	padding: 10px 20px;
+	border: 0;
+	border-radius: 4px;
+	font-size: 16px;
+}
+.button.button-bw,
+.button.button-by {
+	color: #fff;
+	background-color: #000;
+	border: 1px solid #000;
+}
+.button.button-bw:hover {
+	color: #000;
+	background-color: #fff;
+}
+.button.button-by:hover {
+	background-color: #ffc000;
+	border: 1px solid #ffc000;
+}
 /* Media Queries */
 @media(min-width:768px) {
 .intro {
