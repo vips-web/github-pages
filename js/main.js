@@ -94,7 +94,13 @@ function main() {
   var ctx = document.getElementById("holdingChart").getContext('2d');
   var data = {
     datasets: [{
-      data: [49.6, 14.88, 14.88, 12.4, 3.72, 3.72, 0.8],
+      data: [
+        44,
+        19,
+        19,
+        15,
+        3,
+      ],
       backgroundColor: [
         'rgb(255, 205, 86)',  // yellow
         'rgb(255, 159, 64)',  // orange
@@ -115,13 +121,11 @@ function main() {
       ],
     }],
     labels: [
-      'Pos',
+      'うｐ',
       '開発',
       'マーケティング',
       'ﾇｸﾓﾘﾃｨ',
-      'うｐ',
       '運営',
-      'Pow',
     ],
   };
   var options = {
