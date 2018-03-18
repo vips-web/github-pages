@@ -23,6 +23,12 @@ function main() {
       top: $('header').height()
     }
   });
+  $('#nav').on('affixed.bs.affix', function() {
+    $('.header').addClass('affix-affected');
+  });
+  $('#nav').on('affixed-top.bs.affix', function() {
+    $('.header').removeClass('affix-affected');
+  });
 
   $('.navbar-toggle').on('click', function() {
     $('.timeline .timeline-panel').show();

@@ -172,6 +172,9 @@ hr {
 .header .header-image {
 	width: 100%;
 }
+.header.affix-affected {
+	margin-bottom: 52px;
+}
 .intro {
 	display: table;
 	width: 100%;
