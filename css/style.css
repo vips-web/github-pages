@@ -734,6 +734,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer a:hover {
 	color: #ffc000;
 }
+#footer .addthis_inline_share_toolbox {
+	margin-bottom: 10px;
+}
 /* Modal */
 .modal {
 	margin-top: 50px;
