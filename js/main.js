@@ -10,8 +10,8 @@ function main() {
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {
         $('html,body').animate({
-          scrollTop: target.offset().top - 40
-        }, 900);
+          scrollTop: target.offset().top
+        }, 500);
         return false;
       }
     }
@@ -44,7 +44,7 @@ function main() {
     $container.isotope({
       filter: '*',
       animationOptions: {
-        duration: 750,
+        duration: 500,
         easing: 'linear',
         queue: false
       }
@@ -56,7 +56,7 @@ function main() {
       $container.isotope({
         filter: selector,
         animationOptions: {
-          duration: 750,
+          duration: 500,
           easing: 'linear',
           queue: false
         }
@@ -70,7 +70,7 @@ function main() {
     if($("span.count").length > 0){
       $('span.count').counterUp({
         delay: 10, // the delay time in ms
-        time: 1500 // the speed time in ms
+        time: 1000 // the speed time in ms
       });
     }
   });
