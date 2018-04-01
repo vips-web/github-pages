@@ -42,7 +42,7 @@ function main() {
   $(window).load(function() {
     var $container = $('.news-items');
     $container.isotope({
-      filter: '*',
+      filter: '.new',
       animationOptions: {
         duration: 500,
         easing: 'linear',
@@ -77,7 +77,7 @@ function main() {
 
   // アニメーション
   $('.js_about-img').on('inview', function() {
-      $(this).css('transform', 'rotateY(360deg)');
+    $(this).css('transform', 'rotateY(360deg)');
   });
 
   $('.timeline li').each(function(i, line){
@@ -87,8 +87,16 @@ function main() {
   });
 
   $('.js_wallet-img').on('inview', function() {
-      $(this).css('transform', 'rotateZ(360deg)');
+    $(this).css('transform', 'rotateZ(360deg)');
   });
+
+  // モーダル表示時シェアボタン非表示
+  $('.modal').on('show.bs.modal', function () {
+    $('.at-expanding-share-button').hide();
+  })
+  $('.modal').on('hide.bs.modal', function () {
+    $('.at-expanding-share-button').show();
+  })
 
   // Chart
   var ctx = document.getElementById("holdingChart").getContext('2d');
