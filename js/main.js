@@ -103,11 +103,11 @@ function main() {
   var data = {
     datasets: [{
       data: [
-        44,
-        19,
-        19,
-        15,
-        3,
+        33,
+        20,
+        20,
+        16,
+        10,
       ],
       backgroundColor: [
         'rgb(255, 205, 86)',  // yellow

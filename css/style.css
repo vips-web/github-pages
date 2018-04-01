@@ -355,7 +355,6 @@ hr {
 	background: #fff;
 }
 #holding .holding-text {
-	margin-bottom: 20px;
 	text-align: left;
 	padding: 0 10px;
 }
@@ -382,6 +381,10 @@ hr {
 }
 #holding .holding-text .holding-grey {
 	color: rgb(201, 203, 207);
+}
+#holding .holding-attention {
+	margin-top: 50px;
+	font-size: 16px;
 }
 #holding .holding-header {
 	font-size: 16px;
