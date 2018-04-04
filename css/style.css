@@ -245,6 +245,10 @@ hr {
 #roadmap hr {
 	background: #fff;
 }
+#roadmap .roadmap-desc {
+	color: #000;
+	margin-bottom: 50px;
+}
 .timeline {
 	position: relative;
 	padding: 0;
