@@ -197,6 +197,35 @@ hr {
 	padding: 100px 0;
 	background: #fff;
 }
+#about .dropdown {
+	position: relative;
+	left: 50%;
+	width: 200px;
+	margin-left: -92px;
+	margin-bottom: 75px;
+}
+#about .dropdown .dropdown-menu {
+	font-size: 16px;
+	width: 183px;
+}
+#about .dropdown .fa-check {
+	color: #ffa000;
+	margin-left: 10px;
+}
+#about .dropdown .fa-language {
+	font-size: 26px;
+	vertical-align: -4px;
+	margin-right: 10px;
+}
+#about .dropdown .dropdown-menu > li.selected {
+	display: block;
+	padding: 3px 20px;
+	clear: both;
+	font-weight: 400;
+	line-height: 1.43;
+	color: #333;
+	white-space: nowrap;
+}
 #about .about-text {
 	text-align: center;
 	font-size: 16px;
@@ -244,6 +273,10 @@ hr {
 }
 #roadmap hr {
 	background: #fff;
+}
+#roadmap .roadmap-desc {
+	color: #000;
+	margin-bottom: 50px;
 }
 .timeline {
 	position: relative;
