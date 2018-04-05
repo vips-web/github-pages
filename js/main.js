@@ -100,6 +100,11 @@ function main() {
 
   // Chart
   var ctx = document.getElementById("holdingChart").getContext('2d');
+  var label_1 = $('.js_ctx-label-1').val();
+  var label_2 = $('.js_ctx-label-2').val();
+  var label_3 = $('.js_ctx-label-3').val();
+  var label_4 = $('.js_ctx-label-4').val();
+  var label_5 = $('.js_ctx-label-5').val();
   var data = {
     datasets: [{
       data: [
@@ -129,11 +134,11 @@ function main() {
       ],
     }],
     labels: [
-      'うｐ',
-      '開発',
-      'マーケティング',
-      'ﾇｸﾓﾘﾃｨ',
-      '運営',
+      label_1,
+      label_2,
+      label_3,
+      label_4,
+      label_5,
     ],
   };
   var options = {
