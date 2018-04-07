@@ -1,4 +1,5 @@
 <?php require_once('../controller.php'); ?>
+<?php $lang = 'en'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -19,7 +20,7 @@
     <?php require_once('../common/news.php'); ?>
     <?php require_once('../common/community.php'); ?>
     <?php require_once('../common/contact.php'); ?>
-    <?php require_once('./footer.php'); ?>
+    <?php require_once('../common/footer.php'); ?>
     <?php require_once('../common/script.php'); ?>
   </body>
 </html>
