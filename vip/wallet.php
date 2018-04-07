@@ -7,6 +7,11 @@
     </div>
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
+        <div class="wallet-button">
+          <a href="<?php echo URL; ?>/download/vipstar_for_mac.zip">
+            <img src="<?php echo URL; ?>/img/wallet-mac.png" alt="" width="161" height="51">
+          </a>
+        </div>
         <div class="wallet-swap">
           <p class="wallet-swap-title-b">（　＾ω＾）旧VIPS(イーサリアムトークン)を独自通貨にスワップするお！乞うご期待お！</p>
           <button type="button" class="button button-bw" data-toggle="modal" data-target="#walletModal">
