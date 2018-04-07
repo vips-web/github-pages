@@ -442,6 +442,9 @@ hr {
 #wallet hr {
 	background: #fff;
 }
+#wallet .wallet-button {
+	text-align: center;
+}
 #wallet .wallet-text {
 	margin-top: 50px;
 	text-align: center;
@@ -460,13 +463,6 @@ hr {
 	color: #fff;
 	font-weight: bold;
 	margin: 0 0 20px;
-}
-#wallet img {
-	border-radius: 50%;
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	transition-duration: 1s;
 }
 #wallet p {
 	margin-top: 20px;
