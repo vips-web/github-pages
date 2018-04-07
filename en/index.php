@@ -1,3 +1,4 @@
+<?php require_once('../controller.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,13 +21,13 @@
 
 <!-- Favicons
     ================================================== -->
-<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
-<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="shortcut icon" href="<?php echo URL; ?>/img/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="<?php echo URL; ?>/img/apple-touch-icon.png">
 
 <meta property="og:title" content="VIPSTARCOIN">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://vipstar.sakura.ne.jp/en">
-<meta property="og:image" content="https://vipstar.sakura.ne.jp/img/og-image.jpg">
+<meta property="og:url" content="<?php echo URL; ?>/en">
+<meta property="og:image" content="<?php echo URL; ?>/img/og-image.jpg">
 <meta property="og:site_name" content="VIPSTARCOIN">
 <meta property="og:description"
       content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5chnnel, the largest Japanese textboards.">
@@ -40,8 +41,8 @@
 <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
 <!-- Stylesheet
     ================================================== -->
-<link rel="stylesheet" type="text/css"  href="/css/style.css">
-<link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css"  href="<?php echo URL; ?>/css/style.css">
+<link rel="stylesheet" type="text/css" href="<?php echo URL; ?>/css/prettyPhoto.css">
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -54,7 +55,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <!-- Header -->
 <header id="header" class="header">
-  <img src="/img/header.jpg" alt="VIPSTAR" class="header-image">
+  <img src="<?php echo URL; ?>/img/header.jpg" alt="VIPSTAR" class="header-image">
 </header>
 <!-- Navigation -->
 <div id="nav">
@@ -95,8 +96,8 @@
       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
         <li class="selected">English<i class="fas fa-check"></i></li>
         <li role="separator" class="divider"></li>
-        <li><a href="/">日本語</a></li>
-        <li><a href="/vip">VIP</a></li>
+        <li><a href="<?php echo URL; ?>/">日本語</a></li>
+        <li><a href="<?php echo URL; ?>/vip/">VIP</a></li>
       </ul>
     </div>
 
@@ -105,7 +106,7 @@
       <hr>
     </div>
     <div class="row">
-      <div class="col-md-12 text-center"><img src="/img/about.jpg" class="js_about-img img-responsive"></div>
+      <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
         <p>VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5chnnel, the largest Japanese textboards.</p>
@@ -469,7 +470,7 @@
                   <small>2018/04/01<br>（エイプリルフール）</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-april-fool-2018.jpg" alt="VIPSガールズアニメ化決定！">
+                  <img src="<?php echo URL; ?>/img/news/other-april-fool-2018.jpg" alt="VIPSガールズアニメ化決定！">
                 </div>
               </a>
             </div>
@@ -484,7 +485,7 @@
                   <small>2018/03/26</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-chara-sheet.png" alt="公式キャラクター設定画公開">
+                  <img src="<?php echo URL; ?>/img/news/other-chara-sheet.png" alt="公式キャラクター設定画公開">
                 </div>
               </a>
             </div>
@@ -499,7 +500,7 @@
                   <small>2018/03/20</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-skn.png" alt="独自通貨動作テスト (SIKEN)">
+                  <img src="<?php echo URL; ?>/img/news/develop-skn.png" alt="独自通貨動作テスト (SIKEN)">
                 </div>
               </a>
             </div>
@@ -514,7 +515,7 @@
                   <small>2018/03/18</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-chara-result.png" alt="公式キャラクターコンテスト結果発表">
+                  <img src="<?php echo URL; ?>/img/news/event-chara-result.png" alt="公式キャラクターコンテスト結果発表">
                 </div>
               </a>
             </div>
@@ -529,7 +530,7 @@
                   <small>2018/03/14</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-ryugoroshi.jpg" alt="提携ゲーム「竜殺しの物語」リリース">
+                  <img src="<?php echo URL; ?>/img/news/other-ryugoroshi.jpg" alt="提携ゲーム「竜殺しの物語」リリース">
                 </div>
               </a>
             </div>
@@ -544,7 +545,7 @@
                   <small>2018/03/09</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-ttt.png" alt="独自通貨動作テスト (TESTSTAR)">
+                  <img src="<?php echo URL; ?>/img/news/develop-ttt.png" alt="独自通貨動作テスト (TESTSTAR)">
                 </div>
               </a>
             </div>
@@ -559,7 +560,7 @@
                   <small>2018/02/26</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-chara.jpeg" alt="VIP☆STAR 公式キャラクターコンテスト">
+                  <img src="<?php echo URL; ?>/img/news/event-chara.jpeg" alt="VIP☆STAR 公式キャラクターコンテスト">
                 </div>
               </a>
             </div>
@@ -574,7 +575,7 @@
                   <small>2018/02/19</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-icon.jpg" alt="VIP☆STAR コインアイコンコンテスト">
+                  <img src="<?php echo URL; ?>/img/news/event-icon.jpg" alt="VIP☆STAR コインアイコンコンテスト">
                 </div>
               </a>
             </div>
@@ -589,7 +590,7 @@
                   <small>2018/02/17</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-init.png" alt="VIP☆STAR 発行">
+                  <img src="<?php echo URL; ?>/img/news/develop-init.png" alt="VIP☆STAR 発行">
                 </div>
               </a>
             </div>
@@ -679,11 +680,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"
         integrity="sha256-XF29CBwU1MWLaGEnsELogU6Y6rcc5nCkhhx89nFMIDQ="
         crossorigin="anonymous"></script>
-<script type="text/javascript" src="/js/jquery.isotope.js"></script>
-<script type="text/javascript" src="/js/jquery.counterup.js"></script>
-<script type="text/javascript" src="/js/waypoints.js"></script>
-<script type="text/javascript" src="/js/jquery.inview.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.isotope.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.counterup.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/waypoints.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.inview.min.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/main.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
 </body>
 </html>

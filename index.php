@@ -1,3 +1,4 @@
+<?php require_once('./controller.php'); ?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -15,21 +16,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>VIPSTARCOIN</title>
 <meta name="description"
-      content="VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗVIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ">
+      content="VIPSTARCOIN(VIPS)は5ちゃんねるニュー速VIP板発祥の仮想通貨です。国産仮想通貨として多目的に利用されること、ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。強いコミュニティの力で運営し、盛り上げていきます。">
 <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨">
 
 <!-- Favicons
     ================================================== -->
-<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
-<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="shortcut icon" href="<?php echo URL; ?>/img/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="<?php echo URL; ?>/img/apple-touch-icon.png">
 
 <meta property="og:title" content="VIPSTARCOIN">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.vipstarcoin.jp/vip">
-<meta property="og:image" content="https://www.vipstarcoin.jp/img/og-image.jpg">
+<meta property="og:url" content="<?php echo URL; ?>/">
+<meta property="og:image" content="<?php echo URL; ?>/img/og-image.jpg">
 <meta property="og:site_name" content="VIPSTARCOIN">
 <meta property="og:description"
-      content="VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗVIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ">
+      content="VIPSTARCOIN(VIPS)は5ちゃんねるニュー速VIP板発祥の仮想通貨です。国産仮想通貨として多目的に利用されること、ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。強いコミュニティの力で運営し、盛り上げていきます。">
 <meta name="twitter:card" content="summary_large_image">
 
 <!-- Bootstrap -->
@@ -40,8 +41,8 @@
 <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
 <!-- Stylesheet
     ================================================== -->
-<link rel="stylesheet" type="text/css"  href="/css/style.css">
-<link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css"  href="<?php echo URL; ?>/css/style.css">
+<link rel="stylesheet" type="text/css" href="<?php echo URL; ?>/css/prettyPhoto.css">
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -54,7 +55,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <!-- Header -->
 <header id="header" class="header">
-  <img src="/img/header.jpg" alt="VIPSTAR" class="header-image">
+  <img src="<?php echo URL; ?>/img/header.jpg" alt="VIPSTAR" class="header-image">
 </header>
 <!-- Navigation -->
 <div id="nav">
@@ -93,10 +94,10 @@
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        <li class="selected">VIP<i class="fas fa-check"></i></li>
+        <li class="selected">日本語<i class="fas fa-check"></i></li>
         <li role="separator" class="divider"></li>
-        <li><a href="/">日本語</a></li>
-        <li><a href="/en">English</a></li>
+        <li><a href="<?php echo URL; ?>/vip/">VIP</a></li>
+        <li><a href="<?php echo URL; ?>/en/">English</a></li>
       </ul>
     </div>
 
@@ -105,12 +106,12 @@
       <hr>
     </div>
     <div class="row">
-      <div class="col-md-12 text-center"><img src="/img/about.jpg" class="js_about-img img-responsive"></div>
+      <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-          <p>VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗ</p>
-          <p>VIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ</p>
-          <p>（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ</p>
+          <p>VIPSTARCOIN (VIPS) は5ちゃんねるニュー速VIP板発祥の仮想通貨です。</p>
+          <p>国産仮想通貨として多目的に利用されること、<br>ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。</p>
+          <p>強いコミュニティの力で運営し、盛り上げていきます。</p>
           <p><a href="#" class="about-qa" data-toggle="modal" data-target="#qaModal">【超初心者用】仮想通貨って何？Q＆A&nbsp;&nbsp;<i class="far fa-window-restore"></i></a></p>
           <p class="bl_about-button text-center">
             <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">VIPS 6つのポイント&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
@@ -276,8 +277,8 @@
               <div class="timeline-body">
                 <p>VIPSを使用したソーシャルゲームアプリケーションの委託開発開始</p>
                 <p>VIPSを利用したフリーマーケットサービスローンチ</p>
-                <p>ジムと商談し正式な5chコインを目指す</p>
-                <p>VIPSを払わないと見れない仕組みのうｐロダ開発開始</p>
+                <p>ジム（5ちゃんねる管理人）と商談し正式な5chコインを目指す</p>
+                <p>VIPSを払わないと見れない仕組みのアップローダー開発開始</p>
                 <p>ワールドワイドヌクモリティ計画のためのアプリ制作</p>
               </div>
             </div>
@@ -293,8 +294,8 @@
               <div class="timeline-body">
                 <p>VIPSでオリンピック寄付</p>
                 <p>VIPSで全世界の被災に寄付</p>
-                <p>うｐロダ完成サービスローンチ</p>
-                <p>ソシャゲ完成サービスローンチ</p>
+                <p>アップローダー完成サービスローンチ</p>
+                <p>ソーシャルゲーム完成サービスローンチ</p>
                 <p>ワールドワイドヌクモリティアプリβ版開発完了</p>
               </div>
             </div>
@@ -309,9 +310,9 @@
               </div>
               <div class="timeline-body">
                 <p>ワールドワイドヌクモリティとは</p>
-                <p>世界の被災情報を自動で取得して寄付すべき場所(VIPSウォレット持ちの団体)を提示してくれるシステムだお</p>
-                <p>ワンプッシュでヌクモリティ支援できるVIPPER大喜びのシステムおｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ</p>
-                <p>法定通貨だと送金時間などの問題が発生するけおVIPSならすぐ届くしVIPSでお買い物できるインフラが整っていれば十分な支援が望めるお</p>
+                <p>世界の被災情報を自動で取得して寄付すべき場所(VIPSウォレットを持つ団体)を提示してくれるシステムです</p>
+                <p>ワンプッシュでかんたんに支援することができます</p>
+                <p>法定通貨だと送金時間などの問題が発生しますが、VIPSならすぐ届き、VIPSで買い物をできるインフラが整っていれば十分な支援が望めます</p>
                 </p>
               </div>
             </div>
@@ -338,21 +339,21 @@
         <p class="holding-total">発行数<br>600億枚</p>
       </div>
       <div class="col-md-5 col-sm-5 col-md-offset-5 holding-text">
-        <p><span class="holding-yellow">■</span> うｐ(上場時販売)：33%</p>
+        <p><span class="holding-yellow">■</span> 上場時販売：33%</p>
         <p><span class="holding-orange">■</span> 開発：20%</p>
         <p><span class="holding-red">■</span> マーケティング：20%</p>
-        <p><span class="holding-purple">■</span> ﾇｸﾓﾘﾃｨ(各種媒体での配布)：16%</p>
+        <p><span class="holding-purple">■</span> 各種媒体での配布：16%</p>
         <p><span class="holding-blue">■</span> 運営：10%</p>
       </div>
-      <input type="hidden" class="js_ctx-label-1" value="うｐ">
+      <input type="hidden" class="js_ctx-label-1" value="上場時販売">
       <input type="hidden" class="js_ctx-label-2" value="開発">
       <input type="hidden" class="js_ctx-label-3" value="マーケティング">
-      <input type="hidden" class="js_ctx-label-4" value="ﾇｸﾓﾘﾃｨ">
+      <input type="hidden" class="js_ctx-label-4" value="各種媒体での配布">
       <input type="hidden" class="js_ctx-label-5" value="運営">
       <div class="col-md-12 col-sm-12">
         <p>（小数点以下略）</p>
         <p class="holding-attention">
-          <b>うｐ</b>
+          <b>上場時販売</b>
         </p>
         <p>
           200億枚<br>
@@ -394,7 +395,7 @@
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div class="wallet-swap">
-          <p class="wallet-swap-title-b">（　＾ω＾）旧VIPS(イーサリアムトークン)を独自通貨にスワップするお！乞うご期待お！</p>
+          <p class="wallet-swap-title-b">旧VIPS(イーサリアムトークン)を独自通貨にスワップします。ご期待ください。</p>
           <button type="button" class="button button-bw" data-toggle="modal" data-target="#walletModal">
             スワップの約束&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </button>
@@ -408,20 +409,20 @@
                 </div>
                 <div class="modal-body">
                   <p class="modal-text">
-                    <span>1. 500億枚から600億枚に発行数増えてんじゃねえか！</span><br>
-                    <span><b>（　＾ω＾）うはｗｗｗｗｗｗｗ1.2倍スワップしてやんおｗｗｗｗｗｗｗｗｗｗｗ</b></span>
+                    <span>1. 500億枚から600億枚に発行数が増えていますが？</span><br>
+                    <span><b>1.2倍に増量してスワップを行います。</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>2. 端数が出るけど・・・・</span><br>
-                    <span><b>（　＾ω＾）繰り上げるお！！</b></span>
+                    <span>2. 端数はどうなりますか？</span><br>
+                    <span><b>端数は繰り上げます。</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>3. は？1.2倍にしてくれるの？しかも端数繰り上げ？PoS貰えないとか罠ある？・・・・</span><br>
-                    <span><b>（　＾ω＾）PoS年利ちゃんと貰えるから持っとけおｗｗｗっうぇｗｗｗっうぇｗｗｗｗｗｗｗｗ</b></span>
+                    <span>3. スワップされた分はPoSを貰えないなど制限はありますか？</span><br>
+                    <span><b>いいえ。PoSも貰うことができます。</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>4. 俺スマホしかないからスワップしてもらえないよな・・・</span><br>
-                    <span><b>（　＾ω＾）本当はダメなんだけお特別にCE上場したら送ってあげるお！上場してしばらくしてからになると思うし、1.2倍ボーナスもないからパソコン買ってくることをオヌヌメするけお！</b></span>
+                    <span>4. スマートフォンしか持っていませんが、スワップを受け取ることはできますか？</span><br>
+                    <span><b>CoinExchange上場後に送金する特別措置を用意します。ただし、行うのは上場後しばらく経ってからになり、1.2倍の増量も行わないため、パソコンを用意することをおすすめします。</b></span>
                   </p>
                 </div>
                 <div class="modal-footer">
@@ -467,7 +468,7 @@
                   <small>2018/04/01<br>（エイプリルフール）</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-april-fool-2018.jpg" alt="VIPSガールズアニメ化決定！">
+                  <img src="<?php echo URL; ?>/img/news/other-april-fool-2018.jpg" alt="VIPSガールズアニメ化決定！">
                 </div>
               </a>
             </div>
@@ -482,7 +483,7 @@
                   <small>2018/03/26</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-chara-sheet.png" alt="公式キャラクター設定画公開">
+                  <img src="<?php echo URL; ?>/img/news/other-chara-sheet.png" alt="公式キャラクター設定画公開">
                 </div>
               </a>
             </div>
@@ -497,7 +498,7 @@
                   <small>2018/03/20</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-skn.png" alt="独自通貨動作テスト (SIKEN)">
+                  <img src="<?php echo URL; ?>/img/news/develop-skn.png" alt="独自通貨動作テスト (SIKEN)">
                 </div>
               </a>
             </div>
@@ -512,7 +513,7 @@
                   <small>2018/03/18</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-chara-result.png" alt="公式キャラクターコンテスト結果発表">
+                  <img src="<?php echo URL; ?>/img/news/event-chara-result.png" alt="公式キャラクターコンテスト結果発表">
                 </div>
               </a>
             </div>
@@ -527,7 +528,7 @@
                   <small>2018/03/14</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/other-ryugoroshi.jpg" alt="提携ゲーム「竜殺しの物語」リリース">
+                  <img src="<?php echo URL; ?>/img/news/other-ryugoroshi.jpg" alt="提携ゲーム「竜殺しの物語」リリース">
                 </div>
               </a>
             </div>
@@ -542,7 +543,7 @@
                   <small>2018/03/09</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-ttt.png" alt="独自通貨動作テスト (TESTSTAR)">
+                  <img src="<?php echo URL; ?>/img/news/develop-ttt.png" alt="独自通貨動作テスト (TESTSTAR)">
                 </div>
               </a>
             </div>
@@ -557,7 +558,7 @@
                   <small>2018/02/26</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-chara.jpeg" alt="VIP☆STAR 公式キャラクターコンテスト">
+                  <img src="<?php echo URL; ?>/img/news/event-chara.jpeg" alt="VIP☆STAR 公式キャラクターコンテスト">
                 </div>
               </a>
             </div>
@@ -572,7 +573,7 @@
                   <small>2018/02/19</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/event-icon.jpg" alt="VIP☆STAR コインアイコンコンテスト">
+                  <img src="<?php echo URL; ?>/img/news/event-icon.jpg" alt="VIP☆STAR コインアイコンコンテスト">
                 </div>
               </a>
             </div>
@@ -587,7 +588,7 @@
                   <small>2018/02/17</small>
                 </div>
                 <div class="news-image">
-                  <img src="/img/news/develop-init.png" alt="VIP☆STAR 発行">
+                  <img src="<?php echo URL; ?>/img/news/develop-init.png" alt="VIP☆STAR 発行">
                 </div>
               </a>
             </div>
@@ -677,11 +678,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"
         integrity="sha256-XF29CBwU1MWLaGEnsELogU6Y6rcc5nCkhhx89nFMIDQ="
         crossorigin="anonymous"></script>
-<script type="text/javascript" src="/js/jquery.isotope.js"></script>
-<script type="text/javascript" src="/js/jquery.counterup.js"></script>
-<script type="text/javascript" src="/js/waypoints.js"></script>
-<script type="text/javascript" src="/js/jquery.inview.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.isotope.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.counterup.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/waypoints.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/jquery.inview.min.js"></script>
+<script type="text/javascript" src="<?php echo URL; ?>/js/main.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
 </body>
 </html>
