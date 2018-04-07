@@ -11,6 +11,7 @@
         <li role="separator" class="divider"></li>
         <li><a href="<?php echo URL; ?>/">日本語</a></li>
         <li><a href="<?php echo URL; ?>/en/">English</a></li>
+        <li><a href="<?php echo URL; ?>/de/">Deutsch</a></li>
       </ul>
     </div>
 

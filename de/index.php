@@ -1,14 +1,14 @@
 <?php require_once('../controller.php'); ?>
-<?php $lang = 'vip'; ?>
+<?php $lang = 'de'; ?>
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="de">
   <head>
     <?php require_once('../common/head.php'); ?>
-    <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨">
+    <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗVIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ">
+          content="VIP☆STAR(VIPS) ist eine Kryptowährung, die im Forum "Newsoku VIP" aus "5ch" entstanden ist.">
     <meta property="og:description"
-          content="VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗVIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ">
+          content="VIP☆STAR(VIPS) ist eine Kryptowährung, die im Forum "Newsoku VIP" aus "5ch" entstanden ist.">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>

@@ -9,11 +9,25 @@
       <ul class="cat">
         <li>
           <ol class="type">
-            <li><a href="#" data-filter="*">すべて</a></li>
-            <li><a href="#" data-filter=".new" class="active">最新</a></li>
-            <li><a href="#" data-filter=".develop">開発情報</a></li>
-            <li><a href="#" data-filter=".event">イベント</a></li>
-            <li><a href="#" data-filter=".other">その他</a></li>
+            <?php if ($lang == 'en'): ?>
+              <li><a href="#" data-filter="*">ALL</a></li>
+              <li><a href="#" data-filter=".new" class="active">NEW</a></li>
+              <li><a href="#" data-filter=".develop">DEVELOPING INFO</a></li>
+              <li><a href="#" data-filter=".event">EVENTS</a></li>
+              <li><a href="#" data-filter=".other">OTHERS</a></li>
+            <?php elseif ($lang == 'de'): ?>
+              <li><a href="#" data-filter="*">ALLE</a></li>
+              <li><a href="#" data-filter=".new" class="active">NEU</a></li>
+              <li><a href="#" data-filter=".develop">DEV-INFO</a></li>
+              <li><a href="#" data-filter=".event">EVENTS</a></li>
+              <li><a href="#" data-filter=".other">ETC</a></li>
+            <?php else: ?>
+              <li><a href="#" data-filter="*">すべて</a></li>
+              <li><a href="#" data-filter=".new" class="active">最新</a></li>
+              <li><a href="#" data-filter=".develop">開発情報</a></li>
+              <li><a href="#" data-filter=".event">イベント</a></li>
+              <li><a href="#" data-filter=".other">その他</a></li>
+            <?php endif; ?>
           </ol>
         </li>
       </ul>

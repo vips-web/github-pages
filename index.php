@@ -1,4 +1,5 @@
 <?php require_once('./controller.php'); ?>
+<?php $lang = 'ja'; ?>
 <!DOCTYPE html>
 <html lang="ja">
   <head>
