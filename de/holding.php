@@ -12,7 +12,7 @@
       </div>
       <div class="holding-chart">
         <canvas id="holdingChart" width="200" height="200"></canvas>
-        <p class="holding-total">Anfangsanzahl<br>60 Mrd.</p>
+        <p class="holding-total">60<br>Mrd.</p>
       </div>
       <div class="col-md-5 col-sm-5 col-md-offset-5 holding-text">
         <p><span class="holding-yellow">■</span> Verkauf bei Markteinführung：33%</p>
