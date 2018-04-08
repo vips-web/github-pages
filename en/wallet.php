@@ -8,8 +8,11 @@
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div class="wallet-button">
-          <a href="<?php echo URL; ?>/download/vipstar_for_mac.zip">
-            <img src="<?php echo URL; ?>/img/wallet-mac.png" alt="" width="161" height="51">
+          <a href="<?php echo URL; ?>/download/VIPSTARCOIN_win_normal.zip">
+            <img src="<?php echo URL; ?>/img/wallet/win-normal.png" alt="" width="161" height="51">
+          </a><br>
+          <a href="<?php echo URL; ?>/download/VIPSTARCOIN_mac_normal.zip">
+            <img src="<?php echo URL; ?>/img/wallet/mac-normal.png" alt="" width="161" height="51">
           </a>
         </div>
         <div class="wallet-swap">
