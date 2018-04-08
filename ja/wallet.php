@@ -8,11 +8,14 @@
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div class="wallet-button">
-          <a href="<?php echo URL; ?>/download/VIPSTARCOIN_win_normal.zip">
+          <a href="http://vipsvips.sakura.ne.jp/download/VIPSTARCOIN_win_normal.zip">
             <img src="<?php echo URL; ?>/img/wallet/win-normal.png" alt="" width="161" height="51">
           </a><br>
-          <a href="<?php echo URL; ?>/download/VIPSTARCOIN_mac_normal.zip">
+          <a href="http://vipsvips.sakura.ne.jp/download/VIPSTARCOIN_mac_normal.zip">
             <img src="<?php echo URL; ?>/img/wallet/mac-normal.png" alt="" width="161" height="51">
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/" class="button button-bw" target="_blank">
+            VIPSTARCOIN Explorer&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </a>
         </div>
         <div class="wallet-swap">
