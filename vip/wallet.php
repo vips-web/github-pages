@@ -10,7 +10,7 @@
         <div class="wallet-button">
           <a href="<?php echo URL; ?>/download/VIPSTARCOIN_win_normal.zip">
             <img src="<?php echo URL; ?>/img/wallet/win-normal.png" alt="" width="161" height="51">
-          </a>
+          </a><br>
           <a href="<?php echo URL; ?>/download/VIPSTARCOIN_mac_normal.zip">
             <img src="<?php echo URL; ?>/img/wallet/mac-normal.png" alt="" width="161" height="51">
           </a>
