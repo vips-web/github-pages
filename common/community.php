@@ -16,7 +16,7 @@
         </a>
       </div>
       <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
-        <a href="https://twitter.com/VIPSTARTOKEN" target="_blank">
+        <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
           <div class="community-box">
             <i class="fab fa-twitter fa-5x"></i>
             <span class="count">1930</span>

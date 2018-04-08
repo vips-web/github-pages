@@ -13,9 +13,9 @@
         </a>
       </div>
       <div class="col-md-6">
-        <a href="https://twitter.com/VIPSTARTOKEN" target="_blank">
+        <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
           <i class="fab fa-twitter fa-5x"></i>
-          <p>@VIPSTARTOKEN</p>
+          <p>@VIPSTARCOIN</p>
         </a>
       </div>
       <div class="clearfix"></div>
@@ -24,8 +24,8 @@
            data-width="500"
            data-height="500"
            data-theme="light"
-           href="https://twitter.com/VIPSTARTOKEN?ref_src=twsrc%5Etfw">
-          Tweets by VIPSTARTOKEN
+           href="https://twitter.com/VIPSTARCOIN?ref_src=twsrc%5Etfw">
+          Tweets by VIPSTARCOIN
         </a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
