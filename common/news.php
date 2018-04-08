@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="http://seesaawiki.jp/vips/d/VIPSTAR%c6%b3%c6%fe%ca%fd%cb%a1" target="_blank">
+                <div class="hover-text">
+                  <h4>正規版ウォレット配布&amp;スワップ開始</h4>
+                  <small>2018/04/07</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/develop-swap.png" alt="正規版ウォレット配布&amp;スワップ開始">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 other new">
           <div class="news-item">
             <div class="hover-bg">

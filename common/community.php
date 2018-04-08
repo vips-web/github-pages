@@ -10,16 +10,16 @@
         <a href="https://discordapp.com/invite/K5gPZ2h" target="_blank">
           <div class="community-box">
             <i class="fab fa-discord fa-5x"></i>
-            <span class="count">2067</span>
+            <span class="count">2261</span>
             <h4>Members</h4>
           </div>
         </a>
       </div>
       <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
-        <a href="https://twitter.com/VIPSTARTOKEN" target="_blank">
+        <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
           <div class="community-box">
             <i class="fab fa-twitter fa-5x"></i>
-            <span class="count">1930</span>
+            <span class="count">2130</span>
             <h4>Followers</h4>
           </div>
         </a>

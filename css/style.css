@@ -445,6 +445,10 @@ hr {
 #wallet .wallet-button {
 	text-align: center;
 }
+#wallet .wallet-button a {
+	display: inline-block;
+	margin-bottom: 25px;
+}
 #wallet .wallet-text {
 	margin-top: 50px;
 	text-align: center;
