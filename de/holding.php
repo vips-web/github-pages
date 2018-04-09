@@ -15,19 +15,18 @@
         <p class="holding-total">60<br>Mrd.</p>
       </div>
       <div class="col-md-5 col-sm-5 col-md-offset-5 holding-text">
-        <p><span class="holding-yellow">■</span> Verkauf bei Markteinführung：33%</p>
-        <p><span class="holding-orange">■</span> Entwicklung：20%</p>
-        <p><span class="holding-red">■</span> Marketing：20%</p>
-        <p><span class="holding-purple">■</span> Airdrops：16%</p>
-        <p><span class="holding-blue">■</span> Verwaltungsteam：10%</p>
+        <p><span class="holding-yellow">■</span> Verkauf bei Markteinführung：33.3%</p>
+        <p><span class="holding-orange">■</span> Entwicklung：20.3%</p>
+        <p><span class="holding-red">■</span> Marketing：20.3%</p>
+        <p><span class="holding-purple">■</span> Airdrops：16.0%</p>
+        <p><span class="holding-blue">■</span> Verwaltungsteam：10.0%</p>
       </div>
       <input type="hidden" class="js_ctx-label-1" value="Verkauf bei Markteinführung">
       <input type="hidden" class="js_ctx-label-2" value="Entwicklung">
       <input type="hidden" class="js_ctx-label-3" value="Marketing">
-      <input type="hidden" class="js_ctx-label-4" value="ﾇｸﾓﾘﾃｨ">
+      <input type="hidden" class="js_ctx-label-4" value="Airdrops">
       <input type="hidden" class="js_ctx-label-5" value="Verwaltungsteam">
       <div class="col-md-12 col-sm-12">
-        <p>(Nachkommastellen auf-/abgerundet) </p>
         <p class="holding-attention">
           <b>Verkauf bei Markteinführung</b>
         </p>

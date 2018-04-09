@@ -15,16 +15,16 @@
         <p class="holding-total">60<br>BILLIONS</p>
       </div>
       <input type="hidden" class="js_ctx-label-1" value="Reserve for sale">
-      <input type="hidden" class="js_ctx-label-2" value="Technological Development fee">
+      <input type="hidden" class="js_ctx-label-2" value="Development fee">
       <input type="hidden" class="js_ctx-label-3" value="Marketing fee">
       <input type="hidden" class="js_ctx-label-4" value="Airdrops">
       <input type="hidden" class="js_ctx-label-5" value="Reserve by the dev team">
       <div class="col-md-5 col-sm-5 col-md-offset-5 holding-text">
-      <p><span class="holding-yellow">■</span> Reserve for sale: 33% </p>
-      <p><span class="holding-orange">■</span> Technological Development fee：20%</p>
-      <p><span class="holding-red">■</span> Marketing fee: 20%</p>
-      <p><span class="holding-purple">■</span> Airdrops：16%</p>
-      <p><span class="holding-blue">■</span> Reserve by the dev team：10%</p>
+      <p><span class="holding-yellow">■</span> Reserve for sale: 33.3% </p>
+      <p><span class="holding-orange">■</span> Technological Development fee：20.3%</p>
+      <p><span class="holding-red">■</span> Marketing fee: 20.3%</p>
+      <p><span class="holding-purple">■</span> Airdrops：16.0%</p>
+      <p><span class="holding-blue">■</span> Reserve by the dev team：10.0%</p>
       </div>
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
