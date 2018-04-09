@@ -7,10 +7,7 @@ body, html {
 	color: #000;
 }
 h1 {
-	font-weight: 700;
-}
-h1 strong {
-	font-weight: 900;
+	margin: 0;
 }
 h2 {
 	line-height: 20px;
@@ -269,7 +266,7 @@ hr {
 #roadmap {
 	padding: 100px 0;
 	background: #ffc000;
-	color: #fff;
+	color: #000;
 }
 #roadmap hr {
 	background: #fff;
@@ -464,7 +461,7 @@ hr {
 	text-align: center;
 }
 #wallet .wallet-swap .wallet-swap-title-b {
-	color: #fff;
+	color: #000;
 	font-weight: bold;
 	margin: 0 0 20px;
 }
@@ -827,7 +824,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	min-height: 800px;
 }
 .intro .intro-text p {
-	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 20px;

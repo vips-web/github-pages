@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://camp-fire.jp/projects/view/71975" target="_blank">
+                <div class="hover-text">
+                  <h4>クラウドファンディング開始</h4>
+                  <small>2018/04/09</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-crowd-funding.png" alt="クラウドファンディング開始">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 develop new">
           <div class="news-item">
             <div class="hover-bg">

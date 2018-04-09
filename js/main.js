@@ -108,11 +108,11 @@ function main() {
   var data = {
     datasets: [{
       data: [
-        33,
-        20,
-        20,
-        16,
-        10,
+        33.3,
+        20.3,
+        20.3,
+        16.0,
+        10.0,
       ],
       backgroundColor: [
         'rgb(255, 205, 86)',  // yellow

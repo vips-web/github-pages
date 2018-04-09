@@ -1,4 +1,10 @@
 <!-- Header -->
 <header id="header" class="header">
-  <img src="<?php echo URL; ?>/img/header.jpg" alt="VIPSTAR" class="header-image">
+  <h1>
+    <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+      <img src="<?php echo URL; ?>/img/header.jpg" alt="仮想通貨 VIPSTARCOIN" class="header-image">
+    <?php else: ?>
+      <img src="<?php echo URL; ?>/img/header.jpg" alt="Cryptocurrency VIPSTARCOIN" class="header-image">
+    <?php endif; ?>
+  </h1>
 </header>
