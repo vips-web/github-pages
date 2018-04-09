@@ -22,13 +22,13 @@
         <p><span class="holding-yellow">■</span> うｐ(上場時販売)：33.3%</p>
         <p><span class="holding-orange">■</span> 開発：20.3%</p>
         <p><span class="holding-red">■</span> マーケティング：20.3%</p>
-        <p><span class="holding-purple">■</span> ﾇｸﾓﾘﾃｨ(各種媒体での配布)：16.0%</p>
+        <p><span class="holding-purple">■</span> ヌクモリティ(各種媒体での配布)：16.0%</p>
         <p><span class="holding-blue">■</span> 運営：10.0%</p>
       </div>
       <input type="hidden" class="js_ctx-label-1" value="うｐ">
       <input type="hidden" class="js_ctx-label-2" value="開発">
       <input type="hidden" class="js_ctx-label-3" value="マーケティング">
-      <input type="hidden" class="js_ctx-label-4" value="ﾇｸﾓﾘﾃｨ">
+      <input type="hidden" class="js_ctx-label-4" value="ヌクモリティ">
       <input type="hidden" class="js_ctx-label-5" value="運営">
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
@@ -38,6 +38,14 @@
           200億枚<br>
           大半を2satで売却<br>
           売れ残りはバーン
+        </p>
+        <p class="holding-attention">
+          <b>ヌクモリティ</b>
+        </p>
+        <p>
+          オリンピックや慈善団体への寄付<br>
+          5ch専用ブラウザなど制作物利用のエアドロップ<br>
+          5ch上含むTwitterやDiscordやその他への宣伝用配布等
         </p>
         <p class="holding-attention">
           <b>マイニング報酬</b>
