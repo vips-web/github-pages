@@ -7,8 +7,12 @@
     </div>
     <div class="row">
       <div class="holding-header">
-        <p>Anfangsanzahl 60 Mrd.</p>
-        <p>Dazu 10 Mrd. durch PoS und PoW<br>(Die max. Anzahl wird voraussichtlich im Jahr 2120 erreicht)</p>
+        <p>
+          Anfangsanzahl 60 Mrd.<br>
+          +<br>
+          Dazu 10 Mrd. durch PoS und PoW<br>
+          (Die max. Anzahl wird voraussichtlich im Jahr 2120 erreicht)
+        </p>
       </div>
       <div class="holding-chart">
         <canvas id="holdingChart" width="200" height="200"></canvas>

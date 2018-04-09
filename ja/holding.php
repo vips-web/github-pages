@@ -7,8 +7,12 @@
     </div>
     <div class="row">
       <div class="holding-header">
-        <p>発行数600億枚</p>
-        <p>PoS・PoW合計100億枚<br>（2120年に最大発行完了予定）</p>
+        <p>
+          発行数600億枚<br>
+          +<br>
+          PoS・PoW合計100億枚<br>
+          （2120年に最大発行完了予定）
+        </p>
       </div>
       <div class="holding-chart">
         <canvas id="holdingChart" width="200" height="200"></canvas>
