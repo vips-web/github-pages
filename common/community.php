@@ -6,20 +6,20 @@
       <hr>
     </div>
     <div class="row col-md-8 col-md-offset-2">
-      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="400ms">
+      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
         <a href="https://discordapp.com/invite/K5gPZ2h" target="_blank">
           <div class="community-box">
             <i class="fab fa-discord fa-5x"></i>
-            <span class="count">2261</span>
+            <span class="count">2558</span>
             <h4>Members</h4>
           </div>
         </a>
       </div>
-      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
+      <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="400ms">
         <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
           <div class="community-box">
             <i class="fab fa-twitter fa-5x"></i>
-            <span class="count">2130</span>
+            <span class="count">2387</span>
             <h4>Followers</h4>
           </div>
         </a>
