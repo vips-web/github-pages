@@ -269,7 +269,7 @@ hr {
 #roadmap {
 	padding: 100px 0;
 	background: #ffc000;
-	color: #fff;
+	color: #000;
 }
 #roadmap hr {
 	background: #fff;
@@ -464,7 +464,7 @@ hr {
 	text-align: center;
 }
 #wallet .wallet-swap .wallet-swap-title-b {
-	color: #fff;
+	color: #000;
 	font-weight: bold;
 	margin: 0 0 20px;
 }
