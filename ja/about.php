@@ -12,6 +12,7 @@
         <li><a href="<?php echo URL; ?>/vip/">VIP</a></li>
         <li><a href="<?php echo URL; ?>/en/">English</a></li>
         <li><a href="<?php echo URL; ?>/de/">Deutsch</a></li>
+        <li><a href="<?php echo URL; ?>/fr/">Français</a></li>
       </ul>
     </div>
 

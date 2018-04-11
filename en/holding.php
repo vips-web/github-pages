@@ -2,7 +2,7 @@
 <div id="holding" class="text-center">
   <div class="container">
     <div class="section-title center">
-      <h2>SUPPLY</h2>
+      <h2>HOLDING</h2>
       <hr>
     </div>
     <div class="row">

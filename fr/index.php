@@ -1,14 +1,14 @@
 <?php require_once('../controller.php'); ?>
-<?php $lang = 'de'; ?>
+<?php $lang = 'fr'; ?>
 <!DOCTYPE html>
-<html lang="de">
+<html lang="fr">
   <head>
     <?php require_once('../common/head.php'); ?>
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIPSTARCOIN (VIPS) ist eine Kryptowährung, die im Forum 'Newsoku VIP' aus '5ch' entstanden ist.">
+          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communaute appelee ″Newsoku VIP″ dans 5ch.">
     <meta property="og:description"
-          content="VIPSTARCOIN (VIPS) ist eine Kryptowährung, die im Forum 'Newsoku VIP' aus '5ch' entstanden ist.">
+          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communaute appelee ″Newsoku VIP″ dans 5ch.">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>

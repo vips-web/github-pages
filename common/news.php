@@ -9,7 +9,7 @@
       <ul class="cat">
         <li>
           <ol class="type">
-            <?php if ($lang == 'en'): ?>
+            <?php if ($lang == 'en' || $lang == 'fr'): ?>
               <li><a href="#" data-filter="*">ALL</a></li>
               <li><a href="#" data-filter=".new" class="active">NEW</a></li>
               <li><a href="#" data-filter=".develop">DEVELOPING INFO</a></li>
