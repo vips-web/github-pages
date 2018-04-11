@@ -46,7 +46,10 @@
                 </p>
                 <p class="modal-text">
                   <span>4. I only have smartphones and do not have PCs or Mac computers. Can I still join the swap program?</span><br>
-                  <span><b>We recommend you use Windows PCs or Mac computers to join the swap program. We will prepare a special procedure to receive new coins for smartphone users after listed on an exchange. However, this procedure will be time-limited, and your tokens will be swapped at the ratio of 1:1 rather than 1:1.2.</b></span>
+                  <span><b>
+                    We recommend you use Windows PCs or Mac computers to join the swap program.<br>
+                    We will prepare a special procedure to receive new coins for smartphone users after listed on an exchange. However, this procedure will be time-limited, and your tokens will be swapped at the ratio of 1:1 rather than 1:1.2.
+                  </b></span>
                 </p>
               </div>
                 <div class="modal-footer">

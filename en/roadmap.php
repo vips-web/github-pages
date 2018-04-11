@@ -19,7 +19,7 @@
             <div class="timeline-image">
               <h4>2018<br>FEB</h4>
             </div>
-            <div class="timeline-panel" style="display: block;">
+            <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>VIPS PROJECT STARTED</h4>
               </div>
@@ -33,7 +33,7 @@
             <div class="timeline-image">
               <h4>2018<br>SPRING</h4>
             </div>
-            <div class="timeline-panel" style="display: block;">
+            <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>DEVELOPMENT OF AN ORIGINAL COIN</h4>
               </div>
@@ -49,7 +49,7 @@
             <div class="timeline-image">
               <h4>2018<br>WINTER</h4>
             </div>
-            <div class="timeline-panel" style="display: block;">
+            <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>SERVICES DEVELOPMENT</h4>
               </div>
@@ -67,7 +67,7 @@
             <div class="timeline-image">
               <h4>2019</h4>
             </div>
-            <div class="timeline-panel" style="display: block;">
+            <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>SERVICES EXPANSION</h4>
               </div>
@@ -84,14 +84,14 @@
             <div class="timeline-image">
               <h4>2020~</h4>
             </div>
-            <div class="timeline-panel" style="display: block;">
+            <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>LAUNCHING THE 'WORLDWIDE NUQUMORITY' SERVICE</h4>
               </div>
               <div class="timeline-body">
               <p>The Worldwide Nuqumority is a service that shows organizations in the disaster-stricken areas that hold VIPS wallets.</p>
               <p>VIPS holders can donate to them easily by just pushing a button one time</p>
-              <p>VIPS will reach the receiver's wallet faster than sending fiat money and could make purchases without withdrawing money from banks where a VIPS settlement system has been developed.
+              <p>VIPS will reach the receiver's wallet faster than sending fiat money and could make purchases without withdrawing money from banks where a VIPS settlement system has been developed.</p>
               </div>
             </div>
           </li>
