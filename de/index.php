@@ -6,9 +6,9 @@
     <?php require_once('../common/head.php'); ?>
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIP☆STAR(VIPS) ist eine Kryptowährung, die im Forum "Newsoku VIP" aus "5ch" entstanden ist.">
+          content="VIPSTARCOIN (VIPS) ist eine Kryptowährung, die im Forum 'Newsoku VIP' aus '5ch' entstanden ist.">
     <meta property="og:description"
-          content="VIP☆STAR(VIPS) ist eine Kryptowährung, die im Forum "Newsoku VIP" aus "5ch" entstanden ist.">
+          content="VIPSTARCOIN (VIPS) ist eine Kryptowährung, die im Forum 'Newsoku VIP' aus '5ch' entstanden ist.">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>
