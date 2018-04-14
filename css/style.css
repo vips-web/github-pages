@@ -444,7 +444,7 @@ hr {
 }
 #wallet .wallet-button a {
 	display: inline-block;
-	margin-bottom: 25px;
+	margin: 0 10px 25px;
 }
 #wallet .wallet-text {
 	margin-top: 50px;
