@@ -25,7 +25,7 @@
           </a>
         </div>
         <div class="wallet-swap">
-          <p class="wallet-swap-title-b">Les anciens VIPS (Ethreum tokens) seront echanges pour la crypto monnaie originale.</p>
+          <p class="wallet-swap-title-b">Les anciens VIPS (Ethreum tokens) seront échangés pour la crypto monnaie originale.</p>
           <button type="button" class="button button-bw" data-toggle="modal" data-target="#walletModal">
             Nos promesses&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </button>
@@ -35,26 +35,26 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                  <h4 class="modal-title" id="walletModalLabel">Regles d'echanges</h4>
+                  <h4 class="modal-title" id="walletModalLabel">Règles d'échanges</h4>
                 </div>
                 <div class="modal-body">
                   <p class="modal-text">
-                    <span>1. Est-ce que la difference d'approvisionnement entre l'ancien token et la nouvelle monnaie est consideree prise en compte dans les echanges ?</span><br>
-                    <span><b>Nous allons echanger l'ancien token pour une nouvelle monnaie au taux de 1:1.2 .</b></span>
+                    <span>1. Est-ce que la différence d'approvisionnement entre l'ancien token et la nouvelle monnaie est considérée prise en compte dans les échanges ?</span><br>
+                    <span><b>Nous allons échanger l'ancien token pour une nouvelle monnaie au taux de 1:1.2 .</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>2. Comment les decimaux seront partages ?</span><br>
-                    <span><b>La portion du decimal de l'ancien token sera arrondie sur l'echange de la nouvelle monnaie.</b></span>
+                    <span>2. Comment les décimaux seront partagés ?</span><br>
+                    <span><b>La portion du décimal de l'ancien token sera arrondie sur l'échange de la nouvelle monnaie.</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>3. Pouvons-nous recevoir la recompense de POS pour la portion de la monnaie echangee ?</span><br>
+                    <span>3. Pouvons-nous recevoir la récompense de POS pour la portion de la monnaie échangée ?</span><br>
                     <span><b>Oui, vous la recevrez.</b></span>
                   </p>
                   <p class="modal-text">
-                    <span>4. J'ai seulement un Smartphone et pas d'ordinateur. Puis-je encore rejoindre le programme d'echange ?</span><br>
+                    <span>4. J'ai seulement un Smartphone et pas d'ordinateur. Puis-je encore rejoindre le programme d'échange ?</span><br>
                     <span><b>
-                      Nous recommandons d'utiliser un ordinateur avec Windows ou un ordinateur MAC pour rejoindre le programme d'echange.<br>
-                      Nous allons preparer une procedure speciale pour recevoir une nouvelle monnaie pour les utilisateurs de Smartphones apres l'inscription sur des plateformes d'echange de crypto monnaie. Cependant, cette procedure aura une limite de temps et vos tokens seront echanges au taux de 1:1 au lieu de 1:1:2.
+                      Nous recommandons d'utiliser un ordinateur avec Windows ou un ordinateur MAC pour rejoindre le programme d'échange.<br>
+                      Nous allons préparer une procédure spéciale pour recevoir une nouvelle monnaie pour les utilisateurs de Smartphones après l'inscription sur des plateformes d'échange de crypto monnaie. Cependant, cette procédure aura une limite de temps et vos tokens seront échangés au taux de 1:1 au lieu de 1:1:2.
                     </b></span>
                   </p>
                 </div>
