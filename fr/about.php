@@ -24,12 +24,12 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-          <p>VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communaute appelee ″Newsoku VIP″ dans 5ch.</p>
-          <p>Nous souhaitons vous faire profiter de VIPS de differentes manieres comme crypto monnaie originale depuis le Japon, et fixer l'objectif final pour contribuer a la societe a travers les frontieres  comme une methode pratique pour faire des dons.</p>
-          <p>Nous esperons que VIPS gagnera en popularite dans la societe reelle autant que sur la communaute d'internet avec le puissant soutient des titulaires de VIPS.</p>
+          <p>VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communauté appelée ″Newsoku VIP″ dans 5ch.</p>
+          <p>Nous souhaitons vous faire profiter de VIPS de différentes manières comme crypto monnaie originale depuis le Japon, et fixer l'objectif final pour contribuer à la société à travers les frontières comme une méthode pratique pour faire des dons.</p>
+          <p>Nous espérons que VIPS gagnera en popularité dans la société réelle autant que sur la communauté d'internet avec le puissant soutient des titulaires de VIPS.</p>
           <p><a href="#" class="about-qa" data-toggle="modal" data-target="#qaModal">Qu'est ce qu'une crypto monnaie? Q＆R&nbsp;&nbsp;<i class="far fa-window-restore"></i></a></p>
           <p class="bl_about-button text-center">
-            <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">Les 6 caracteristiques de VIPS&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
+            <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">Les 6 caractéristiques de VIPS&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
           </p>
           <p class="bl_about-button text-center">
             <a class="button button-bw" href="<?php echo URL; ?>/download/whitepaper_en.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
@@ -44,37 +44,41 @@
                 </div>
                 <div class="modal-body">
                   <p>
-                    <span>Q. Quelle est la communaute VIP?</span><br>
-                    <span><b>R. La communaute VIP est derivee d'un chat en ligne qui s'appelle NyuSoku VIP dans 5ch. C'est la deuxieme communaute active de 5ch, suivie de NANJ(Nandemo jikyo ,  なんでも実況). Les membres de la communaute de VIP sont appeles "VIPEER".</b></span>
+                    <span>Q. Quelle est la communauté VIP?</span><br>
+                    <span><b>
+                      R. La communauté VIP est dérivée d'un chat en ligne qui s'appelle NyuSoku VIP dans 5ch.<br>
+                      C'est la deuxième communauté active de 5ch, suivie de NANJ(Nandemo jikyo , なんでも実況).<br>
+                      Les membres de la communauté de VIP sont appelés "VIPEER".
+                    </b></span>
                   </p>
                   <p>
                     <span>Q. Qu'est ce qu'un VIPSTARCOIN(VIPS)?</span><br>
                     <span><b>
-                      R. VIPS est une crypto monnaie qui est originaire de la communaute VIP.<br>
-                      VIPS a ete cree par un vipper anonyme et equipee avec une technologie de pointe telle que smart contracts et POS 3.<br>
-                      Quelqu'un peut creer de nouveaux tokens depuis VIPS comme ils peuvent le faire avec Ethereum.
+                      R. VIPS est une crypto monnaie qui est originaire de la communauté VIP.<br>
+                      VIPS a été créé par un vipper anonyme et équipée avec une technologie de pointe telle que smart contracts et POS 3.<br>
+                      Quelqu'un peut créer de nouveaux tokens depuis VIPS comme ils peuvent le faire avec Ethereum.
                     </b></span>
                   </p>
                   <p>
                     <span>Q. Qu'est ce qu'une crypto monnaie?</span><br>
                     <span><b>
                       R. Une crypto monnaie est une monnaie alternative virtuelle qui fonctionne sur la base de la fonction de technologie blockchain.<br>
-                      La blockchain est une technologie de stockage et de transmission d'informations, transparente, securisee, et fonctionnant sans organe central de controle.
+                      La blockchain est une technologie de stockage et de transmission d'informations, transparente, sécurisée, et fonctionnant sans organe central de contrôle.
                     </b></span>
                   </p>
                   <p>
                     <span>Q. Comment je peux recevoir ou garder une crypto monnaie?</span><br>
                     <span><b>
-                      R. Vous avez besoin d'un portefeuille pour transferer ou recevoir des crypto monnaies ou tokens.<br>
-                      Pour VIPS, vous avez besoin d'un portefeuille unique qui est arrange pour VIPS coin.
+                      R. Vous avez besoin d'un portefeuille virtuel pour transférer ou recevoir des crypto monnaies ou tokens.<br>
+                      Pour VIPS, vous avez besoin d'un portefeuille unique qui est arrangé pour VIPS coin.
                     </b></span>
                   </p>
                   <p>
-                    <span>Q. Ai-je besoin de donner des informations personnelles au developpeur pour faire un portefeuille pour VIPS ?</span><br>
-                    <span><b>R. Non, telechargez un programme et creez un nouveau portefeuille.</b></span>
+                    <span>Q. Ai-je besoin de donner des informations personnelles au développeur pour faire un portefeuille pour VIPS ?</span><br>
+                    <span><b>R. Non, téléchargez un programme et créez un nouveau portefeuille.</b></span>
                   </p>
                   <p>
-                    <span>Q. Ai-je besoin de donner des informations de contact comme une adresse mail ou un numero de telephone pour faire un portefeuille ?</span><br>
+                    <span>Q. Ai-je besoin de donner des informations de contact comme une adresse mail ou un numéro de téléphone pour faire un portefeuille ?</span><br>
                     <span><b>R. Non.</b></span>
                   </p>
                   <p>
@@ -82,31 +86,31 @@
                     <span><b>R. Non. Vous pouvez le garder gratuitement.</b></span>
                   </p>
                   <p>
-                    <span>Q. VIPS sera-t-il inscrit sur une plateforme d'echange de crypto monnaie?</span><br>
-                    <span><b>R. Nous visons a ce que VIPS soit inscrit rapidement sur les plateformes d'echange.</b></span>
+                    <span>Q. VIPS sera-t-il inscrit sur une plateforme d'échange de crypto monnaie?</span><br>
+                    <span><b>R. Nous visons à ce que VIPS soit inscrit rapidement sur les plateformes d'échange.</b></span>
                   </p>
                   <p>
-                    <span>Q. Puis-je obtenir VIPS avant d'etre s'inscrit ?</span><br>
-                    <span><b>R. Nous avons termine Air drops, donc il n'y a pas de moyen sur ce point avant d'etre inscrit.</b></span>
+                    <span>Q. Puis-je obtenir VIPS avant d'être s'inscrit ?</span><br>
+                    <span><b>R. Nous avons terminé Air drops, donc il n'y a pas de moyen sur ce point avant d'être inscrit.</b></span>
                   </p>
                   <p>
                     <span>Q. Quel est le plan pour augmenter la valeur de VIPS?</span><br>
                     <span><b>
-                      R. D'abord, nous planifions d'augmenter le nombre de personnes qui ont entendu parle de VIPS.<br>
-                      Ensuite nous lancerons une application que les titulaires de VIPS utiliseront comme une facon de paiement.
+                      R. D'abord, nous planifions d'augmenter le nombre de personnes qui ont entendu parlé de VIPS.<br>
+                      Ensuite nous lancerons une application que les titulaires de VIPS utiliseront comme une façon de paiement.
                     </b></span>
                   </p>
                   <p>
                     <span>Q. Qu'est ce que NUQUMORITY?</span><br>
                     <span><b>
-                      R. NUQUMORITY est un mot originaire d'une communaute VIP.<br>
+                      R. NUQUMORITY est un mot originaire d'une communauté VIP.<br>
                       Ce mot est une combinaison du mot japonais "Nukumori"(chaleur, tendresse) et du mot anglais "Quality".<br>
-                      "NUQUMORITY" est un mot pour exprimer la tendresse dans communaute VIP et un slogan pour l'etendre a l'exterieur de la communaute VIP.
+                      "NUQUMORITY" est un mot pour exprimer la tendresse dans communauté VIP et un slogan pour l'étendre à l'extérieur de la communauté VIP.
                     </b></span>
                   </p>
                   <p>
-                    <span>Q. Ou puis-je avoir plus d'informations sur VIPS?</span><br>
-                    <span><b>R. Rejoignez notre sur notre communaute discord pour avoir les informations mises a jour.</b></span>
+                    <span>Q. Où puis-je avoir plus d'informations sur VIPS?</span><br>
+                    <span><b>R. Rejoignez notre sur notre communauté discord pour avoir les informations mises à jour.</b></span>
                   </p>
                 </div>
                 <div class="modal-footer">
@@ -121,36 +125,36 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                  <h4 class="modal-title" id="pointModalLabel">Les 6 caracteristiques de VIPS</h4>
+                  <h4 class="modal-title" id="pointModalLabel">Les 6 caractéristiques de VIPS</h4>
                 </div>
                 <div class="modal-body">
                   <p class="modal-text">
-                    1. La quantite maximum de VIPS est 70 milliards.<br>
-                    Ce nombre est relativement eleve par rapport aux autres crypto monnaies (BTC:21 millions, Litecoin: 84 millions and Monacoin: 105 million),<br>
-                    resultant d'une utilisation plus active de l'envoi et de la reception entre les vippers comme un moyen de communication. (Cette activite est appelee "Nageai" en japonais).<br>
-                    Une grosse quantite maximum est favorable comme une piece qui peux etre une matrice de tokens derives.<br>
-                    (Nous visons la premiere place en crypto monnaie d'origine japonaise, qui est equipee avec la fonction smart contract.<br>
-                    Dans le cas d'un prix stagnant, Nous pourrons bruler une partie de la totalite de somme de monnaie et promouvoir une augmentation du prix et ameliorer la fluidite.<br>
-                    La quantite maximale sera atteinte en 2120. (53,611,200 blocs)
+                    1. La quantité maximum de VIPS est 70 milliards.<br>
+                    Ce nombre est relativement élevé par rapport aux autres crypto monnaies (BTC:21 millions, Litecoin: 84 millions and Monacoin: 105 million),<br>
+                    résultant d'une utilisation plus active de l'envoi et de la réception entre les vippers comme un moyen de communication. (Cette activité est appelée "Nageai" en japonais).<br>
+                    Une grosse quantité maximum est favorable comme une pièce qui peux être une matrice de tokens dérivés.<br>
+                    (Nous visons la première place en crypto monnaie d'origine japonaise, qui est équipée avec la fonction smart contract.<br>
+                    Dans le cas d'un prix stagnant, Nous pourrons brûler une partie de la totalité de somme de monnaie et promouvoir une augmentation du prix et améliorer la fluidité.<br>
+                    La quantité maximale sera atteinte en 2120. (53,611,200 blocs)
                   </p>
                   <p class="modal-text">
-                    2. Nous determinons et garantissons le budget necessaire pour la promotion de VIPS avant l'inscription ?<br>
-                    Cela nous permet de continuer a conduire le marketing, la publicite, et le developpement pour un certain temps dans l'avenir.
+                    2. Nous déterminons et garantissons le budget nécessaire pour la promotion de VIPS avant l'inscription ?<br>
+                    Cela nous permet de continuer à conduire le marketing, la publicité, et le développement pour un certain temps dans l'avenir.
                   </p>
                   <p class="modal-text">
-                    3. Nous garderons aussi une certaine portion de VIPS pour la distribution ('NUQUMORITY' activities) et fournirons les vippers avec la monnaie VIPS periodiquement.<br>
-                    Cela contribuera a gagner le soutient de notre communaute originale continuellement.
+                    3. Nous garderons aussi une certaine portion de VIPS pour la distribution ('NUQUMORITY' activities) et fournirons les vippers avec la monnaie VIPS périodiquement.<br>
+                    Cela contribuera à gagner le soutient de notre communauté originale continuellement.
                   </p>
                   <p class="modal-text">
-                    4. Depuis que VIPS est originaire de 5ch(anciennement connu comme 2ch) comme Monacoin l'est, un fort soutient de la communaute peut etre attendu.
+                    4. Depuis que VIPS est originaire de 5ch(anciennement connu comme 2ch) comme Monacoin l'est, un fort soutient de la communauté peut être attendu.
                   </p>
                   <p class="modal-text">
                     5. VIPS a une FEUILLE de ROUTE claire jusqu'au but.<br>
-                    Nous allons continuellement integrer de nouveaux objectifs et mettre a jour la feuille de route pour que les gens puissent investir leur argent sous un objectif clair.
+                    Nous allons continuellement intégrer de nouveaux objectifs et mettre à jour la feuille de route pour que les gens puissent investir leur argent sous un objectif clair.
                   </p>
                   <p class="modal-text">
-                    6. VIPS a la fonction smart contracts, qui permet a une personne de creer un nouveau token VIPS.<br>
-                    En envoyant des tokens, un expediteur a besoin de VIPS comme frais donc il y aura une forte demande permanente de VIPS.
+                    6. VIPS a la fonction smart contracts, qui permet à une personne de créer un nouveau token VIPS.<br>
+                    En envoyant des tokens, un expéditeur a besoin de VIPS comme frais donc il y aura une forte demande permanente de VIPS.
                   </p>
                 </div>
                 <div class="modal-footer">
