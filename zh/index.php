@@ -1,14 +1,14 @@
 <?php require_once('../controller.php'); ?>
-<?php $lang = 'fr'; ?>
+<?php $lang = 'zh'; ?>
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="zh">
   <head>
     <?php require_once('../common/head.php'); ?>
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communauté appelée ″Newsoku VIP″ dans 5ch.">
+          content="VIPSTARCOIN（VIPS）是一种加密货币，源于5chnnel中的一个名为'VIP'的社区，它是日本最大的社交网站。 ">
     <meta property="og:description"
-          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communauté appelée ″Newsoku VIP″ dans 5ch.">
+          content="VIPSTARCOIN（VIPS）是一种加密货币，源于5chnnel中的一个名为'VIP'的社区，它是日本最大的社交网站。 ">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>

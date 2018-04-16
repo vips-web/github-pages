@@ -72,7 +72,6 @@
                 <h4>SERVICES EXPANSION</h4>
               </div>
               <div class="timeline-body">
-              <p>DONATION TO 2020 TOKYO OLYMPIC COMMITTEE IN VIPS</p>
               <p>DONATION TO DISASTER-STRICKEN AREAS OVER THE WORLD IN VIPS</p>
               <p>RELEASE OF THE FILE UPLOADER SERVICE</p>
               <p>RELEASE OF THE SOCIAL GAMING APP</p>

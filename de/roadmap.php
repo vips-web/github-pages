@@ -71,7 +71,6 @@
                 <h4>Diensterweiterungen</h4>
               </div>
               <div class="timeline-body">
-                <p>VIPS-Spenden für das Tokioter Olympischen Komitee.</p>
                 <p>VIPS-Spenden für Katastrophengebieten weltweit.</p>
                 <p>Der Release vom File-Sharing-Dienst.</p>
                 <p>Der Release vom Social Game.</p>
@@ -92,7 +91,6 @@
                 <p>Ein System zur automatischen Informationssammlung von weltweiten Katastrophengebieten und Anzeige der Hilfsorganisationen mit VIPS-Wallets.</p>
                 <p>Somit können alle VIPS-Nutzer mit nur einem Klick, einfach und bequem Spenden abgeben.</p>
                 <p>Im Gegensatz zur herkömmlichen Überweisung kommen die VIPS-Spenden sofort an, und bei eingeführten VIPS-Zahlungssystemen sind die Spenden auf der Stelle einsetzbar. Dieses Zahlungssystem ist sehr effizient und ermöglicht es dem Nutzer direkt zu Spenden.</p>
-                </p>
               </div>
             </div>
           </li>
