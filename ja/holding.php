@@ -43,9 +43,8 @@
           <b>各種媒体での配布</b>
         </p>
         <p>
-          オリンピックや慈善団体への寄付<br>
           5ch専用ブラウザなど制作物利用のエアドロップ<br>
-          5ch上含むTwitterやDiscordやその他への宣伝用配布等
+          5chを含むTwitterやDiscordやその他への宣伝用配布等
         </p>
         <p class="holding-attention">
           <b>マイニング報酬</b>

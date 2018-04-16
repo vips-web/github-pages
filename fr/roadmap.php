@@ -68,7 +68,6 @@
                 <h4>Croissance des services</h4>
               </div>
               <div class="timeline-body">
-                <p>Don au comité des jeux olympiques de Tokyo en 2020 en VIPS</p>
                 <p>Don pour les régions sinistrées dans le monde en VIPS</p>
                 <p>Lancement du service de fichiers de téléchargement</p>
                 <p>Lancement de l'application du jeu social</p>

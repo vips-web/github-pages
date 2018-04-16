@@ -71,7 +71,6 @@
                 <h4>Diensterweiterungen</h4>
               </div>
               <div class="timeline-body">
-                <p>VIPS-Spenden für das Tokioter Olympischen Komitee.</p>
                 <p>VIPS-Spenden für Katastrophengebieten weltweit.</p>
                 <p>Der Release vom File-Sharing-Dienst.</p>
                 <p>Der Release vom Social Game.</p>
