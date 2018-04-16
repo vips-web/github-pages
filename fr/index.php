@@ -6,9 +6,9 @@
     <?php require_once('../common/head.php'); ?>
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communaute appelee ″Newsoku VIP″ dans 5ch.">
+          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communauté appelée ″Newsoku VIP″ dans 5ch.">
     <meta property="og:description"
-          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communaute appelee ″Newsoku VIP″ dans 5ch.">
+          content="VIPSTARCOIN (VIPS) est une crypto monnaie originaire d'une communauté appelée ″Newsoku VIP″ dans 5ch.">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>
