@@ -29,6 +29,25 @@
         </a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
+      <div class="social">
+        <ul>
+          <li><a href="https://t.me/vipstarcoin_officiai" target="_blank">
+            <i class="fab fa-telegram fa-4x"></i></i>
+          </a></li>
+          <li><a href="https://bitcointalk.org/index.php?topic=3338434.0" target="_blank">
+            <i class="fab fa-bitcoin fa-4x"></i></i>
+          </a></li>
+          <li><a href="https://www.reddit.com/r/VipStarCoin/" target="_blank">
+            <i class="fab fa-reddit fa-4x"></i></i>
+          </a></li>
+          <li><a href="https://github.com/VIPSTARCOIN" target="_blank">
+            <i class="fab fa-github fa-4x"></i>
+          </a></li>
+          <li><a href="http://seesaawiki.jp/vips/" target="_blank">
+            <i class="fas fa-edit fa-4x"></i>
+          </a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>

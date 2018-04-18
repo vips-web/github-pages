@@ -19,9 +19,12 @@
           </a>
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_mac_ms_vips.zip">
             <img src="<?php echo URL; ?>/img/wallet/mac-ms-vips.png" alt="" width="161" height="51">
+          </a><br><br>
+          <a href="http://seesaawiki.jp/vips/d/VIPSTAR%c6%b3%c6%fe%ca%fd%cb%a1" class="button button-bw" target="_blank">
+            使い方&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </a><br>
           <a href="http://explorer.vipstarcoin.jp/" class="button button-bw" target="_blank">
-            VIPSTARCOIN Explorer&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            VIPSTARCOIN EXPLORER&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </a>
         </div>
         <div class="wallet-swap">
