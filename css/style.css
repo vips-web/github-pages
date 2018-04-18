@@ -635,6 +635,7 @@ ol.type li a:hover {
 }
 .community-box .fab {
 	color: #fff;
+	transition: all 0.5s;
 }
 .community-box:hover .fab {
 	color: #000;
@@ -714,20 +715,20 @@ color: #2c3e50;
 color: #2c3e50;
 }
 #contact .social {
-	margin-top: 60px;
+	margin-top: 10px;
+}
+#contact .social ul {
+	margin: 0;
 }
 #contact .social ul li {
 	display: inline-block;
 	margin: 0 20px;
 }
-#contact .social i.fa {
-	font-size: 30px;
-	padding: 4px 5px;
-	color: #fff;
-	transition: all 0.5s;
+#contact .social ul li i {
+	margin: 40px 0 0;
 }
-#contact .social i.fa:hover {
-	color: #000;
+#contact a {
+	transition: all 0.25s;
 }
 #contact .btn {
 	background-color: transparent;
