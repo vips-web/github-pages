@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="http://seesaawiki.jp/vips/d/%b3%a4%b3%b0%bc%e8%b0%fa%bd%eaCOINEXCHANGE%a4%ce%bb%c8%a4%a4%ca%fd" target="_blank">
+                <div class="hover-text">
+                  <h4>CoinExchange上場決定</h4>
+                  <small>2018/04/15</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/develop-ce.png" alt="CoinExchange上場決定">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 other new">
           <div class="news-item">
             <div class="hover-bg">
