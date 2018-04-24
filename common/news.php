@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="javascript:;" target="_blank">
+                <div class="hover-text">
+                  <h4>法人化発表</h4>
+                  <small>2018/04/24</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-incorporation.png" alt="法人化発表">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 develop new">
           <div class="news-item">
             <div class="hover-bg">
@@ -200,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop">
           <div class="news-item">
             <div class="hover-bg">
               <a href="https://ethplorer.io/address/0x7c7c392ab2f9a74bb79ab9e6b1caf6bae0f0f14c" target="_blank">
