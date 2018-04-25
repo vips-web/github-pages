@@ -456,15 +456,6 @@ hr {
 	font-weight: bold;
 	color: #000;
 }
-#wallet .wallet-swap {
-	margin-top: 50px;
-	text-align: center;
-}
-#wallet .wallet-swap .wallet-swap-title-b {
-	color: #000;
-	font-weight: bold;
-	margin: 0 0 20px;
-}
 #wallet p {
 	margin-top: 20px;
 	margin-bottom: 30px;

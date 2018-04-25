@@ -35,10 +35,25 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://twitter.com/VIPSTARCOIN/status/989143834637488128" target="_blank">
+                <div class="hover-text">
+                  <h4>Android版ウォレット発表</h4>
+                  <small>2018/04/25</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/develop-android-wallet.jpg" alt="Android版ウォレット発表">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 other new">
           <div class="news-item">
             <div class="hover-bg">
-              <a href="javascript:;" target="_blank">
+              <a href="<?php echo URL; ?>/img/news/other-incorporation-2.png" target="_blank">
                 <div class="hover-text">
                   <h4>法人化発表</h4>
                   <small>2018/04/24</small>
@@ -200,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 event new">
+        <div class="col-sm-6 col-md-3 col-lg-3 event">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%c2%e81%b2%f3VIPS%a5%a2%a5%a4%a5%b3%a5%f3%c5%ea%c9%bc" target="_blank">
