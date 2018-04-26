@@ -32,14 +32,6 @@
       <input type="hidden" class="js_ctx-label-5" value="運営">
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
-          <b>上場時販売</b>
-        </p>
-        <p>
-          200億枚<br>
-          大半を2satで売却<br>
-          売れ残りはバーン
-        </p>
-        <p class="holding-attention">
           <b>各種媒体での配布</b>
         </p>
         <p>

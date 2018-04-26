@@ -32,14 +32,6 @@
       <input type="hidden" class="js_ctx-label-5" value="Réserve par l'équipe">
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
-          <b>La vente initiale</b>
-        </p>
-        <p>
-          20 milliards de pièces<br>
-          Nous vendrons la plus grande partie à 2sat.<br>
-          L'excès sera brûlé et éliminé
-        </p>
-        <p class="holding-attention">
           <b>Récompense de Mining</b>
         </p>
         <p>

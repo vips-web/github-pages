@@ -32,14 +32,6 @@
       </div>
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
-          <b>Initial sale</b>
-        </p>
-        <p>
-        20 billion coins<br>
-        We sell the most part at 2 sat.<br>
-        Excess supply will be burned and eliminated.
-        </p>
-        <p class="holding-attention">
           <b>Compensation of MINING</b>
         </p>
         <p>
