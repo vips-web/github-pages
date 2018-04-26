@@ -35,6 +35,11 @@
           <p class="bl_about-button text-center">
             <a class="button button-bw" href="<?php echo URL; ?>/download/whitepaper_ja.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
+          <br><br>
+          <div class="bl_movie">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1pxROHbpgrk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+          
           <!-- Modal -->
           <div class="modal fade" id="qaModal" tabindex="-1" role="dialog" aria-labelledby="qaModalLabel">
             <div class="modal-dialog" role="document">

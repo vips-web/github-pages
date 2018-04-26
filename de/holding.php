@@ -32,14 +32,6 @@
       <input type="hidden" class="js_ctx-label-5" value="Verwaltungsteam">
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
-          <b>Verkauf bei Markteinführung</b>
-        </p>
-        <p>
-          20 Mrd.<br>
-          Größtenteils für 2 sat<br>
-          Was nicht verkauft wird, wird vernichtet (Coin-Burn)
-        </p>
-        <p class="holding-attention">
           <b>Mining-Belohnungen</b>
         </p>
         <p>

@@ -32,14 +32,6 @@
       <input type="hidden" class="js_ctx-label-5" value="开发团队预留">
       <div class="col-md-12 col-sm-12">
         <p class="holding-attention">
-          <b>最初的销售 </b>
-        </p>
-        <p>
-          200亿个硬币<br>
-          我们在2sat卖掉其中绝大大部分。<br>
-          过度的供应将被烧毁和消除。
-        </p>
-        <p class="holding-attention">
           <b>挖矿补偿 </b>
         </p>
         <p>

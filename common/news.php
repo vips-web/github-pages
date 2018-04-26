@@ -38,6 +38,36 @@
         <div class="col-sm-6 col-md-3 col-lg-3 develop new">
           <div class="news-item">
             <div class="hover-bg">
+              <a href="http://seesaawiki.jp/vips/d/CryptoBridge%cd%f8%cd%d1%ca%fd%cb%a1" target="_blank">
+                <div class="hover-text">
+                  <h4>CryptoBridge上場</h4>
+                  <small>2018/04/27</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/develop-cb.png" alt="CryptoBridge上場">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://www.splendor-coffee.com/" target="_blank">
+                <div class="hover-text">
+                  <h4>VIPS決済導入第1号店決定 （浅草 SPLENDOR COFFEE）</h4>
+                  <small>2018/04/27</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-settlement.png" alt="VIPS決済導入第1号店決定 （浅草 SPLENDOR COFFEE）">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+          <div class="news-item">
+            <div class="hover-bg">
               <a href="https://twitter.com/VIPSTARCOIN/status/989143834637488128" target="_blank">
                 <div class="hover-text">
                   <h4>Android版ウォレット発表</h4>
@@ -185,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%a1%da%bd%aa%ce%bb%a1%db%bb%ee%b8%b3%cd%d1%c6%c8%bc%ab%c4%cc%b2%dfTTT%b4%b0%c0%ae" target="_blank">
@@ -200,7 +230,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 event new">
+        <div class="col-sm-6 col-md-3 col-lg-3 event">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/VIP%a1%f9STAR%20%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a5%b3%a5%f3%a5%c6%a5%b9%a5%c8%20%a5%a8%a5%f3%a5%c8%a5%ea%a1%bc%b0%ec%cd%f7" target="_blank">
