@@ -29,5 +29,7 @@
         </div>
       </div>
     </div>
+
+    <?php require_once('../common/exchange.php'); ?>
   </div>
 </div>
