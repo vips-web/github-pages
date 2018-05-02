@@ -33,13 +33,38 @@
               <h4>2018<br>SPRING</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>独自通貨開発開始</h4>
-              </div>
               <div class="timeline-body">
                 <p>独自通貨完成＆イーサリアムトークンからのスワップ</p>
                 <p>海外取引所上場</p>
-                <p>VIPSの周知・資金調達</p>
+                <p>資金調達</p>
+                <p>VIPSの周知</p>
+                <p>法人化</p>
+                <p>VIPS支払い対応予定店舗の拡充</p>
+                <p>店舗用VIPS決済システムの共同開発開始</p>
+                <p>VIPSGirls第一弾ゲーム共同開発開始</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>2018<br>SUMMER</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>VIPSを使用したフリーマーケットサービス共同開発開始</p>
+                <p>法人・個人事業主向けVIPSトークン作成業務の開始</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>2018<br>AUTUMN</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>ジム（5ちゃんねる管理人）と商談し正式な5chコインを目指す</p>
+                <p>正式な5chコインと認められ次第VIPSで投げ銭の出来る専用ブラウザ開発開始</p>
+                <p>VIPSを利用した画像投稿型SNSの開発開始</p>
               </div>
             </div>
           </li>
@@ -48,15 +73,10 @@
               <h4>2018<br>WINTER</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>サービス開発開始</h4>
-              </div>
               <div class="timeline-body">
-                <p>VIPSを使用したソーシャルゲームの委託開発開始</p>
-                <p>VIPSを利用したフリーマーケットサービスローンチ</p>
-                <p>ジム（5ちゃんねる管理人）と商談し正式な5chコインを目指す</p>
-                <p>VIPSを払わないと見られない仕組みのアップローダー開発開始</p>
-                <p>ワールドワイドヌクモリティ計画のためのアプリ制作</p>
+                <p>VIPSを使用したソーシャルゲームの開発開始</p>
+                <p>ワールドワイドヌクモリティ計画のためのアプリ開発開始</p>
+                <p>VIPSGirls第一弾ゲームリリース</p>
               </div>
             </div>
           </li>
@@ -65,14 +85,14 @@
               <h4>2019</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>サービス拡大</h4>
-              </div>
               <div class="timeline-body">
-                <p>VIPSで全世界の被災に寄付</p>
-                <p>アップローダー完成サービスローンチ</p>
-                <p>ソーシャルゲーム完成サービスローンチ</p>
+                <p>店舗用VIPS決済システムを提携店舗へ提供開始</p>
+                <p>提携店舗のVIPS支払い国内同時解禁</p>
+                <p>VIPSを利用したフリーマーケットサービスローンチ</p>
+                <p>VIPSを利用したソーシャルゲームサービスローンチ</p>
+                <p>VIPSを利用した画像投稿型SNSサービスローンチ</p>
                 <p>ワールドワイドヌクモリティアプリβ版開発完了</p>
+                <p>VIPSで全世界の被災に寄付</p>
               </div>
             </div>
           </li>

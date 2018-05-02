@@ -35,6 +35,36 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="http://www.malaychan-satu.jp/" target="_blank">
+                <div class="hover-text">
+                  <h4>VIPS決済導入<br>池袋 マレーチャン</h4>
+                  <small>2018/04/30</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-settlement.png" alt="VIPS決済導入 池袋 マレーチャン">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://twitter.com/VIPSTARCOIN/status/991302970984681473" target="_blank">
+                <div class="hover-text">
+                  <h4>マイニングツール公開</h4>
+                  <small>2018/04/30</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/develop-mining-helper.png" alt="マイニングツール公開">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 develop new">
           <div class="news-item">
             <div class="hover-bg">
@@ -55,11 +85,11 @@
             <div class="hover-bg">
               <a href="https://www.splendor-coffee.com/" target="_blank">
                 <div class="hover-text">
-                  <h4>VIPS決済導入第1号店決定 （浅草 SPLENDOR COFFEE）</h4>
+                  <h4>VIPS決済導入第1号店決定<br>浅草 SPLENDOR COFFEE</h4>
                   <small>2018/04/27</small>
                 </div>
                 <div class="news-image">
-                  <img src="<?php echo URL; ?>/img/news/other-settlement.png" alt="VIPS決済導入第1号店決定 （浅草 SPLENDOR COFFEE）">
+                  <img src="<?php echo URL; ?>/img/news/other-settlement.png" alt="VIPS決済導入第1号店決定 浅草 SPLENDOR COFFEE">
                 </div>
               </a>
             </div>
@@ -185,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 event new">
+        <div class="col-sm-6 col-md-3 col-lg-3 event">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a5%b3%a5%f3%a5%c6%a5%b9%a5%c8%b7%eb%b2%cc%c8%af%c9%bd" target="_blank">
@@ -200,7 +230,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+        <div class="col-sm-6 col-md-3 col-lg-3 other">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/ryugoroshi/" target="_blank">
