@@ -34,14 +34,38 @@
               <h4>2018<br>SPRING</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>DEVELOPMENT OF AN ORIGINAL COIN</h4>
-              </div>
               <div class="timeline-body">
-              <p>COMPLETION OF THE DEVELOPMENT OF ORIGINAL CRYPTCURRENCY</p>
-              <p>SWAPPING ETHEREUM VIPSTAR TOKENS FOR THE ORIGINAL COINS</p>
-              <p>BEING LISTED ON AN EXCHANGE</p>
-              <p>MARKETING OF VIPS / FUNDING FOR FURTHER DEVELOPMENT</p>
+                <p>Development completion of original cryptocurrency & swapping ethereum token for original VIPS.</p>
+                <p>Listing on exchanges</p>
+                <p>Funding process</p>
+                <p>VIPS - Marketing</p>
+                <p>Incorporation</p>
+                <p>Increasing the number of stores introducing VIPS payment</p>
+                <p>Starting co-development of business use VIPS payment system for partner store</p>
+                <p>Starting the development of first VIPSGirls game</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>2018<br>SUMMER</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Starting the co-development of flea market service using VIPS</p>
+                <p>Starting the VIPS-token creation business for companies and sole proprietors</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>2018<br>AUTUMN</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Negotiation with Jim (administrator of 5ch) to make VIPS to the official 5ch coin.</p>
+                <p>Developing 5ch browser with VIPS tipping function, upon official recognition of VIPS as official 5ch coin</p>
+                <p>Starting the development of file uploading SNS using VIPS</p>
               </div>
             </div>
           </li>
@@ -50,16 +74,10 @@
               <h4>2018<br>WINTER</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>SERVICES DEVELOPMENT</h4>
-              </div>
               <div class="timeline-body">
-              <p>STARTING THE DEVELOPMENT OF A SOCIAL GAMING APP* FOR VIPS HOLDERS</p>
-              <p>LAUNCHING A FLEA MARKET SERVICE FOR VIPS HOLDERS</p>
-              <p>ACQUIRING OFFICIAL RECOGNITION FROM 5CH</p>
-              <p>STARTING THE DEVELOPMENT OF A FILE UPLOADER FOR VIPS HOLDERS</p>
-              <p>STARTING THE DEVELOPMENT OF A 'WORLDWIDE NUQUMORITY' APP</p>
-              <p>*The service will be provided as a smartphone app</p>
+                <p>Starting the development of a social game using VIPS</p>
+                <p>Starting the development of an app for the “worldwide nuqumority-project“</p>
+                <p>Release of the first VIPSGirls game</p>
               </div>
             </div>
           </li>
@@ -68,14 +86,14 @@
               <h4>2019</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>SERVICES EXPANSION</h4>
-              </div>
               <div class="timeline-body">
-              <p>DONATION TO DISASTER-STRICKEN AREAS OVER THE WORLD IN VIPS</p>
-              <p>RELEASE OF THE FILE UPLOADER SERVICE</p>
-              <p>RELEASE OF THE SOCIAL GAMING APP</p>
-              <p>COMPLETION OF BETA VERSION OF THE 'WORLDWIDE NUQUMORITY' APP</p>
+                <p>Providing business use VIPS payment system for partner stores</p>
+                <p>Starting the VIPS payment system at all partner stores in Japan</p>
+                <p>Starting the flea market service using VIPS</p>
+                <p>Donation to disaster-stricken areas over the world in VIPS</p>
+                <p>Launching the social game using VIPS</p>
+                <p>Launching the file uploading SNS using VIPS</p>
+                <p>Completion of beta version of the app for the “worldwide nuqumority-project“</p>
               </div>
             </div>
           </li>
@@ -88,9 +106,9 @@
                 <h4>LAUNCHING THE 'WORLDWIDE NUQUMORITY' SERVICE</h4>
               </div>
               <div class="timeline-body">
-              <p>The Worldwide Nuqumority is a service that shows organizations in the disaster-stricken areas that hold VIPS wallets.</p>
-              <p>VIPS holders can donate to them easily by just pushing a button one time</p>
-              <p>VIPS will reach the receiver's wallet faster than sending fiat money and could make purchases without withdrawing money from banks where a VIPS settlement system has been developed.</p>
+                <p>The Worldwide Nuqumority is a service that shows organizations in the disaster-stricken areas that hold VIPS wallets.</p>
+                <p>VIPS holders can donate to them easily by just pushing a button one time</p>
+                <p>VIPS will reach the receiver's wallet faster than sending fiat money and could make purchases without withdrawing money from banks where a VIPS settlement system has been developed.</p>
               </div>
             </div>
           </li>
