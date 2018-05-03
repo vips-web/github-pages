@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 event new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://twitter.com/VIPSTARCOIN/status/992051802890686464" target="_blank">
+                <div class="hover-text">
+                  <h4>海外Airdropイベント開始</h4>
+                  <small>2018/05/03</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/event-airdrop-overseas.png" alt="海外Airdropイベント開始">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 other new">
           <div class="news-item">
             <div class="hover-bg">
@@ -200,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 develop new">
+        <div class="col-sm-6 col-md-3 col-lg-3 develop">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%c6%c8%bc%ab%c4%cc%b2%df%c6%b0%ba%ee%a5%c6%a5%b9%a5%c8" target="_blank">

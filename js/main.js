@@ -3,6 +3,10 @@ function main() {
 (function () {
   'use strict';
 
+  $(window).on('load', function() {
+    $('.js_event').trigger('click');
+  });
+
   $('a.page-scroll').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
         && location.hostname == this.hostname) {
