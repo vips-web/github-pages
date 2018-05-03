@@ -38,7 +38,7 @@
         <div class="col-sm-6 col-md-3 col-lg-3 event new">
           <div class="news-item">
             <div class="hover-bg">
-              <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
+              <a href="https://twitter.com/VIPSTARCOIN/status/992051802890686464" target="_blank">
                 <div class="hover-text">
                   <h4>海外Airdropイベント開始</h4>
                   <small>2018/05/03</small>

@@ -19,17 +19,17 @@
   <a href="<?php echo URL; ?>/images/airdrop-en.png"
      class="js_event"
      data-lightbox="event"
-     data-title="AIRDROP EVENT<br><a href='https://twitter.com/VIPSTARCOIN' target='_blank'>MORE INFORMATION <i class='fas fa-external-link-alt'></i></a>"></a>
+     data-title="Please join <a href='https://discord.gg/sEaaxau' target='_blank'>Discord <i class='fas fa-external-link-alt'></i></a> and see #air-drop-instruction."></a>
 <?php elseif ($lang == 'de'): ?>
   <script type="text/javascript" src="<?php echo URL; ?>/js/lightbox.min.js"></script>
   <a href="<?php echo URL; ?>/images/airdrop-de.png"
      class="js_event"
      data-lightbox="event"
-     data-title="AIRDROP EVENT<br><a href='https://twitter.com/VIPSTARCOIN' target='_blank'>MORE INFORMATION <i class='fas fa-external-link-alt'></i></a>"></a>
+     data-title="Please join <a href='https://discord.gg/sEaaxau' target='_blank'>Discord <i class='fas fa-external-link-alt'></i></a> and see #air-drop-instruction."></a>
 <?php elseif ($lang == 'fr'): ?>
   <script type="text/javascript" src="<?php echo URL; ?>/js/lightbox.min.js"></script>
   <a href="<?php echo URL; ?>/images/airdrop-fr.png"
      class="js_event"
      data-lightbox="event"
-     data-title="AIRDROP EVENT<br><a href='https://twitter.com/VIPSTARCOIN' target='_blank'>MORE INFORMATION <i class='fas fa-external-link-alt'></i></a>"></a>
+     data-title="Please join <a href='https://discord.gg/sEaaxau' target='_blank'>Discord <i class='fas fa-external-link-alt'></i></a> and see #air-drop-instruction."></a>
 <?php endif; ?>
