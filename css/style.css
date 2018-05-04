@@ -626,6 +626,21 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
+/* Partner Section */
+#partner {
+	padding: 100px 0 0;
+	background: #ffc000;
+}
+#partner hr {
+	background: #fff;
+}
+#partner .partner-image {
+	text-align: center;
+	padding: 0 15px;
+}
+#partner .partner-image img {
+	max-width: 100%;
+}
 /* Community Section */
 #community {
 	padding: 100px 0 50px;
