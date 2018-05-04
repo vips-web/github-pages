@@ -35,6 +35,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://nzigen.com/" target="_blank">
+                <div class="hover-text">
+                  <h4>業務提携<br>エヌ次元株式会社</h4>
+                  <small>2018/05/04</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-nzigen.png" alt="業務提携 エヌ次元">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 event new">
           <div class="news-item">
             <div class="hover-bg">
@@ -200,7 +215,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+        <div class="col-sm-6 col-md-3 col-lg-3 other">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a4%cb%a4%c4%a4%a4%a4%c6" target="_blank">
