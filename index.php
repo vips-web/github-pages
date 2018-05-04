@@ -17,6 +17,7 @@
     <?php require_once('./ja/roadmap.php'); ?>
     <?php require_once('./ja/holding.php'); ?>
     <?php require_once('./ja/wallet.php'); ?>
+    <?php require_once('./common/exchange.php'); ?>
     <?php require_once('./common/news.php'); ?>
     <?php require_once('./common/community.php'); ?>
     <?php require_once('./common/contact.php'); ?>
