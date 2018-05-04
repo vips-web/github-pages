@@ -32,33 +32,53 @@
           </li>
           <li class="timeline-inverted">
             <div class="timeline-image">
-              <h4>2018<br>FRÜHLING</h4>
+              <h4>2018<br>Frühjahr</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Entwicklungsstart der eigenen Währung</h4>
-              </div>
               <div class="timeline-body">
                 <p>Erschaffung neuer Währung & Swap aus VIPS-Ethereum-Tokens</p>
-                <p>Registrierung auf einer Handelsplattform</p>
-                <p>Marketing / Kapitalbeschaffung </p>
+                <p>Listing auf Handelsplattformen</p>
+                <p>Kapitalbeschaffung</p>
+                <p>VIPS-Marketing</p>
+                <p>Firmengründung</p>
+                <p>VIPS in mehreren Läden als Zahlungsmittel akzeptieren lassen</p>
+                <p>Gemeinsame Entwicklung des professionellen VIPS-Zahlungssystems</p>
+                <p>Gemeinsame Entwicklung des ersten VIPSGirls-Spiels</p>
               </div>
             </div>
           </li>
           <li>
             <div class="timeline-image">
-              <h4>2018<br>WINTER</h4>
+              <h4>2018<br>Sommer</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Produkt- Dienstentwicklungen</h4>
-              </div>
               <div class="timeline-body">
-                <p>Entwicklung eines Social Games mit VIPS-Nutzung. </p>
-                <p>Start eines Online-Flohmarktes mit VIPS-Nutzung.</p>
-                <p>Verhandlungen, um VIPS zur offiziellen 5ch-Währung zu machen.</p>
-                <p>Entwicklung von File-Sharing-Dienst nur für VIPS-Nutzer. </p>
-                <p>Entwicklung einer World Wide Nukumority-App. </p>
+                <p>Gemeinsame Entwicklung des Flohmarktdienstes mit VIPS-Nutzung</p>
+                <p>VIPS-Token-Erstellungsdienst für Firmen und Selbstständige</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>2018<br>Herbst</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Verhandlungen mit Jim (Administrator von 5ch), um VIPS zur offiziellen 5ch-Währung zu machen.</p>
+                <p>Im Anschluss Entwicklung des 5ch-Browsers mit VIPS-Trinkgeld-Funktion</p>
+                <p>Entwicklung des File-Sharing-Social-Networks mit VIPS-Nutzung</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>2018<br>Winter</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Entwicklung eines Social Games mit VIPS-Nutzung</p>
+                <p>Entwicklung einer App für das World Wide Nukumority-Projekt</p>
+                <p>Der Release des ersten VIPS-Girls-Spiels</p>
               </div>
             </div>
           </li>
@@ -67,14 +87,14 @@
               <h4>2019</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Diensterweiterungen</h4>
-              </div>
               <div class="timeline-body">
-                <p>VIPS-Spenden für Katastrophengebieten weltweit.</p>
-                <p>Der Release vom File-Sharing-Dienst.</p>
-                <p>Der Release vom Social Game.</p>
-                <p>Fertigstellung der Beta-Version von der World Wide Nukumority-App.</p>
+                <p>Das professionelle VIPS-Zahlungssystem wird an unseren Partnern zur Verfügung gestellt</p>
+                <p>Der Start des VIPS-Zahlungssystems bei unseren Partnern</p>
+                <p>Der Start des Flohmarktdienstes mit VIPS-Nutzung</p>
+                <p>VIPS-Spenden für Katastrophengebieten weltweit</p>
+                <p>Der Release des Social Games mit VIPS-Nutzung</p>
+                <p>Der Release des File-Sharing-Social-Networks mit VIPS-Nutzung</p>
+                <p>Fertigstellung der Beta-Version der World Wide Nukumority-App</p>
               </div>
             </div>
           </li>

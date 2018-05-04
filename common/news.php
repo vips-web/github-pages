@@ -9,24 +9,18 @@
       <ul class="cat">
         <li>
           <ol class="type">
-            <?php if ($lang == 'en' || $lang == 'fr' || $lang == 'zh'): ?>
-              <li><a href="#" data-filter="*">ALL</a></li>
-              <li><a href="#" data-filter=".new" class="active">NEW</a></li>
-              <li><a href="#" data-filter=".develop">DEVELOPING INFO</a></li>
-              <li><a href="#" data-filter=".event">EVENTS</a></li>
-              <li><a href="#" data-filter=".other">OTHERS</a></li>
-            <?php elseif ($lang == 'de'): ?>
-              <li><a href="#" data-filter="*">ALLE</a></li>
-              <li><a href="#" data-filter=".new" class="active">NEU</a></li>
-              <li><a href="#" data-filter=".develop">DEV-INFO</a></li>
-              <li><a href="#" data-filter=".event">EVENTS</a></li>
-              <li><a href="#" data-filter=".other">ETC</a></li>
-            <?php else: ?>
-              <li><a href="#" data-filter="*">すべて</a></li>
-              <li><a href="#" data-filter=".new" class="active">最新</a></li>
+            <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+              <li><a href="#" data-filter="*" class="active">すべて</a></li>
+              <!-- <li><a href="#" data-filter=".new" class="active">最新</a></li> -->
               <li><a href="#" data-filter=".develop">開発情報</a></li>
               <li><a href="#" data-filter=".event">イベント</a></li>
               <li><a href="#" data-filter=".other">その他</a></li>
+            <?php else: ?>
+              <li><a href="#" data-filter="*" class="active">ALL</a></li>
+              <!-- <li><a href="#" data-filter=".new" class="active">NEW</a></li> -->
+              <li><a href="#" data-filter=".develop">DEVELOPING INFO</a></li>
+              <li><a href="#" data-filter=".event">EVENTS</a></li>
+              <li><a href="#" data-filter=".other">OTHERS</a></li>
             <?php endif; ?>
           </ol>
         </li>
@@ -35,6 +29,21 @@
     </div>
     <div class="row">
       <div class="news-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+          <div class="news-item">
+            <div class="hover-bg">
+              <a href="https://nzigen.com/" target="_blank">
+                <div class="hover-text">
+                  <h4>業務提携<br>エヌ次元株式会社</h4>
+                  <small>2018/05/04</small>
+                </div>
+                <div class="news-image">
+                  <img src="<?php echo URL; ?>/img/news/other-nzigen.png" alt="業務提携 エヌ次元">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="col-sm-6 col-md-3 col-lg-3 event new">
           <div class="news-item">
             <div class="hover-bg">
@@ -200,7 +209,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 other new">
+        <!-- <div class="col-sm-6 col-md-3 col-lg-3 other">
           <div class="news-item">
             <div class="hover-bg">
               <a href="http://seesaawiki.jp/vips/d/%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a4%cb%a4%c4%a4%a4%a4%c6" target="_blank">
@@ -319,7 +328,7 @@
               </a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

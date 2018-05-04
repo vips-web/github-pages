@@ -2,6 +2,8 @@
   <div class="section-title text-center center">
     <h2>EXCHANGE</h2>
     <hr>
+  </div>
+  <div class="exchange-image">
     <a href="https://www.coinexchange.io/market/VIPS/BTC" target="_blank">
       <img src="<?php echo URL; ?>/img/exchange/coinexchange.png" alt="CoinExchange" width="500">
     </a><br>
