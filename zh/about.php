@@ -25,7 +25,7 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-          <p>VIPSTARCOIN（VIPS）是一种加密货币，源于5chnnel中的一个名为'VIP'的社区，它是日本最大的社交网站。 </p>
+          <p>VIPSTARCOIN（VIPS）是一种加密货币，源于5channel中的一个名为'VIP'的社区，它是日本最大的社交网站。 </p>
           <p>VIPS目前正在由志愿者程序员和测试用户开发。我们开发团队的目标是将VIPS作为来自日本的原始加密货币以各种方式加以利用，为促进跨界社会作出贡献的最终目标作为捐助的便利方法。 </p>
           <p>我们希望VIPS在VIPS持有者的大力支持下，在现实社会以及互联网社区获得普及。</p>
           <p><a href="#" class="about-qa" data-toggle="modal" data-target="#qaModal">【开封者】什么是加密货币？ Q＆A&nbsp;&nbsp;<i class="far fa-window-restore"></i></a></p>
@@ -71,14 +71,6 @@
                   <p>
                     <span>问. 保持钱包是否有任何费用？</span><br>
                     <span><b>答. 不需要。保持一个钱包是免费的。</b></span>
-                  </p>
-                  <p>
-                    <span>问. VIPS是否会在隐私交换中列出？</span><br>
-                    <span><b>答. 截至2018年4月，VIPS没有在任何交易所上市，并且在此刻尚未行成任何价值。我们打算让VIPS尽快在交易所上市。</b></span>
-                  </p>
-                  <p>
-                    <span>问. 如何在上市之前获得一些VIPS硬币。 </span><br>
-                    <span><b>答. 我们终止了空投，因此在此之前没有办法获得VIPS。</b></span>
                   </p>
                   <p>
                     <span>问. 增加VIPS价值的计划是什么？</span><br>
