@@ -46,7 +46,6 @@ function main() {
   $(window).load(function() {
     var $container = $('.news-items');
     $container.isotope({
-      filter: '.new',
       animationOptions: {
         duration: 500,
         easing: 'linear',

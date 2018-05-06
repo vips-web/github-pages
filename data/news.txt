@@ -1,0 +1,20 @@
+業務提携<br>エヌ次元株式会社,2018/05/04,other,other-nzigen.png,https://nzigen.com/
+海外Airdropイベント開始,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
+VIPS決済導入<br>池袋 マレーチャン,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/
+マイニングツール公開,2018/04/30,develop,develop-mining-helper.png,https://twitter.com/VIPSTARCOIN/status/991302970984681473
+CryptoBridge上場,2018/04/27,develop,develop-cb.png,http://seesaawiki.jp/vips/d/CryptoBridge%cd%f8%cd%d1%ca%fd%cb%a1
+VIPS決済導入第1号店決定<br>浅草 SPLENDOR COFFEE,2018/04/27,other,other-settlement.png,https://www.splendor-coffee.com/
+Android版ウォレット発表,2018/04/25,develop,develop-android-wallet.jpg,https://twitter.com/VIPSTARCOIN/status/989143834637488128
+法人化発表,2018/04/24,other,other-incorporation.png,https://www.vipstarcoin.jp/img/news/other-incorporation-2.png
+CoinExchange上場決定,2018/04/15,develop,develop-ce.png,http://seesaawiki.jp/vips/d/%b3%a4%b3%b0%bc%e8%b0%fa%bd%eaCOINEXCHANGE%a4%ce%bb%c8%a4%a4%ca%fd
+クラウドファンディング開始,2018/04/09,other,other-crowd-funding.png,https://camp-fire.jp/projects/view/71975
+正規版ウォレット配布&スワップ開始,2018/04/07,develop,develop-swap.png,http://seesaawiki.jp/vips/d/VIPSTAR%c6%b3%c6%fe%ca%fd%cb%a1
+VIPSガールズアニメ化決定！,2018/04/01<br>（エイプリルフール）,other,other-april-fool-2018.jpg,https://www.youtube.com/watch?v=iUzFW0sZ3s0
+公式キャラクター設定画公開,2018/03/26,other,other-chara-sheet.png,http://seesaawiki.jp/vips/d/%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a4%cb%a4%c4%a4%a4%a4%c6
+独自通貨動作テスト (SIKEN),2018/03/20,develop,develop-skn.png,http://seesaawiki.jp/vips/d/%c6%c8%bc%ab%c4%cc%b2%df%c6%b0%ba%ee%a5%c6%a5%b9%a5%c8
+公式キャラクターコンテスト 結果発表,2018/03/18,event,event-chara-result.png,http://seesaawiki.jp/vips/d/%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a5%b3%a5%f3%a5%c6%a5%b9%a5%c8%b7%eb%b2%cc%c8%af%c9%bd
+提携ゲーム「竜殺しの物語」リリース,2018/03/14,other,other-ryugoroshi.jpg,http://seesaawiki.jp/ryugoroshi/
+独自通貨動作テスト (TESTSTAR),2018/03/09,develop,develop-ttt.png,http://seesaawiki.jp/vips/d/%a1%da%bd%aa%ce%bb%a1%db%bb%ee%b8%b3%cd%d1%c6%c8%bc%ab%c4%cc%b2%dfTTT%b4%b0%c0%ae
+VIP☆STAR 公式キャラクターコンテスト,2018/02/26,event,event-chara.jpeg,http://seesaawiki.jp/vips/d/VIP%a1%f9STAR%20%b8%f8%bc%b0%a5%ad%a5%e3%a5%e9%a5%af%a5%bf%a1%bc%a5%b3%a5%f3%a5%c6%a5%b9%a5%c8%20%a5%a8%a5%f3%a5%c8%a5%ea%a1%bc%b0%ec%cd%f7
+VIP☆STAR コインアイコンコンテスト,2018/02/19,event,event-icon.jpg,http://seesaawiki.jp/vips/d/%c2%e81%b2%f3VIPS%a5%a2%a5%a4%a5%b3%a5%f3%c5%ea%c9%bc
+VIP☆STAR 発行,2018/02/17,develop,develop-init.png,https://ethplorer.io/address/0x7c7c392ab2f9a74bb79ab9e6b1caf6bae0f0f14c
