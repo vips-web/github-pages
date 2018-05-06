@@ -1,5 +1,11 @@
 <?php
-  define('URL', 'https://www.vipstarcoin.jp');
+  if (strpos($_SERVER['HTTP_HOST'], 'www.vipstarcoin.jp') !== false) {
+    ini_set('display_errors', 0);
+    define('URL', 'https://www.vipstarcoin.jp');
+  } else {
+    ini_set('display_errors', 1);
+    define('URL', 'http://localhost:8888/vips-web');
+  }
 
   $csv = new SplFileObject(__DIR__ . '/data/news.txt', 'r');
   $csv->setFlags(SplFileObject::READ_CSV);
