@@ -87,14 +87,6 @@
                     <span><b>R. Non. Vous pouvez le garder gratuitement.</b></span>
                   </p>
                   <p>
-                    <span>Q. VIPS sera-t-il inscrit sur une plateforme d'échange de crypto monnaie?</span><br>
-                    <span><b>R. Nous visons à ce que VIPS soit inscrit rapidement sur les plateformes d'échange.</b></span>
-                  </p>
-                  <p>
-                    <span>Q. Puis-je obtenir VIPS avant d'être s'inscrit ?</span><br>
-                    <span><b>R. Nous avons terminé Air drops, donc il n'y a pas de moyen sur ce point avant d'être inscrit.</b></span>
-                  </p>
-                  <p>
                     <span>Q. Quel est le plan pour augmenter la valeur de VIPS?</span><br>
                     <span><b>
                       R. D'abord, nous planifions d'augmenter le nombre de personnes qui ont entendu parlé de VIPS.<br>

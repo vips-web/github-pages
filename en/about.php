@@ -73,14 +73,6 @@
                   <span><b>A. No. Keeping a wallet are free of charge.</b></span>
                 </p>
                 <p>
-                  <span>Q. Will VIPS be listed on a cryptcurrency exchange?</span><br>
-                  <span><b>A. As of April 2018, VIPS is not listed on any exchanges and does not have any value at this point. We are targeting to have VIPS listed on an exchange shortly. </b></span>
-                </p>
-                <p>
-                  <span>Q. How can I get some VIPS coins before listed. </span><br>
-                  <span><b>A. We had terminated airdrops, so there's no way to get VIPS before listed at this point. </b></span>
-                </p>
-                <p>
                   <span>Q. What is the plan for increasing the value of VIPS?</span><br>
                   <span><b>A. We plan to increase the number of people who have heard of VIPS at first; then we release an app that enables holders to use VIPS as a payment method. Detailed plans are to be developed.</b></span>
                 </p>

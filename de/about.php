@@ -74,14 +74,6 @@
                     <span><b>A. Sie ist kostenfrei.</b></span>
                   </p>
                   <p>
-                    <span>Q. Wie viel ist ein VIPS wert?</span><br>
-                    <span><b>A. VIPS bekommt einen Wert, wenn viele Leute VIPS besitzen und diese Währung in der Öffentlichkeit anerkannt und in Umlauf gebracht wird. Zurzeit ist VIPS genau 0 Cent wert.</b></span>
-                  </p>
-                  <p>
-                    <span>Q. Mache ich Verluste, wenn das Projekt VIPS nicht läuft?</span><br>
-                    <span><b>A. Zurzeit ist VIPS kostenfrei, daher würde man nur die für VIPS genutzte Zeit verlieren.</b></span>
-                  </p>
-                  <p>
                     <span>Q. Werde ich reich, wenn VIPS gut läuft?</span><br>
                     <span><b>A. Das ist durchaus möglich, aber dafür müssen viele Leute VIPS besitzen.</b></span>
                   </p>
