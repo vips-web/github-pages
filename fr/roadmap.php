@@ -32,13 +32,36 @@
               <h4>2018<br>PRINTEMPS</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Développement d'une crypto monnaie originale</h4>
-              </div>
               <div class="timeline-body">
-                <p>Achèvement de la Crypto monnaie originale ＆ échange d'etereums(ETH)</p>
-                <p>Être inscrit sur une plateforme d'échange de crypto monnaie pour les étrangers</p>
-                <p>Diffuser VIPS et fournir des fonds</p>
+                <p>Achèvement de la Crypto monnaie originale(VIPS) ＆ échange d'etereums(ETH) à VIPS</p>
+                <p>Être inscrit sur des plateforme d'échanges</p>
+                <p>Le processus de financement</p>
+                <p>VIPS - Markéting </p>
+                <p>Établir une société</p>
+                <p>Augmenter le nombre de magasins disponibles avec le paiement VIPS</p>
+                <p>Commencer le développement du 1er jeu de VIPSGirls</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>2018<br>ÉTÉ</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Commencer le co-développement d’un service de vide-grenier en ligne pour les titulaires de VIPS</p>
+                <p>Commencer la création business de VIPS-tokens pour les entreprises et Auto-entrepreneurs</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>2018<br>AUTOMNE</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-body">
+                <p>Négocier avec James(l'administrateur de 5ch) pour acquérir une reconnaissance officielle de 5ch</p>
+                <p>Commencer le développement du SNS de téléchargement de fichiers pour les titulaires VIPS</p>
               </div>
             </div>
           </li>
@@ -47,15 +70,10 @@
               <h4>2018<br>HIVER</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Le développement des services</h4>
-              </div>
               <div class="timeline-body">
-                <p>Commencer le développement d'une application d'un jeux social pour les titulaires de VIPS.</p>
-                <p>Lancer un marché aux puces pour les titulaires de VIPS</p>
-                <p>Négocier avec James(l'administrateur de 5ch) pour acquérir une reconnaissance officielle de 5ch</p>
-                <p>Développer un téléchargement de fichiers pour les titulaires de VIPS</p>
-                <p>Commencer le développement d'une application "worldwide nukumority"</p>
+                <p>Commencer le développement d’un jeu social pour les titulaires VIPS</p>
+                <p>Commencer le développement d’une application pour “worldwide nukumority-project“</p>
+                <p>Lancement du 1er jeu de VIPSGirls</p>
               </div>
             </div>
           </li>
@@ -64,14 +82,14 @@
               <h4>2019</h4>
             </div>
             <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Croissance des services</h4>
-              </div>
               <div class="timeline-body">
-                <p>Don pour les régions sinistrées dans le monde en VIPS</p>
-                <p>Lancement du service de fichiers de téléchargement</p>
-                <p>Lancement de l'application du jeu social</p>
-                <p>Achèvement de la version bêta de l'application "Worldwide nukumority"</p>
+                <p>Commencer à fournir le système de paiement VIPS pour les magasins partenaires</p>
+                <p>Lancement du système de paiement VIPS dans tous les magasins partenaires au Japon</p>
+                <p>Lancement du service du vide-grenier en ligne pour les titulaires VIPS</p>
+                <p>Les dons avec VIPS aux régions sinistrées à travers le monde</p>
+                <p>Lancement du jeu social pour les titulaires VIPS</p>
+                <p>Lancement du SNS de téléchargement de fichiers pour les titulaires VIPS</p>
+                <p>Achèvement de la version bêta de l’application pour le “worldwide nuqumority project“</p>
               </div>
             </div>
           </li>
