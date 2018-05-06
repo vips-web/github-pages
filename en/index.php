@@ -6,9 +6,9 @@
     <?php require_once('../common/head.php'); ?>
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
-          content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5chnnel, the largest Japanese textboards.">
+          content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5channel, the largest Japanese textboards.">
     <meta property="og:description"
-          content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5chnnel, the largest Japanese textboards.">
+          content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5channel, the largest Japanese textboards.">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>

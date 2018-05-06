@@ -25,7 +25,7 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-        <p>VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5chnnel, the largest Japanese textboards.</p>
+        <p>VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5channel, the largest Japanese textboards.</p>
         <p>VIPS is currently being developed by a volunteer programmer and test users. We dev team is targeting for VIPS to be utilized in varied ways as an original cryptocurrency from Japan, setting the final goal for contributing to the society across borders as a convenient method of making donations.</p>
         <p>We hope VIPS gains popularity in the real society as well as on the Internet community with the strong support of VIPS holders.</p>
           <p><a href="#" class="about-qa" data-toggle="modal" data-target="#qaModal">【FOR BEGINNERS】What is a cryptocurrency? Q＆A&nbsp;&nbsp;<i class="far fa-window-restore"></i></a></p>
