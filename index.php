@@ -14,6 +14,7 @@
     <?php require_once('./common/header.php'); ?>
     <?php require_once('./common/nav.php'); ?>
     <?php require_once('./ja/about.php'); ?>
+    <?php require_once('./common/feature.php'); ?>
     <?php require_once('./ja/roadmap.php'); ?>
     <?php require_once('./ja/holding.php'); ?>
     <?php require_once('./ja/wallet.php'); ?>

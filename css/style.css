@@ -274,6 +274,33 @@ hr {
 	text-indent: -20px;
 	margin-left: 20px;
 }
+/* Feature Section */
+#feature {
+	padding: 0 0 50px;
+	color: #000;
+	background: #fff;
+}
+#feature h2 {
+	color: #000;
+}
+#feature hr {
+	background: #ffc000;
+}
+#feature .bl_feature {
+	margin-bottom: 50px;
+}
+#feature .bl_feature h3 {
+	font-weight: bold;
+}
+#feature .feature-text {
+	margin-top: 25px;
+}
+#feature .bl_feature a {
+	color: #ffc000;
+}
+#feature .bl_feature a:hover {
+	text-decoration: underline;
+}
 /* Roadmap Section */
 #roadmap {
 	padding: 100px 0;
