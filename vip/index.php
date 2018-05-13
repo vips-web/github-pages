@@ -1,5 +1,5 @@
-<?php require_once('../controller.php'); ?>
 <?php $lang = 'vip'; ?>
+<?php require_once('../controller.php'); ?>
 <!DOCTYPE html>
 <html lang="ja">
   <head>
