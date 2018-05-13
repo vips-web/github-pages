@@ -4,6 +4,7 @@
 <html lang="ja">
   <head>
     <?php require_once('./common/head.php'); ?>
+    <meta property="og:url" content="<?php echo URL; ?>/">
     <meta name="description"
           content="VIPSTARCOIN(VIPS)は5ちゃんねるニュー速VIP板発祥の仮想通貨です。国産仮想通貨として多目的に利用されること、ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。強いコミュニティの力で運営し、盛り上げていきます。">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨">

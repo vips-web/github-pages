@@ -4,6 +4,7 @@
 <html lang="de">
   <head>
     <?php require_once('../common/head.php'); ?>
+    <meta property="og:url" content="<?php echo URL; ?>/de/">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
           content="VIPSTARCOIN (VIPS) ist eine Kryptowährung, die im Forum 'Newsoku VIP' aus '5ch' entstanden ist.">

@@ -4,6 +4,7 @@
 <html lang="en">
   <head>
     <?php require_once('../common/head.php'); ?>
+    <meta property="og:url" content="<?php echo URL; ?>/en/">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
           content="VIPSTARCOIN (VIPS) is a cryptocurrency originated from a community called 'VIP' in 5channel, the largest Japanese textboards.">

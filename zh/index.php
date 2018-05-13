@@ -4,6 +4,7 @@
 <html lang="zh">
   <head>
     <?php require_once('../common/head.php'); ?>
+    <meta property="og:url" content="<?php echo URL; ?>/zh/">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
           content="VIPSTARCOIN（VIPS）是一种加密货币，源于5channel中的一个名为'VIP'的社区，它是日本最大的社交网站。 ">
