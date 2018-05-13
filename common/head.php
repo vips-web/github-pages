@@ -14,7 +14,6 @@
 
 <meta property="og:title" content="VIPSTARCOIN">
 <meta property="og:type" content="website">
-<meta property="og:url" content="<?php echo URL; ?>/">
 <meta property="og:image" content="<?php echo URL; ?>/img/og-image.jpg">
 <meta property="og:site_name" content="VIPSTARCOIN">
 <meta name="twitter:card" content="summary_large_image">

@@ -1,9 +1,10 @@
-<?php require_once('../controller.php'); ?>
 <?php $lang = 'zh'; ?>
+<?php require_once('../controller.php'); ?>
 <!DOCTYPE html>
 <html lang="zh">
   <head>
     <?php require_once('../common/head.php'); ?>
+    <meta property="og:url" content="<?php echo URL; ?>/zh/">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP">
     <meta name="description"
           content="VIPSTARCOIN（VIPS）是一种加密货币，源于5channel中的一个名为'VIP'的社区，它是日本最大的社交网站。 ">
@@ -14,6 +15,7 @@
     <?php require_once('../common/header.php'); ?>
     <?php require_once('../common/nav.php'); ?>
     <?php require_once('./about.php'); ?>
+    <?php require_once('../common/feature.php'); ?>
     <?php require_once('./roadmap.php'); ?>
     <?php require_once('./holding.php'); ?>
     <?php require_once('./wallet.php'); ?>

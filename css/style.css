@@ -255,6 +255,7 @@ hr {
   position: relative;
   width: 100%;
   padding-top: 56.25%;
+	margin-top: 60px;
 }
 #about .bl_movie iframe {
   position: absolute;
@@ -273,6 +274,33 @@ hr {
 	display: inline-block;
 	text-indent: -20px;
 	margin-left: 20px;
+}
+/* Feature Section */
+#feature {
+	padding: 0 0 50px;
+	color: #000;
+	background: #fff;
+}
+#feature h2 {
+	color: #000;
+}
+#feature hr {
+	background: #ffc000;
+}
+#feature .bl_feature {
+	margin-bottom: 50px;
+}
+#feature .bl_feature h3 {
+	font-weight: bold;
+}
+#feature .feature-text {
+	margin-top: 25px;
+}
+#feature .bl_feature a {
+	color: #ffc000;
+}
+#feature .bl_feature a:hover {
+	text-decoration: underline;
 }
 /* Roadmap Section */
 #roadmap {
@@ -786,7 +814,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
-/* Footer Section*/
+/* Footer Section */
 #footer {
 	background: #000;
 	color: #fff;
@@ -940,5 +968,24 @@ header .intro-text {
 }
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
+}
+}
+
+/* For Smartphone */
+@media(max-width:425px) {
+.hover-bg .hover-text>h4 {
+	opacity: 1;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+.hover-bg .hover-text>i {
+	opacity: 1;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+}
+.hover-bg .hover-text {
+	opacity: 1;
 }
 }

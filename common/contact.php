@@ -1,4 +1,11 @@
 <!-- Contact Section -->
+<?php
+  if ($lang == 'ja' || $lang == 'vip') {
+    $twitter_account = 'VIPSTARCOIN';
+  } else {
+    $twitter_account = 'VIPSTARCOIN_';
+  }
+?>
 <div id="contact" class="text-center">
   <div class="container">
     <div class="section-title center">
@@ -13,9 +20,9 @@
         </a>
       </div>
       <div class="col-md-6">
-        <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
+        <a href="https://twitter.com/<?php echo $twitter_account; ?>" target="_blank">
           <i class="fab fa-twitter fa-5x"></i>
-          <p>@VIPSTARCOIN</p>
+          <p>@<?php echo $twitter_account; ?></p>
         </a>
       </div>
       <div class="clearfix"></div>
@@ -24,8 +31,8 @@
            data-width="500"
            data-height="500"
            data-theme="light"
-           href="https://twitter.com/VIPSTARCOIN?ref_src=twsrc%5Etfw">
-          Tweets by VIPSTARCOIN
+           href="https://twitter.com/<?php echo $twitter_account; ?>?ref_src=twsrc%5Etfw">
+          Tweets by <?php echo $twitter_account; ?>
         </a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
