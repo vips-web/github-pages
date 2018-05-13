@@ -255,6 +255,7 @@ hr {
   position: relative;
   width: 100%;
   padding-top: 56.25%;
+	margin-top: 60px;
 }
 #about .bl_movie iframe {
   position: absolute;
@@ -972,13 +973,6 @@ header .intro-text {
 
 /* For Smartphone */
 @media(max-width:425px) {
-.news-item {
-	-webkit-transform: scale(1.1);
-	-moz-transform: scale(1.1);
-	-ms-transform: scale(1.1);
-	-o-transform: scale(1.1);
-	transform: scale(1.1);
-}
 .hover-bg .hover-text>h4 {
 	opacity: 1;
 	-webkit-backface-visibility: hidden;
