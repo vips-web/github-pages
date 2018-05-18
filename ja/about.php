@@ -25,6 +25,7 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
+          <p class="about-catchphrase">楽しさを、買おう。</p>
           <p>VIPSTARCOIN (VIPS) は5ちゃんねるニュー速VIP板発祥の仮想通貨です。</p>
           <p>国産仮想通貨として多目的に利用されること、<br>ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。</p>
           <p>強いコミュニティの力で運営し、盛り上げていきます。</p>

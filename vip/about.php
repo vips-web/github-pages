@@ -25,6 +25,7 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
+          <p class="about-catchphrase">楽しさを、買おう。</p>
           <p>VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗ</p>
           <p>VIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ</p>
           <p>（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ</p>
