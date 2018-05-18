@@ -25,6 +25,7 @@
       <div class="col-md-12 text-center"><img src="<?php echo URL; ?>/img/about.jpg" class="js_about-img img-responsive"></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
+          <p class="about-catchphrase">楽しさを、買おう。</p>
           <p>VIPの仮想通貨作ったったｗｗｗｗｗｗｗｗｗ</p>
           <p>VIPのヌクモリティ精神で世界を救うおｗｗｗｗｗうはｗｗｗｗｗｗｗｗおｋｗｗｗｗｗｗｗｗ</p>
           <p>（　＾ω＾）みんなで盛り上げていくおｗｗｗｗｗｗｗ</p>
@@ -33,7 +34,7 @@
             <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">VIPS 6つのポイント&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
           </p>
           <p class="bl_about-button text-center">
-            <a class="button button-bw" href="<?php echo URL; ?>/download/whitepaper_ja.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
+            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_ja.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
           <div class="bl_movie">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/a0CAF1hHXjI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -33,7 +33,7 @@
             <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">VIPS的6个独特特征&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
           </p>
           <p class="bl_about-button text-center">
-            <a class="button button-bw" href="<?php echo URL; ?>/download/whitepaper_ja.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
+            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_en.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
           <!-- Modal -->
           <div class="modal fade" id="qaModal" tabindex="-1" role="dialog" aria-labelledby="qaModalLabel">

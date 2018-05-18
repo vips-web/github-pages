@@ -223,10 +223,6 @@ hr {
 	color: #333;
 	white-space: nowrap;
 }
-#about .about-text {
-	text-align: center;
-	font-size: 16px;
-}
 #about img {
 	border-radius: 50%;
 	width: 200px;
@@ -234,6 +230,14 @@ hr {
 	margin-bottom: 20px;
 	display: inline-block;
 	transition-duration: 1s;
+}
+#about .about-text {
+	text-align: center;
+	font-size: 16px;
+}
+#about .about-text .about-catchphrase {
+	margin-bottom: 50px;
+	font-size: 30px;
 }
 #about p {
 	margin-top: 20px;
