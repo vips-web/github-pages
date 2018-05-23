@@ -10,7 +10,7 @@
         <a href="https://discord.gg/sEaaxau" target="_blank">
           <div class="community-box">
             <i class="fab fa-discord fa-5x"></i>
-            <span class="count">8486</span>
+            <span class="count">8610</span>
             <h4>Members</h4>
           </div>
         </a>
@@ -19,7 +19,7 @@
         <a href="https://twitter.com/VIPSTARCOIN" target="_blank">
           <div class="community-box">
             <i class="fab fa-twitter fa-5x"></i>
-            <span class="count">6342</span>
+            <span class="count">6380</span>
             <h4>Followers</h4>
           </div>
         </a>
