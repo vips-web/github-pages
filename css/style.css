@@ -705,9 +705,22 @@ ol.type li a:hover {
 .community-box:hover .fab {
 	color: #000;
 }
+/* Team Section */
+#team {
+	padding: 100px 0 0;
+}
+#team img {
+	width: 128px;
+	max-width: 100%;
+	border-radius: 50%;
+}
+#team .team-name {
+	margin: 10px 0 50px;
+	font-size: 18px;
+}
 /* Contact Section */
 #contact {
-	padding: 100px 0;
+	padding: 50px 0;
 	color: #000;
 	background: #fff;
 }
