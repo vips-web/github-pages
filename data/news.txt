@@ -1,7 +1,10 @@
+QRCode Generator公開,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
+RegVIPS公開,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
+ブーン5chキャップ就任&規制解除,2018/05/22,other,other-cap.png,https://twitter.com/VIPSTARCOIN/status/998820163012055040
 業務提携<br>エヌ次元株式会社,2018/05/04,other,other-nzigen.png,https://nzigen.com/
 海外Airdropイベント開始,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
 VIPS決済導入<br>池袋 マレーチャン,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/
-マイニングツール公開,2018/04/30,develop,develop-mining-helper.png,https://twitter.com/VIPSTARCOIN/status/991302970984681473
+Mining Helper公開,2018/04/30,develop,develop-mining-helper.png,https://twitter.com/VIPSTARCOIN/status/991302970984681473
 CryptoBridge上場,2018/04/27,develop,develop-cb.png,http://seesaawiki.jp/vips/d/CryptoBridge%cd%f8%cd%d1%ca%fd%cb%a1
 VIPS決済導入第1号店決定<br>浅草 SPLENDOR COFFEE,2018/04/27,other,other-settlement.png,https://www.splendor-coffee.com/
 Android版ウォレット発表,2018/04/25,develop,develop-android-wallet.jpg,https://twitter.com/VIPSTARCOIN/status/989143834637488128
