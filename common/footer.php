@@ -4,17 +4,17 @@
       <div class="addthis_inline_share_toolbox"></div>
       <p>
         <?php if ($lang == 'ja'): ?>
-          ホームページ開発&amp;デザイン&amp;運用 tiger: VLvHafAdfzP85pNLfGw9dCveL5RPj3YpSo<br>
-          ホワイトペーパーデザイン協力 ぼおん-qiv-: VBPakpHTXSS1fuRj9i3xReec579dfB9Lf9
+          ホームページ開発&amp;デザイン&amp;運用 tiger: <a href="vipstarcoin:VLvHafAdfzP85pNLfGw9dCveL5RPj3YpSo">VLvHafAdfzP85pNLfGw9dCveL5RPj3YpSo</a><br>
+          ホワイトペーパーデザイン 情弱JD: <a href="vipstarcoin:VEHP89798aRd1emzPUQiRX9ZJQuey7gTXf">VEHP89798aRd1emzPUQiRX9ZJQuey7gTXf</a>
         <?php elseif ($lang == 'de'): ?>
-          Adresse des Übersetzers: VUhAW7TK3Eqc79rYwPrUimt1KHuzzJfFtD<br>
+          Adresse des Übersetzers: <a href="vipstarcoin:VUhAW7TK3Eqc79rYwPrUimt1KHuzzJfFtD">VUhAW7TK3Eqc79rYwPrUimt1KHuzzJfFtD</a><br>
           Dankeschön-VIPS werden 24/7 angenommen!
         <?php elseif ($lang == 'fr'): ?>
-          Adresse du traducteur : VYBmQtx6o7AxPWjLWNywk58rKmUXKyqRyD<br>
+          Adresse du traducteur: <a href="vipstarcoin:VYBmQtx6o7AxPWjLWNywk58rKmUXKyqRyD">VYBmQtx6o7AxPWjLWNywk58rKmUXKyqRyD</a><br>
           Soutenez ce traducteur en donnant un pourboire VIPS.
         <?php endif; ?>
       </p>
-      <p>Copyright &copy; 2018 VIPSTARCOIN. All Rights Reserved.</p>
+      <p>Copyright &copy; 2018 VIPSTAR. All Rights Reserved.</p>
     </div>
   </div>
 </div>

@@ -841,10 +841,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 13px;
 }
 #footer a {
-	color: #a0a5a5;
+	color: #ffc000;
 }
 #footer a:hover {
-	color: #ffc000;
+	text-decoration: underline;
 }
 #footer .addthis_inline_share_toolbox {
 	margin-bottom: 10px;
