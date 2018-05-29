@@ -840,10 +840,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer p {
 	font-size: 13px;
 }
-#footer a {
-	color: #a0a5a5;
+#footer .credit a {
+	color: #fff;
+	text-decoration: underline;
 }
-#footer a:hover {
+#footer .credit a:hover {
 	color: #ffc000;
 }
 #footer .addthis_inline_share_toolbox {

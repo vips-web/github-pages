@@ -34,7 +34,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-2">
           <img src="<?php echo URL; ?>/img/team/boon.png" class="" alt="VIP☆STAR">
-          <p class="team-name">VIP☆STAR</p>
+          <p class="team-name">VIP☆STAR<br>(Boon)</p>
         </div>
         <div class="col-md-2">
           <img src="<?php echo URL; ?>/img/team/takuzou.png" class="" alt="takuzou">
