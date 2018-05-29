@@ -1,6 +1,6 @@
 QRCode Generator公開,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
 RegVIPS公開,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
-ブーン5chキャップ就任&規制解除,2018/05/22,other,other-cap.png,https://twitter.com/VIPSTARCOIN/status/998820163012055040
+ブーン5chキャップ就任&規制解除,2018/05/22,other,other-cap.jpg,https://twitter.com/VIPSTARCOIN/status/998820163012055040
 業務提携<br>エヌ次元株式会社,2018/05/04,other,other-nzigen.png,https://nzigen.com/
 海外Airdropイベント開始,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
 VIPS決済導入<br>池袋 マレーチャン,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/

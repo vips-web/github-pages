@@ -1,6 +1,6 @@
 QRCode Generator released,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
 RegVIPS released,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
-Boon is commissioned to become a 5ch official volunteer,2018/05/22,other,other-cap.png,https://twitter.com/VIPSTARCOIN/status/998820163012055040
+Boon is commissioned to become a 5ch official volunteer,2018/05/22,other,other-cap.jpg,https://twitter.com/VIPSTARCOIN/status/998820163012055040
 Partnership<br>Nzigen Inc.,2018/05/04,other,other-nzigen.png,https://nzigen.com/
 International Airdrop Event started,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
 VIPS payment introduced<br>Ikebukuro Malaychan,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/
