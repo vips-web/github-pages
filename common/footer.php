@@ -2,7 +2,7 @@
   <div class="container text-center">
     <div class="fnav">
       <div class="addthis_inline_share_toolbox"></div>
-      <p>
+      <p class="credit">
         <?php if ($lang == 'ja'): ?>
           ホームページ開発&amp;デザイン&amp;運用 tiger: <a href="vipstarcoin:VLvHafAdfzP85pNLfGw9dCveL5RPj3YpSo">VLvHafAdfzP85pNLfGw9dCveL5RPj3YpSo</a><br>
           ホワイトペーパーデザイン 情弱JD: <a href="vipstarcoin:VEHP89798aRd1emzPUQiRX9ZJQuey7gTXf">VEHP89798aRd1emzPUQiRX9ZJQuey7gTXf</a>
