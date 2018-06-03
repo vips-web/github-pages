@@ -477,7 +477,7 @@ hr {
 }
 /* Wallet Section */
 #wallet {
-	padding: 100px 0;
+	padding: 100px 0 0;
 	background: #ffc000;
 }
 #wallet hr {
@@ -501,6 +501,35 @@ hr {
 	color: #000;
 }
 #wallet p {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+/* Tool Section */
+#tool {
+	padding: 100px 0;
+	background: #ffc000;
+}
+#tool hr {
+	background: #fff;
+}
+#tool .tool-button {
+	text-align: center;
+}
+#tool .tool-button a {
+	display: inline-block;
+	margin: 0 10px 25px;
+}
+#tool .tool-text {
+	margin-top: 50px;
+	text-align: center;
+	word-wrap: break-word;
+	color: #fff;
+}
+#tool .tool-text .tool-text-title {
+	font-weight: bold;
+	color: #000;
+}
+#tool p {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
@@ -835,7 +864,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #footer {
 	background: #000;
 	color: #fff;
-	padding: 15px 0 7px 0;
+	padding: 15px 0 5px 0;
 }
 #footer p {
 	font-size: 13px;

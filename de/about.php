@@ -34,7 +34,7 @@
             <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">6 Fakten über VIPS&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
           </p>
           <p class="bl_about-button text-center">
-            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_en.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
+            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_de.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
           <div class="bl_movie">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/XvFisZm55KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
