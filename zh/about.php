@@ -33,7 +33,7 @@
             <a class="button button-bw" href="#" data-toggle="modal" data-target="#pointModal">VIPS的6个独特特征&nbsp;&nbsp;<i class="far fa-window-restore"></i></a>
           </p>
           <p class="bl_about-button text-center">
-            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_en.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
+            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_zh.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
           <div class="bl_movie">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/uH3yf9hF94Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
