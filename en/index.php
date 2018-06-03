@@ -18,7 +18,8 @@
     <?php require_once('../common/feature.php'); ?>
     <?php require_once('./roadmap.php'); ?>
     <?php require_once('./holding.php'); ?>
-    <?php require_once('./wallet.php'); ?>
+    <?php require_once('../common/wallet.php'); ?>
+    <?php require_once('../common/tool.php'); ?>
     <?php require_once('../common/exchange.php'); ?>
     <?php require_once('../common/news.php'); ?>
     <?php require_once('../common/partner.php'); ?>
