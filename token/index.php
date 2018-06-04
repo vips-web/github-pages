@@ -94,16 +94,16 @@
           <tbody>
             <?php foreach ($tokens as $token): ?>
               <tr>
-                <td rowspan="2"><img src="<?php echo $token['icon']; ?>" alt="" width="64"></td>
-                <td class="token-name"><?php echo $token['name']; ?></td>
-                <td class="token-supply"><?php echo number_format($token['supply']); ?></td>
-                <td class="token-address"><?php echo $token['address']; ?></td>
-                <td rowspan="2" class="token-pr"><?php echo $token['pr']; ?></td>
+                <td rowspan="2"><img src="<?php echo htmlspecialchars($token['icon'], ENT_QUOTES); ?>" alt="" width="64"></td>
+                <td class="token-name"><?php echo htmlspecialchars($token['name'], ENT_QUOTES); ?></td>
+                <td class="token-supply"><?php echo htmlspecialchars(number_format($token['supply']), ENT_QUOTES); ?></td>
+                <td class="token-address"><?php echo htmlspecialchars($token['address'], ENT_QUOTES); ?></td>
+                <td rowspan="2" class="token-pr"><?php echo htmlspecialchars($token['pr'], ENT_QUOTES); ?></td>
               </tr>
               <tr>
-                <td><?php echo $token['symbol']; ?></td>
-                <td><?php echo $token['decimals']; ?></td>
-                <td><a href="<?php echo $token['hp']; ?>" target="_blank"><?php echo $token['hp']; ?></a></td>
+                <td><?php echo htmlspecialchars($token['symbol'], ENT_QUOTES); ?></td>
+                <td><?php echo htmlspecialchars($token['decimals'], ENT_QUOTES); ?></td>
+                <td><a href="<?php echo htmlspecialchars($token['hp'], ENT_QUOTES); ?>" target="_blank"><?php echo htmlspecialchars($token['hp'], ENT_QUOTES); ?></a></td>
               </tr>
             <?php endforeach; ?>
           </tbody>
