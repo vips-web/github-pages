@@ -59,10 +59,10 @@
     <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>/css/token.css">
     <meta property="og:url" content="<?php echo URL; ?>/token/">
     <meta name="description"
-          content="仮想通貨VIPSTARCOIN(VIPS)のスマートコントラクト機能により作成されたトークンの紹介です。">
+          content="仮想通貨VIPSTARCOIN(VIPS)のスマートコントラクト機能により作成されたトークンの一覧です。">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨,トークン">
     <meta property="og:description"
-          content="仮想通貨VIPSTARCOIN(VIPS)のスマートコントラクト機能により作成されたトークンの紹介です。">
+          content="仮想通貨VIPSTARCOIN(VIPS)のスマートコントラクト機能により作成されたトークンの一覧です。">
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <div id="nav">
@@ -111,6 +111,5 @@
       </div>
     </div>
     <?php require_once('../common/footer.php'); ?>
-    <?php require_once('../common/script.php'); ?>
   </body>
 </html>

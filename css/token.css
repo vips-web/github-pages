@@ -1,6 +1,10 @@
 .container {
 	position: relative;
 }
+#nav {
+	position: fixed;
+	width: 100%;
+}
 span.navbar-brand {
 	margin-left: -15px;
 	padding-left: 5px;
