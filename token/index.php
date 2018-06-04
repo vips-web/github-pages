@@ -111,5 +111,6 @@
       </div>
     </div>
     <?php require_once('../common/footer.php'); ?>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
   </body>
 </html>
