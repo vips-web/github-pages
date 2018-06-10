@@ -306,6 +306,9 @@ hr {
 #feature .bl_feature a:hover {
 	text-decoration: underline;
 }
+#feature .bl_feature-button {
+	padding-bottom: 50px;
+}
 /* Roadmap Section */
 #roadmap {
 	padding: 100px 0;
