@@ -475,6 +475,13 @@ hr {
 	left: 60px;
 	font-weight: bold;
 }
+#holding .table {
+	margin: 0 auto 10px;
+	width: 290px;
+}
+#holding .table th {
+	text-align: center;
+}
 /* Wallet Section */
 #wallet {
 	padding: 100px 0 0;

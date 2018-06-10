@@ -59,6 +59,40 @@
           2,001～53,611,200ブロック：PoW 100vips
         </p>
         <p>年利期待値約5%</p>
+        <p class="holding-attention">
+          <b>ロックアップ</b>
+        </p>
+        <p>
+          2018年度ロックアップ：合計330億枚
+          <table class="table table-bordered table-hover">
+            <thead>
+              <tr>
+                <th>ロックアップ対象</th>
+                <th>ロックアップ枚数</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>開発</td>
+                <td>9,200,000,000</td>
+              </tr>
+              <tr>
+                <td>マーケティング</td>
+                <td>9,700,000,000</td>
+              </tr>
+              <tr>
+                <td>各種媒体での配布</td>
+                <td>8,100,000,000</td>
+              </tr>
+              <tr>
+                <td>運営</td>
+                <td>6,000,000,000</td>
+              </tr>
+            </tbody>
+          </table>
+          運営状況やロードマップ遂行のための費用等を加味し、<br>
+          毎年度末にロックアップ量が再計算される。
+        </p>
       </div>
     </div>
   </div>
