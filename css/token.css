@@ -1,0 +1,76 @@
+.container {
+	position: relative;
+}
+#nav {
+	position: fixed;
+	width: 100%;
+}
+span.navbar-brand {
+	margin-left: -15px;
+	padding-left: 5px;
+	color: #fff;
+}
+.navbar-back {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.navbar-back .navbar-brand {
+	font-size: 14px;
+}
+
+#token {
+	padding-top: 52px;
+}
+#token .table-responsive {
+	-webkit-overflow-scrolling: touch;
+}
+#token .table {
+	margin: 0;
+}
+#token .table th {
+	background-color: #ffc000;
+}
+#token .table th {
+	min-width: 120px;
+	text-align: center;
+	vertical-align: middle;
+}
+#token .table td {
+	text-align: center;
+	vertical-align: middle;
+	word-break: break-all;
+	border-bottom: 1px solid #000;
+}
+#token .table td.token-name {
+	min-width: 180px;
+}
+#token .table td.token-supply {
+}
+#token .table td.token-address {
+	min-width: 340px;
+}
+#token .table td.token-pr {
+	min-width: 240px;
+	text-align: left;
+	vertical-align: top;
+}
+#token .table td a {
+	color: #ffc000;
+}
+
+.table-bordered,
+.table-bordered>tbody>tr>td,
+.table-bordered>tbody>tr>th,
+.table-bordered>tfoot>tr>td,
+.table-bordered>tfoot>tr>th,
+.table-bordered>thead>tr>td,
+.table-bordered>thead>tr>th {
+	border: 1px solid #000;
+}
+
+@media screen and (max-width: 767px) {
+.table-responsive {
+	border: 1px solid #000;
+}
+}

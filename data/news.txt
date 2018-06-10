@@ -1,3 +1,5 @@
+ロックアップ発表,2018/06/10,other,other-lock-up.png,https://twitter.com/VIPSTARCOIN/status/1005434672367595521
+中期アクションプラン発表,2018/06/10,other,other-action-plan.png,https://github.com/vips-web/github-pages/raw/master/download/mid-term_action_plan_ja.pdf
 QRCode Generator公開,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
 RegVIPS公開,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
 ブーン5chキャップ就任&規制解除,2018/05/22,other,other-cap.jpg,https://twitter.com/VIPSTARCOIN/status/998820163012055040

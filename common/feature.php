@@ -36,5 +36,14 @@
         <?php } ?>
       </div>
     </div>
+    <div class="bl_feature-button col-md-12">
+      <a class="button button-bw" href="<?php echo URL; ?>/token/">
+        <?php if ($lang == 'ja' || $lang == 'vip') { ?>
+          トークン一覧&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+        <?php } else { ?>
+          TOKEN LIST&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+        <?php } ?>
+      </a>
+    </div>
   </div>
 </div>
