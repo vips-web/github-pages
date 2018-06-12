@@ -53,6 +53,40 @@
           2,001～53,611,200 block: 100vips
         </p>
         <p>Expected annual return: 5%</p>
+        <p class="holding-attention">
+          <b>Lock-up</b>
+        </p>
+        <p>
+          Lock-up for 2018: total 33BN coins
+          <table class="table table-bordered table-hover">
+            <thead>
+              <tr>
+                <th>Lock-up category</th>
+                <th>Lock-up amount</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Technological Development fee</td>
+                <td>9,200,000,000</td>
+              </tr>
+              <tr>
+                <td>Marketing fee</td>
+                <td>9,700,000,000</td>
+              </tr>
+              <tr>
+                <td>Airdrops</td>
+                <td>8,100,000,000</td>
+              </tr>
+              <tr>
+                <td>Reserve by the dev team</td>
+                <td>6,000,000,000</td>
+              </tr>
+            </tbody>
+          </table>
+          Further lock-up amount will be calculated by end of each year,<br>
+          while taking management situation and roadmap progress into consideration.
+        </p>
       </div>
     </div>
   </div>
