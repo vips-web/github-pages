@@ -484,6 +484,10 @@ hr {
 }
 #holding .table th {
 	text-align: center;
+	vertical-align: middle;
+}
+#holding .table td {
+	vertical-align: middle;
 }
 /* Wallet Section */
 #wallet {
@@ -525,23 +529,14 @@ hr {
 #tool .tool-button {
 	text-align: center;
 }
-#tool .tool-button a {
+#tool .modal-body {
+	padding: 25px 15px 0;
+	text-align: center;
+}
+#tool .tool-button a,
+#tool .modal a {
 	display: inline-block;
 	margin: 0 10px 25px;
-}
-#tool .tool-text {
-	margin-top: 50px;
-	text-align: center;
-	word-wrap: break-word;
-	color: #fff;
-}
-#tool .tool-text .tool-text-title {
-	font-weight: bold;
-	color: #000;
-}
-#tool p {
-	margin-top: 20px;
-	margin-bottom: 30px;
 }
 /* Exchange Section */
 #exchange {
