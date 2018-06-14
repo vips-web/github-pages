@@ -1,3 +1,7 @@
+QRVips公開,2018/06/14,develop,develop-qrvips.png,https://twitter.com/VIPSTARCOIN/status/1007263309035257856
+ヌクモリンク掲載ボット公開,2018/06/13,develop,develop-rss-bot.png,javascript:;
+VIPS提携イベント開催決定<br>ドイツ CoAket,2018/06/12,event,event-coaket.png,https://www.coaket.com/
+VIPSトークン登録ボット&一覧ページ公開,2018/06/10,develop,develop-token-bot.png,https://www.vipstarcoin.jp/token/
 ロックアップ発表,2018/06/10,other,other-lock-up.png,https://twitter.com/VIPSTARCOIN/status/1005434672367595521
 中期アクションプラン発表,2018/06/10,other,other-action-plan.png,https://github.com/vips-web/github-pages/raw/master/download/mid-term_action_plan_ja.pdf
 QRCode Generator公開,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
