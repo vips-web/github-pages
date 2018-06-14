@@ -10,6 +10,23 @@
 
   $json = file_get_contents('../data/token.json');
   $tokens = json_decode($json, true);
+
+  $i = 0;
+  foreach ($tokens as &$token) {
+    $i++;
+    $token['id'] = $i;
+    $token['score'] = 0;
+    $token['score'] += !empty($token['icon']) ? 100 : 0;
+    $token['score'] += !empty($token['pr'])   ? 10 : 0;
+    $token['score'] += !empty($token['hp'])   ? 1 : 0;
+  }
+  unset($token);
+
+  foreach ($tokens as $key => $value) {
+    $score[$key] = $value['score'];
+    $id[$key] = $value['id'];
+  }
+  array_multisort($score, SORT_DESC, $id, SORT_ASC, $tokens);
 ?>
 
 <!DOCTYPE html>
@@ -93,7 +110,11 @@
           <tbody>
             <?php foreach ($tokens as $token): ?>
               <tr>
-                <td rowspan="2"><img src="<?php echo htmlspecialchars($token['icon'], ENT_QUOTES); ?>" alt="" width="64"></td>
+                <td rowspan="2">
+                  <?php if (!empty($token['icon'])): ?>
+                    <img src="<?php echo htmlspecialchars($token['icon'], ENT_QUOTES); ?>" alt="" width="64">
+                  <?php endif; ?>
+                </td>
                 <td class="token-name"><?php echo htmlspecialchars($token['name'], ENT_QUOTES); ?></td>
                 <td class="token-supply"><?php echo htmlspecialchars(number_format($token['supply']), ENT_QUOTES); ?></td>
                 <td class="token-address"><?php echo htmlspecialchars($token['address'], ENT_QUOTES); ?></td>
