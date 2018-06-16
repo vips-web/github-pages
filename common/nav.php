@@ -16,7 +16,7 @@
           <li><a class="page-scroll" href="#holding">HOLDING</a></li>
           <li><a class="page-scroll" href="#wallet">WALLET</a></li>
           <li><a class="page-scroll" href="#news">NEWS</a></li>
-          <li><a class="page-scroll" href="#partner">PARTNER</a></li>
+          <li><a class="page-scroll" href="#community">COMMUNITY</a></li>
           <li><a class="page-scroll" href="#team">TEAM</a></li>
         </ul>
       </div>
