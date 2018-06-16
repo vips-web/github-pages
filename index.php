@@ -22,8 +22,8 @@
     <?php require_once('./common/tool.php'); ?>
     <?php require_once('./common/exchange.php'); ?>
     <?php require_once('./common/news.php'); ?>
-    <?php require_once('./common/partner.php'); ?>
     <?php require_once('./common/community.php'); ?>
+    <?php require_once('./common/partner.php'); ?>
     <?php require_once('./common/team.php'); ?>
     <?php require_once('./common/contact.php'); ?>
     <?php require_once('./common/footer.php'); ?>
