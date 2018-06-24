@@ -83,6 +83,9 @@
               <h4 class="my-0 font-weight-normal text-center">大阪北部地震VIPS寄付窓口</h4>
             </div>
             <div class="card-body">
+              <div class="text-center">
+                <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="" width="500">
+              </div>
               大阪北部地震の被災者の方々にお悔やみとお見舞いを申し上げます。<br>
               <br>
               本震災の被災者の方々を少しでも応援するために、この度仮想通貨VIPSTARCOIN(VIPS)による寄付受付専用ウォレットを設置する運びとなりました。<br>

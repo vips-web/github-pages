@@ -47,3 +47,7 @@
 #donation .card-deck .card .donation-detail {
 	font-size: .9rem;
 }
+
+#donation .card-deck .card-body {
+	padding-top: 0;
+}
