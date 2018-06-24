@@ -37,10 +37,6 @@
     <link rel="apple-touch-icon" href="<?php echo URL; ?>/img/apple-touch-icon.png">
 
     <!-- Bootstrap -->
-    <!-- <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-          crossorigin="anonymous"> -->
     <link rel="stylesheet"
           href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
           integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
@@ -82,6 +78,30 @@
     <div id="supporter">
       <div class="card-deck justify-content-center">
         <div class="card">
+          <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/Shirono_Yuki.jpg" alt="">
+          <div class="card-body">
+            <h5 class="card-title">白乃雪</h5>
+            <p class="card-text">
+              月刊アフタヌーン 四季賞春のコンテスト 審査員特別賞受賞後、『あたりのキッチン』でプロデビュー。<br>
+              現在もアフタヌーン誌上で連載中。その他著書にエッセイ漫画の『ほのぼのドイツぐらし。』(KADOKAWA)や、『ドイツで楽しむ日本の家ごはん』（まほろば社）がある。<br>
+              今までゲストとして、日本×ベルギー友好150周年記念イベント、Magnology、ComicPark等に招聘。ドイツビールが好き。
+            </p>
+            <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/Shirono_Yuki_2.jpg" alt="">
+            <br><br>
+            <p class="card-text card-address">
+              <small class="text-muted">VIPSアドレス</small>
+              <a href="vipstarcoin:VT32SJmA4JWc3tuAPWhwcwxhVieKuneBrs?amount=100">
+                <span class="badge badge-pill badge-warning">VT32SJmA4JWc3tuAPWhwcwxhVieKuneBrs</span>
+              </a>
+            </p>
+          </div>
+          <ul class="list-group list-group-flush">
+            <a href="https://www.shironoyuki.com/" target="_blank">
+              <li class="list-group-item card-hp">https://www.shironoyuki.com/<i class="fas fa-external-link-alt"></i></li>
+            </a>
+          </ul>
+        </div>
+        <div class="card">
           <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/Nightmaker.jpg" alt="">
           <div class="card-body">
             <h5 class="card-title">Nightmaker</h5>
@@ -91,7 +111,7 @@
             </p>
             <p class="card-text card-address">
               <small class="text-muted">VIPSアドレス</small>
-              <a href="vipstarcoin:VG1C5PB7P7UmRxQmeoeKKKyfyGpQHzqaQM">
+              <a href="vipstarcoin:VG1C5PB7P7UmRxQmeoeKKKyfyGpQHzqaQM?amount=100">
                 <span class="badge badge-pill badge-warning">VG1C5PB7P7UmRxQmeoeKKKyfyGpQHzqaQM</span>
               </a>
             </p>
