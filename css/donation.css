@@ -1,0 +1,49 @@
+.container {
+	position: relative;
+	padding: 0;
+}
+#nav {
+	position: fixed;
+	width: 100%;
+}
+.navbar-brand {
+	margin: 0;
+	color: #fff;
+}
+.navbar-back {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#donation {
+	padding: 82px 10px 30px;
+}
+
+#donation .donation-notice {
+	margin-top: -10px;
+	font-size: .8rem;
+}
+
+#donation .donation-link {
+	color: #ffc000;
+}
+
+#donation .donation-link:hover {
+	text-decoration: underline;
+}
+
+#donation .card-deck .card {
+	margin: 0 auto;
+	min-width: 300px;
+	max-width: 600px;
+	box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
+}
+
+#donation .card-deck .card .btn-warning {
+	color: #fff;
+}
+
+#donation .card-deck .card .donation-detail {
+	font-size: .9rem;
+}
