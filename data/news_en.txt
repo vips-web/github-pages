@@ -1,3 +1,6 @@
+Accepting donation for earthquake in Osaka,2018/06/18,other,other-donation-20180618.png,https://www.vipstarcoin.jp/donation/20180618/
+VIPS supporter introduced<br>Yuki Shirono,2018/06/18,other,other-shirono-yuki.jpg,https://www.vipstarcoin.jp/supporter/
+VIPS supporter introduced<br>Nightmaker,2018/06/17,other,other-nightmaker.jpg,https://www.vipstarcoin.jp/supporter/
 QRVips released,2018/06/14,develop,develop-qrvips.png,https://twitter.com/Vipstarcoin_/status/1007264281824333824
 RSS-registator released,2018/06/13,develop,develop-rss-bot.png,javascript:;
 VIPS payment introduced<br>Germany CoaKet,2018/06/12,event,event-coaket.png,https://www.coaket.com/

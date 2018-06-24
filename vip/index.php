@@ -14,6 +14,7 @@
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <?php require_once('../common/header.php'); ?>
     <?php require_once('../common/nav.php'); ?>
+    <?php require_once('../common/special.php'); ?>
     <?php require_once('./about.php'); ?>
     <?php require_once('../common/feature.php'); ?>
     <?php require_once('./roadmap.php'); ?>
@@ -24,6 +25,7 @@
     <?php require_once('../common/news.php'); ?>
     <?php require_once('../common/community.php'); ?>
     <?php require_once('../common/partner.php'); ?>
+    <?php require_once('../common/supporter.php'); ?>
     <?php require_once('../common/team.php'); ?>
     <?php require_once('../common/contact.php'); ?>
     <?php require_once('../common/footer.php'); ?>

@@ -1,3 +1,6 @@
+大阪北部地震VIPS寄付窓口開設,2018/06/18,other,other-donation-20180618.png,https://www.vipstarcoin.jp/donation/20180618/
+VIPSサポーター紹介<br>白乃雪,2018/06/18,other,other-shirono-yuki.jpg,https://www.vipstarcoin.jp/supporter/
+VIPSサポーター紹介<br>Nightmaker,2018/06/17,other,other-nightmaker.jpg,https://www.vipstarcoin.jp/supporter/
 QRVips公開,2018/06/14,develop,develop-qrvips.png,https://twitter.com/VIPSTARCOIN/status/1007263309035257856
 ヌクモリンク掲載ボット公開,2018/06/13,develop,develop-rss-bot.png,javascript:;
 VIPS提携イベント開催決定<br>ドイツ CoAket,2018/06/12,event,event-coaket.png,https://www.coaket.com/
