@@ -726,7 +726,7 @@ ol.type li a:hover {
 }
 /* Partner Section */
 #partner {
-	padding: 0 0 250px;
+	padding: 0 0 100px;
 	background: #ffc000;
 }
 #partner hr {
@@ -742,6 +742,26 @@ ol.type li a:hover {
 #partner .bl_partner-button {
 	text-align: center;
 	padding: 100px 0 50px;
+}
+/* Supporter Section */
+#supporter {
+	padding: 0 0 110px;
+	background: #ffc000;
+}
+#supporter hr {
+	background: #fff;
+}
+#supporter .supporter-link:hover {
+	color: #fff;
+}
+#supporter img {
+	width: 128px;
+	max-width: 100%;
+	border-radius: 50%;
+}
+#supporter .supporter-name {
+	margin: 10px 0 50px;
+	font-size: 18px;
 }
 /* Team Section */
 #team {

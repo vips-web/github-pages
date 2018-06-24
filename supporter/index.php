@@ -75,7 +75,7 @@
       </nav>
     </div>
 
-    <div id="supporter">
+    <div id="page-supporter">
       <div class="card-deck justify-content-center">
         <div class="card">
           <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/Shirono_Yuki.jpg" alt="">
