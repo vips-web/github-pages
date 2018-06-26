@@ -30,13 +30,13 @@
             <a href="https://fkfk.github.io/vips/qrcode/" class="button button-bw" target="_blank">
               QRCode Generator&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsWin.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsWin-1.1.0.zip" class="button button-bw" target="_blank">
               QRVIPS (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsMac.dmg" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsMac-1.1.0.dmg" class="button button-bw" target="_blank">
               QRVIPS (Mac)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/RegVIPS.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/RegVIPS-1.0.2.zip" class="button button-bw" target="_blank">
               RegVIPS (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a>
           </div>
@@ -54,10 +54,10 @@
             <h4 class="modal-title" id="miningModalLabel">MINING TOOL</h4>
           </div>
           <div class="modal-body">
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelper.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelperWin-1.0.2.zip" class="button button-bw" target="_blank">
               Mining Helper (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelper.dmg" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelperMac-1.0.2.dmg" class="button button-bw" target="_blank">
               Mining Helper (Mac)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
             <a href="https://github.com/vips-web/github-pages/raw/master/download/ccminer.zip" class="button button-bw" target="_blank">
