@@ -78,6 +78,43 @@
     <div id="page-supporter">
       <div class="card-deck justify-content-center">
         <div class="card">
+          <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/minori.jpg" alt="">
+          <div class="card-body">
+            <h5 class="card-title">白塗りアーティスト・minori</h5>
+            <p class="card-text">
+              現在白塗りアーティストとして、自然、花言葉、そして様々な国の文化との融合をテーマにした衣装および写真作品を製作。<br>
+              2013年より海外の様々なイベントにスペシャルゲストとして招待され、2015年ホノルル美術館に衣装と写真が収蔵される。2017年その活動がBBCによって全世界に報道される。<br>
+              <br>
+              TokyoFashion.comメイクアップ動画<br>
+              <a href="https://youtu.be/fWFD5RqC4RM" target="_blank">https://youtu.be/fWFD5RqC4RM</a><br>
+              <br>
+              BBCインタビュー<br>
+              <a href="https://www.bbc.com/japanese/features-and-analysis-41735009" target="_blank">https://www.bbc.com/japanese/features-and-analysis-41735009</a><br>
+              <br>
+              7月半ばに発売されるkindleブックにも早速QRコード導入。
+            </p>
+            <p class="card-text card-address">
+              <small class="text-muted">VIPSアドレス</small>
+              <a href="vipstarcoin:VLD2pHCmVNG3GgQVKUbNRNsabCT3wfx1Ec?amount=100">
+                <span class="badge badge-pill badge-warning">VLD2pHCmVNG3GgQVKUbNRNsabCT3wfx1Ec</span>
+              </a>
+            </p>
+            <p class="card-text">
+              <a href="https://twitter.com/cute_minori" target="_blank" class="link-twitter">
+                <i class="fab fa-twitter-square fa-3x"></i>
+              </a>
+              <a href="https://www.instagram.com/minori00mon/" target="_blank" class="link-instagram">
+                <i class="fab fa-instagram fa-3x"></i>
+              </a>
+            </p>
+          </div>
+          <ul class="list-group list-group-flush">
+            <a href="https://minori.co/" target="_blank">
+              <li class="list-group-item card-hp">https://minori.co/<i class="fas fa-external-link-alt"></i></li>
+            </a>
+          </ul>
+        </div>
+        <div class="card">
           <img class="card-img-top" src="<?php echo URL; ?>/img/supporter/Shirono_Yuki.jpg" alt="">
           <div class="card-body">
             <h5 class="card-title">白乃雪</h5>
@@ -92,6 +129,11 @@
               <small class="text-muted">VIPSアドレス</small>
               <a href="vipstarcoin:VT32SJmA4JWc3tuAPWhwcwxhVieKuneBrs?amount=100">
                 <span class="badge badge-pill badge-warning">VT32SJmA4JWc3tuAPWhwcwxhVieKuneBrs</span>
+              </a>
+            </p>
+            <p class="card-text">
+              <a href="https://twitter.com/shironoyuki_jp" target="_blank" class="link-twitter">
+                <i class="fab fa-twitter-square fa-3x"></i>
               </a>
             </p>
           </div>
@@ -115,10 +157,15 @@
                 <span class="badge badge-pill badge-warning">VG1C5PB7P7UmRxQmeoeKKKyfyGpQHzqaQM</span>
               </a>
             </p>
+            <p class="card-text">
+              <a href="https://twitter.com/nightmakerde" target="_blank" class="link-twitter">
+                <i class="fab fa-twitter-square fa-3x"></i>
+              </a>
+            </p>
           </div>
           <ul class="list-group list-group-flush">
-            <a href="http://nightmaker.tictail.com/" target="_blank">
-              <li class="list-group-item card-hp">http://nightmaker.tictail.com/<i class="fas fa-external-link-alt"></i></li>
+            <a href="https://nightmaker.tictail.com/" target="_blank">
+              <li class="list-group-item card-hp">https://nightmaker.tictail.com/<i class="fas fa-external-link-alt"></i></li>
             </a>
           </ul>
         </div>
