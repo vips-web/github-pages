@@ -40,16 +40,29 @@
 	background-color: #f5f5f5;
 }
 
+.card .card-body a {
+	color: #ffc000;
+}
+
+.card .card-body a:hover  {
+	opacity: .7;
+}
+
+.card .card-body .link-twitter {
+	color: #1da1f2;
+}
+
+.card .card-body .link-instagram {
+	margin-left: 10px;
+	color: #000;
+}
+
 .card .card-body img {
 	border-radius: calc(.25rem - 1px);
 }
 
 .card .card-address {
 	font-size: .9rem;
-}
-
-.card .card-address a:hover  {
-	opacity: .7;
 }
 
 .card .card-hp {
