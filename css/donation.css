@@ -51,3 +51,8 @@
 #donation .card-deck .card-body {
 	padding-top: 0;
 }
+
+#donation .card-deck .card-body .donation-image {
+	width: 100%;
+	max-width: 500px;
+}

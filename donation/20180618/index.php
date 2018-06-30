@@ -84,7 +84,7 @@
             </div>
             <div class="card-body">
               <div class="text-center">
-                <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="" width="500">
+                <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="" class="donation-image">
               </div>
               大阪北部地震の被災者の方々にお悔やみとお見舞いを申し上げます。<br>
               <br>
