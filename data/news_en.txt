@@ -1,3 +1,7 @@
+Release of Android wallet (Beta version),2018/06/30,develop,develop-android-wallet-beta.png,https://twitter.com/Vipstarcoin_/status/1013044770933882883
+VIPS supporter introduced<br>minori,2018/06/29,other,other-minori.jpg,https://www.vipstarcoin.jp/supporter/
+Announcement of the official game,2018/06/28,other,develop-game-announce-en.png,http://www.serialgames.co.jp/
+Member & office introduced,2018/06/27,other,other-member-and-office-en.png,https://github.com/vips-web/github-pages/raw/master/download/20180627_menber_and_office_en.pdf
 Accepting donation for earthquake in Osaka,2018/06/18,other,other-donation-20180618.png,https://www.vipstarcoin.jp/donation/20180618/
 VIPS supporter introduced<br>Yuki Shirono,2018/06/18,other,other-shirono-yuki.jpg,https://www.vipstarcoin.jp/supporter/
 VIPS supporter introduced<br>Nightmaker,2018/06/17,other,other-nightmaker.jpg,https://www.vipstarcoin.jp/supporter/

@@ -1,3 +1,7 @@
+Androidウォレットβ版リリース,2018/06/30,develop,develop-android-wallet-beta.png,https://twitter.com/VIPSTARCOIN/status/1013046079766401024
+VIPSサポーター紹介<br>白塗りアーティスト・minori,2018/06/29,other,other-minori.jpg,https://www.vipstarcoin.jp/supporter/
+公式ゲーム開発開始,2018/06/28,develop,develop-game-announce.png,http://www.serialgames.co.jp/
+メンバー&オフィス紹介,2018/06/27,other,other-member-and-office.png,https://github.com/vips-web/github-pages/raw/master/download/20180627_menber_and_office_ja.pdf
 大阪北部地震VIPS寄付窓口開設,2018/06/18,other,other-donation-20180618.png,https://www.vipstarcoin.jp/donation/20180618/
 VIPSサポーター紹介<br>白乃雪,2018/06/18,other,other-shirono-yuki.jpg,https://www.vipstarcoin.jp/supporter/
 VIPSサポーター紹介<br>Nightmaker,2018/06/17,other,other-nightmaker.jpg,https://www.vipstarcoin.jp/supporter/
