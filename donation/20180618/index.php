@@ -86,19 +86,20 @@
               <div class="text-center">
                 <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="" class="donation-image">
               </div>
-              大阪北部地震の被災者の方々にお悔やみとお見舞いを申し上げます。<br>
+              大阪北部地震への寄付に関しましては6月30日24時をもって締め切らせて頂きました。<br>
+              総額600万VIPSを超えるご支援をお寄せ頂いております。<br>
+              お寄せ頂きましたご支援の日本円換算分を、締切後責任を持って寄付いたします。<br>
               <br>
-              本震災の被災者の方々を少しでも応援するために、この度仮想通貨VIPSTARCOIN(VIPS)による寄付受付専用ウォレットを設置する運びとなりました。<br>
-              <br>皆様の温もり溢れるご支援の程よろしくお願いいたします。<br>
+              寄付先はこちら<br>
+              「平成30年大阪府北部を震源とする地震義援金」<br>
+              <a href="http://www.city.takatsuki.osaka.jp/kakuka/kenkouf/fukushise/oshirase/contribution/1529580507460.html" target="_blank" class="donation-link">
+                http://www.city.takatsuki.osaka.jp/kakuka/kenkouf/fukushise/oshirase/contribution/1529580507460.html
+              </a><br>
               <br>
-              <div class="input-group">
-                <input type="text" id="address" class="form-control" value="VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT" aria-label="Recipient's username" aria-describedby="basic-addon2" readonly="">
-                <div class="input-group-append">
-                  <button id="copy" class="btn btn-outline-secondary" type="button">コピー</button>
-                </div>
-              </div><br>
-              <p><a href="vipstarcoin:VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT?amount=100" class="btn btn-lg btn-block btn-warning">ウォレット起動</a></p>
-              <p class="donation-notice text-center">※送金額は100VIPSが指定されています。ウォレット上で任意に変更が可能です。</p>
+              ヌクモリ溢れるご支援を頂き本当にありがとうございます。<br>
+              <br>
+              被災された皆様には心よりお見舞いを申し上げると共に、一日も早い復興をお祈りしております。<br>
+              <br>
               <p class="text-center"><a href="http://explorer.vipstarcoin.jp/address/VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT" target="_blank" class="donation-link">寄付状況確認</a></p>
             </div>
             <div class="card-footer bg-transparent">
