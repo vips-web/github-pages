@@ -27,6 +27,7 @@
 
 #donation .donation-link {
 	color: #ffc000;
+	word-break: break-all;
 }
 
 #donation .donation-link:hover {

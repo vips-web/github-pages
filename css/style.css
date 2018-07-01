@@ -756,7 +756,7 @@ ol.type li a:hover {
 }
 #supporter img {
 	width: 128px;
-	max-width: 100%;
+	height: 128px;
 	border-radius: 50%;
 }
 #supporter .supporter-name {
@@ -767,9 +767,39 @@ ol.type li a:hover {
 #team {
 	padding: 100px 0 0;
 }
+#team .team-image {
+	width: 128px;
+	height: 128px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+#team .team-boon {
+	background: url('https://www.vipstarcoin.jp/img/team/boon.png') no-repeat;
+	background-size: contain;
+}
+#team .team-takuzo {
+	background: url('https://www.vipstarcoin.jp/img/team/takuzo.png') no-repeat;
+	background-size: contain;
+}
+#team .team-takuzo:hover {
+	background: url('https://www.vipstarcoin.jp/img/team/takuzo_2.png') no-repeat;
+	background-size: contain;
+}
+#team .team-uruhu {
+	background: url('https://www.vipstarcoin.jp/img/team/uruhu.png') no-repeat;
+	background-size: contain;
+}
+#team .team-orute {
+	background: url('https://www.vipstarcoin.jp/img/team/orute.png') no-repeat;
+	background-size: contain;
+}
+#team .team-m {
+	background: url('https://www.vipstarcoin.jp/img/team/m.png') no-repeat;
+	background-size: contain;
+}
 #team img {
 	width: 128px;
-	max-width: 100%;
+	height: 128px;
 	border-radius: 50%;
 }
 #team .team-name {
