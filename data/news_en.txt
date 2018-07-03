@@ -1,3 +1,4 @@
+CoinExMarket Listing,2018/07/03,develop,develop-coinexmarket.jpg,https://www.coinexmarket.io/
 Release of Android wallet (Beta version),2018/06/30,develop,develop-android-wallet-beta.png,https://twitter.com/Vipstarcoin_/status/1013044770933882883
 VIPS supporter introduced<br>minori,2018/06/29,other,other-minori.jpg,https://www.vipstarcoin.jp/supporter/
 Announcement of the official game,2018/06/28,other,develop-game-announce-en.png,http://www.serialgames.co.jp/
