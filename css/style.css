@@ -739,10 +739,6 @@ ol.type li a:hover {
 #partner .partner-image img {
 	max-width: 100%;
 }
-#partner .bl_partner-button {
-	text-align: center;
-	padding: 100px 0 50px;
-}
 /* Supporter Section */
 #supporter {
 	padding: 0 0 110px;
@@ -751,12 +747,18 @@ ol.type li a:hover {
 #supporter hr {
 	background: #fff;
 }
+#supporter .supporter-row {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
 #supporter .supporter-link:hover {
 	color: #fff;
 }
 #supporter img {
 	width: 128px;
 	height: 128px;
+	margin: 0 20px;
 	border-radius: 50%;
 }
 #supporter .supporter-name {
@@ -767,10 +769,15 @@ ol.type li a:hover {
 #team {
 	padding: 100px 0 0;
 }
+#team .team-row {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
 #team .team-image {
 	width: 128px;
 	height: 128px;
-	margin: 0 auto;
+	margin: 0 20px;
 	border-radius: 50%;
 }
 #team .team-boon {
@@ -803,7 +810,8 @@ ol.type li a:hover {
 	border-radius: 50%;
 }
 #team .team-name {
-	margin: 10px 0 50px;
+	width: 128px;
+	margin: 10px auto 50px;
 	font-size: 18px;
 }
 /* Contact Section */
