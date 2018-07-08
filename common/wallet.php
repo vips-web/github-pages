@@ -18,7 +18,10 @@
           </a>
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_mac_ms_vips.zip">
             <img src="<?php echo URL; ?>/img/wallet/mac-ms-vips.png" alt="" width="161" height="51">
-          </a><br><br>
+          </a><br>
+          <a href='https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet' target="_blank">
+            <img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/images/generic/en_badge_web_generic.png' width="190"/>
+          </a><br>
           <?php if ($lang == 'ja' || $lang == 'vip'): ?>
             <a href="http://seesaawiki.jp/vips/d/VIPSTAR%c6%b3%c6%fe%ca%fd%cb%a1" class="button button-bw" target="_blank">
               使い方&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>

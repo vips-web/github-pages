@@ -1,3 +1,7 @@
+Release of Android wallet,2018/07/08,develop,develop-android-wallet-release.jpg,https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet
+Accepting donation for heavy rain in Western Japan,2018/07/07,other,other-donation-20180707.png,https://www.vipstarcoin.jp/donation/20180707/
+Crappy collage contest,2018/07/06,event,event-collage.png,https://twitter.com/VIPSTARCOIN/status/1015223005855641601
+Official blog opened,2018/07/05,develop,develop-blog.png,https://www.vipstarcoin.jp/blog/
 CoinExMarket Listing,2018/07/03,develop,develop-coinexmarket.jpg,https://www.coinexmarket.io/
 Release of Android wallet (Beta version),2018/06/30,develop,develop-android-wallet-beta.png,https://twitter.com/Vipstarcoin_/status/1013044770933882883
 VIPS supporter introduced<br>minori,2018/06/29,other,other-minori.jpg,https://www.vipstarcoin.jp/supporter/

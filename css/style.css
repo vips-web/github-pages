@@ -848,6 +848,10 @@ ol.type li a:hover {
 #contact .contact-tweet {
 	margin-top: 50px;
 }
+#contact .contact-blog {
+	margin: 50px auto 0;
+	max-width: 500px;
+}
 label {
 	font-size: 12px;
 	font-weight: 400;

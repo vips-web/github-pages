@@ -1,3 +1,7 @@
+Androidウォレット正式版リリース,2018/07/08,develop,develop-android-wallet-release.jpg,https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet
+西日本豪雨VIPS寄付窓口開設,2018/07/07,other,other-donation-20180707.png,https://www.vipstarcoin.jp/donation/20180707/
+クソコラコンテスト開催,2018/07/06,event,event-collage.png,https://twitter.com/VIPSTARCOIN/status/1015223005855641601
+公式ブログ開設,2018/07/05,develop,develop-blog.png,https://www.vipstarcoin.jp/blog/
 CoinExMarket上場,2018/07/03,develop,develop-coinexmarket.jpg,https://www.coinexmarket.io/
 Androidウォレットβ版リリース,2018/06/30,develop,develop-android-wallet-beta.png,https://twitter.com/VIPSTARCOIN/status/1013046079766401024
 VIPSサポーター紹介<br>白塗りアーティスト・minori,2018/06/29,other,other-minori.jpg,https://www.vipstarcoin.jp/supporter/

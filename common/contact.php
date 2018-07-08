@@ -36,6 +36,11 @@
         </a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
+      <div class="contact-blog">
+        <!-- start feedwind code -->
+        <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="84945/"></script>
+        <!-- end feedwind code -->
+      </div>
       <div class="social">
         <ul>
           <li><a href="https://t.me/vipstarcoin_officiai" target="_blank">
@@ -49,6 +54,9 @@
           </a></li>
           <li><a href="https://github.com/VIPSTARCOIN" target="_blank">
             <i class="fab fa-github fa-4x"></i>
+          </a></li>
+          <li><a href="https://www.vipstarcoin.jp/blog/" target="_blank">
+            <i class="fab fa-wordpress fa-4x"></i>
           </a></li>
           <li><a href="http://seesaawiki.jp/vips/" target="_blank">
             <i class="fas fa-edit fa-4x"></i>
