@@ -83,7 +83,9 @@
               <h4 class="my-0 font-weight-normal text-center">西日本豪雨VIPS寄付窓口</h4>
             </div>
             <div class="card-body">
-              西日本豪雨への寄付のお知らせ<br>
+              <div class="text-center">
+                <img src="<?php echo URL; ?>/img/donation/20180707/image.png" alt="西日本豪雨への寄付のお知らせ・お願い" class="donation-image">
+              </div>
               今回の大雨災害の被災者の方々にお悔やみとお見舞いを申し上げます。<br>
               また、VIPSTARは少しでも被災者の力になれるよう、寄付を募ることにいたしました。<br>
               VIPSの目指すところは、勿論VIPSを用いて今回のような災害へ即座に支援できる環境の設置ではありますので、運営一同インフラの構築にも全力を尽くしていく次第です。<br>
