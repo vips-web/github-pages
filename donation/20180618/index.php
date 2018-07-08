@@ -84,7 +84,7 @@
             </div>
             <div class="card-body">
               <div class="text-center">
-                <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="" class="donation-image">
+                <img src="<?php echo URL; ?>/img/donation/20180618/image.png" alt="大阪北部地震への寄付のお願い・お知らせ" class="donation-image">
               </div>
               大阪北部地震への寄付に関しましては6月30日24時をもって締め切らせて頂きました。<br>
               総額600万VIPSを超えるご支援をお寄せ頂いております。<br>
