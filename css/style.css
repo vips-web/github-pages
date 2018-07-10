@@ -810,9 +810,16 @@ ol.type li a:hover {
 	border-radius: 50%;
 }
 #team .team-name {
+	margin: 10px auto;
 	width: 128px;
+	font-size: 18px;
+}
+#team .team-position {
 	margin: 10px auto 50px;
 	font-size: 18px;
+}
+#team .label {
+	background-color: #ffc000;
 }
 /* Contact Section */
 #contact {
