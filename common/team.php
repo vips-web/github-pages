@@ -9,11 +9,13 @@
       <div class="team-row" ontouchstart="">
         <div>
           <p class="team-image team-boon"></p>
-          <p class="team-name">VIP☆STAR<br>（ブーン）<br><br>代表取締役</p>
+          <p class="team-name">ブーン<br>（VIP☆STAR）</p>
+          <p class="team-position"><span class="label">CEO</span></p>
         </div>
         <div>
           <p class="team-image team-takuzo"></p>
-          <p class="team-name">吉澤拓哉<br>（たくぞう）<br><br>Chief Marketing Officer</p>
+          <p class="team-name">吉澤拓哉<br>（たくぞう）</p>
+          <p class="team-position"><span class="label">CMO</span></p>
         </div>
         <div>
           <p class="team-image team-uruhu"></p>
@@ -25,7 +27,7 @@
         </div>
         <div>
           <p class="team-image team-m"></p>
-          <p class="team-name">寺生まれのM</p>
+          <p class="team-name">寺生まれの<br>Mさん</p>
         </div>
       </div>
     <?php else: ?>
@@ -37,11 +39,13 @@
       <div class="team-row" ontouchstart="">
         <div>
           <p class="team-image team-boon"></p>
-          <p class="team-name">VIP☆STAR<br>（Boon）<br><br><br>Representative Director</p>
+          <p class="team-name">Boon<br>（VIP☆STAR）</p>
+          <p class="team-position"><span class="label">CEO</span></p>
         </div>
         <div>
           <p class="team-image team-takuzo"></p>
-          <p class="team-name">Takuya Yoshizawa<br>（takuzo）<br><br>Chief Marketing Officer</p>
+          <p class="team-name">Takuya Yoshizawa<br>（takuzo）</p>
+          <p class="team-position"><span class="label">CMO</span></p>
         </div>
         <div>
           <p class="team-image team-uruhu"></p>
