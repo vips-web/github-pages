@@ -30,13 +30,13 @@
             <a href="https://fkfk.github.io/vips/qrcode/" class="button button-bw" target="_blank">
               QRCode Generator&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsWin-1.1.0.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsWin-1.1.1.zip" class="button button-bw" target="_blank">
               QRVIPS (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsMac-1.1.0.dmg" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/QRVipsMac-1.1.1.dmg" class="button button-bw" target="_blank">
               QRVIPS (Mac)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/RegVIPS-1.0.2.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/RegVIPS-1.0.3.zip" class="button button-bw" target="_blank">
               RegVIPS (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a>
           </div>
