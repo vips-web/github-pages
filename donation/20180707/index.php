@@ -54,7 +54,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>/css/donation.css">
-    <meta property="og:url" content="<?php echo URL; ?>/donation/">
+    <meta property="og:url" content="<?php echo URL; ?>/donation/20180707/">
     <meta name="description"
           content="仮想通貨VIPSTARCOIN(VIPS)の西日本豪雨寄付窓口です。">
     <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨">
