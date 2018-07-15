@@ -46,5 +46,19 @@
         <?php } ?>
       </div>
     </div>
+
+    <?php if (!isset($news_button) || !$news_button): ?>
+      <div class="news-button">
+        <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+          <a class="button button-bw" href="<?php echo URL; ?>/news/">
+            すべて見る&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+          </a>
+        <?php else: ?>
+          <a class="button button-bw" href="<?php echo URL; ?>/news/?lang=en">
+            VIEW ALL&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+          </a>
+        <?php endif; ?>
+      </div>
+    <?php endif; ?>
   </div>
 </div>
