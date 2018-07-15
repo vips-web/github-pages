@@ -1,3 +1,10 @@
+CoAket report,2018/07/15,event,event-coaket.png,https://github.com/vips-web/github-pages/raw/master/download/CoAket.pdf
+Jingle contest,2018/07/15,event,event-jingle.png,https://twitter.com/zxybroccoli/status/1018468595666333696
+Report of donation for earthquake in Osaka,2018/07/14,other,other-donation-20180618-report.jpg,https://twitter.com/VIPSTARCOIN/status/1018130916126781440
+CoAket goods introduction part2,2018/07/14,event,event-coaket-goods-2.jpg,https://twitter.com/VIPSTARCOIN/status/1018128904307871746
+Crappy collage contest result,2018/07/14,event,event-collage-result.jpg,https://twitter.com/VIPSTARCOIN/status/1018121157575241728
+CoAket goods introduction part1,2018/07/13,event,event-coaket-goods-1.jpg,https://twitter.com/VIPSTARCOIN/status/1017756110785167360
+Planets / bean sprouts you came up with might appear in the game!?,2018/07/08,event,event-game-name-idea.png,https://docs.google.com/forms/d/e/1FAIpQLSf5uv-EulR1YVicNAh2QYJDNGjuOqbcI1lleYQakF5dsrFTYg/viewform
 Release of Android wallet,2018/07/08,develop,develop-android-wallet-release.jpg,https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet
 Accepting donation for heavy rain in Western Japan,2018/07/07,other,other-donation-20180707.png,https://www.vipstarcoin.jp/donation/20180707/
 Crappy collage contest,2018/07/06,event,event-collage.png,https://twitter.com/VIPSTARCOIN/status/1015223005855641601
