@@ -102,76 +102,79 @@ function main() {
   })
 
   // Chart
-  var ctx = document.getElementById("holdingChart").getContext('2d');
-  var label_1 = $('.js_ctx-label-1').val();
-  var label_2 = $('.js_ctx-label-2').val();
-  var label_3 = $('.js_ctx-label-3').val();
-  var label_4 = $('.js_ctx-label-4').val();
-  var label_5 = $('.js_ctx-label-5').val();
-  var data = {
-    datasets: [{
-      data: [
-        33.3,
-        20.3,
-        20.3,
-        16.0,
-        10.0,
+  var holdingChart = document.getElementById("holdingChart");
+  if (holdingChart) {
+    var ctx = holdingChart.getContext('2d');
+    var label_1 = $('.js_ctx-label-1').val();
+    var label_2 = $('.js_ctx-label-2').val();
+    var label_3 = $('.js_ctx-label-3').val();
+    var label_4 = $('.js_ctx-label-4').val();
+    var label_5 = $('.js_ctx-label-5').val();
+    var data = {
+      datasets: [{
+        data: [
+          33.3,
+          20.3,
+          20.3,
+          16.0,
+          10.0,
+        ],
+        backgroundColor: [
+          'rgb(255, 205, 86)',  // yellow
+          'rgb(255, 159, 64)',  // orange
+          'rgb(255, 99, 132)',  // red
+          'rgb(153, 102, 255)', // purple
+          'rgb(54, 162, 235)',  // blue
+          'rgb(75, 192, 192)',  // green
+          'rgb(201, 203, 207)', // grey
+        ],
+        borderColor: [
+          'rgb(255, 205, 86)',  // yellow
+          'rgb(255, 159, 64)',  // orange
+          'rgb(255, 99, 132)',  // red
+          'rgb(153, 102, 255)', // purple
+          'rgb(54, 162, 235)',  // blue
+          'rgb(75, 192, 192)',  // green
+          'rgb(201, 203, 207)', // grey
+        ],
+      }],
+      labels: [
+        label_1,
+        label_2,
+        label_3,
+        label_4,
+        label_5,
       ],
-      backgroundColor: [
-        'rgb(255, 205, 86)',  // yellow
-        'rgb(255, 159, 64)',  // orange
-        'rgb(255, 99, 132)',  // red
-        'rgb(153, 102, 255)', // purple
-        'rgb(54, 162, 235)',  // blue
-        'rgb(75, 192, 192)',  // green
-        'rgb(201, 203, 207)', // grey
-      ],
-      borderColor: [
-        'rgb(255, 205, 86)',  // yellow
-        'rgb(255, 159, 64)',  // orange
-        'rgb(255, 99, 132)',  // red
-        'rgb(153, 102, 255)', // purple
-        'rgb(54, 162, 235)',  // blue
-        'rgb(75, 192, 192)',  // green
-        'rgb(201, 203, 207)', // grey
-      ],
-    }],
-    labels: [
-      label_1,
-      label_2,
-      label_3,
-      label_4,
-      label_5,
-    ],
-  };
-  var options = {
-    responsive: true,
-    legend: {
-      display: false,
-    },
-    title: {
-      display: false,
-    },
-    animation: {
-      animateScale: false,
-      animateRotate: true,
-      easing: "easeInOutQuart",
-    },
-    tooltips: {
-      backgroundColor: 'rgb(0, 0, 0)',
-      displayColors: false,
-    },
-  };
+    };
+    var options = {
+      responsive: true,
+      legend: {
+        display: false,
+      },
+      title: {
+        display: false,
+      },
+      animation: {
+        animateScale: false,
+        animateRotate: true,
+        easing: "easeInOutQuart",
+      },
+      tooltips: {
+        backgroundColor: 'rgb(0, 0, 0)',
+        displayColors: false,
+      },
+    };
 
-  var $holdingChart = $('#holdingChart');
-  $holdingChart.on('inview', function() {
-    var myDoughnutChart = new Chart(ctx, {
-      type: 'doughnut',
-      data: data,
-      options: options
+    var $holdingChart = $('#holdingChart');
+    $holdingChart.on('inview', function() {
+      var myDoughnutChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: data,
+        options: options
+      });
+      $holdingChart.off('inview');
     });
-    $holdingChart.off('inview');
-  });
+  }
 }());
 
 }

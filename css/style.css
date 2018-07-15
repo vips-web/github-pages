@@ -91,6 +91,7 @@ hr {
 }
 .navbar-custom .navbar-brand {
 	font-weight: 600;
+	color: #fff;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
@@ -132,6 +133,11 @@ hr {
 }
 .navbar-custom .nav li.active a:hover {
 	color: #fff;
+}
+.navbar-custom .navbar-back {
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 .btn-default {
 	color: #fff;
@@ -691,6 +697,10 @@ ol.type li a:hover {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
+}
+#news .news-button {
+	margin: 20px 0 30px;
+	text-align: center;
 }
 /* Community Section */
 #community {
