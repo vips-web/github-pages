@@ -91,8 +91,62 @@
             </tbody>
           </table>
           運営状況やロードマップ遂行のための費用等を加味し、<br>
-          毎年度末にロックアップ量が再計算される。
+          毎年度末にロックアップ量が再計算される。<br>
+          <br>
+          <a href="#" class="holding-lockup-link" data-toggle="modal" data-target="#lockupModal">
+            ロックアップアドレス&nbsp;&nbsp;<i class="far fa-window-restore"></i>
+          </a>
         </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="lockupModal" tabindex="-1" role="dialog" aria-labelledby="lockupModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="lockupModalLabel">ロックアップアドレス</h4>
+        </div>
+        <div class="modal-body">
+          <a href="http://explorer.vipstarcoin.jp/address/VPdKf18L93b9WpKoeGLxeBrLeoc6uYjifg" target="_blank" class="holding-lockup-link">
+            VPdKf18L93b9WpKoeGLxeBrLeoc6uYjifg
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VTbzT723FodqPNFh39Kyg7X8wwH2jgGn9p" target="_blank" class="holding-lockup-link">
+            VTbzT723FodqPNFh39Kyg7X8wwH2jgGn9p
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VZ94MD655uUfMPPtnbHhheTqwrcG4mzgn3" target="_blank" class="holding-lockup-link">
+            VZ94MD655uUfMPPtnbHhheTqwrcG4mzgn3
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VEDRjYBY5tHppRDTzEeYcMak4of2hUW3tn" target="_blank" class="holding-lockup-link">
+            VEDRjYBY5tHppRDTzEeYcMak4of2hUW3tn
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VJRt3y2XZwt93fNT6qQVoC5yCLDA5MFcRR" target="_blank" class="holding-lockup-link">
+            VJRt3y2XZwt93fNT6qQVoC5yCLDA5MFcRR
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VU7yJXUxfQU68nsASd7zW1wAn5DKPz93dz" target="_blank" class="holding-lockup-link">
+            VU7yJXUxfQU68nsASd7zW1wAn5DKPz93dz
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VRd6pt1TSPeeMgE6CN1c7oGLYuX4CCL3AF" target="_blank" class="holding-lockup-link">
+            VRd6pt1TSPeeMgE6CN1c7oGLYuX4CCL3AF
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VPruqjjx4so5c8fqBTHyMn16xGXXDDyp7T" target="_blank" class="holding-lockup-link">
+            VPruqjjx4so5c8fqBTHyMn16xGXXDDyp7T
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VZiyJc8BEU597D4vC3nJr4Ya6jTdMiwnmG" target="_blank" class="holding-lockup-link">
+            VZiyJc8BEU597D4vC3nJr4Ya6jTdMiwnmG
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VAuhyerY1AD9GzFnUvdGpwMUrnLe6MBCdi" target="_blank" class="holding-lockup-link">
+            VAuhyerY1AD9GzFnUvdGpwMUrnLe6MBCdi
+          </a><br>
+          <a href="http://explorer.vipstarcoin.jp/address/VCnucQiukpHJikhurvtTE6at88RNzYiTZm" target="_blank" class="holding-lockup-link">
+            VCnucQiukpHJikhurvtTE6at88RNzYiTZm
+          </a>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="button button-bw" data-dismiss="modal">CLOSE</button>
+        </div>
       </div>
     </div>
   </div>
