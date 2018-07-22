@@ -17,6 +17,8 @@
           <p class="team-name">吉澤拓哉<br>（たくぞう）</p>
           <p class="team-position"><span class="label">CMO</span></p>
         </div>
+      </div>
+      <div class="team-row">
         <div>
           <p class="team-image team-uruhu"></p>
           <p class="team-name">uruhu</p>
@@ -28,6 +30,10 @@
         <div>
           <p class="team-image team-m"></p>
           <p class="team-name">寺生まれの<br>Mさん</p>
+        </div>
+        <div>
+          <p class="team-image team-bruin"></p>
+          <p class="team-name">Bruin-kun</p>
         </div>
       </div>
     <?php else: ?>
@@ -47,6 +53,8 @@
           <p class="team-name">Takuya Yoshizawa<br>（takuzo）</p>
           <p class="team-position"><span class="label">CMO</span></p>
         </div>
+      </div>
+      <div class="team-row">
         <div>
           <p class="team-image team-uruhu"></p>
           <p class="team-name">uruhu</p>
@@ -58,6 +66,10 @@
         <div>
           <p class="team-image team-m"></p>
           <p class="team-name">M</p>
+        </div>
+        <div>
+          <p class="team-image team-bruin"></p>
+          <p class="team-name">Bruin-kun</p>
         </div>
       </div>
     <?php endif; ?>

@@ -803,31 +803,35 @@ ol.type li a:hover {
 #team .team-image {
 	width: 128px;
 	height: 128px;
-	margin: 0 20px;
+	margin: 40px 20px 0;
 	border-radius: 50%;
 }
 #team .team-boon {
-	background: url('https://www.vipstarcoin.jp/img/team/boon.png') no-repeat;
+	background: url('../img/team/boon.png') no-repeat;
 	background-size: contain;
 }
 #team .team-takuzo {
-	background: url('https://www.vipstarcoin.jp/img/team/takuzo.png') no-repeat;
+	background: url('../img/team/takuzo.png') no-repeat;
 	background-size: contain;
 }
 #team .team-takuzo:hover {
-	background: url('https://www.vipstarcoin.jp/img/team/takuzo_2.png') no-repeat;
+	background: url('../img/team/takuzo_2.png') no-repeat;
 	background-size: contain;
 }
 #team .team-uruhu {
-	background: url('https://www.vipstarcoin.jp/img/team/uruhu.png') no-repeat;
+	background: url('../img/team/uruhu.png') no-repeat;
 	background-size: contain;
 }
 #team .team-orute {
-	background: url('https://www.vipstarcoin.jp/img/team/orute.png') no-repeat;
+	background: url('../img/team/orute.png') no-repeat;
 	background-size: contain;
 }
 #team .team-m {
-	background: url('https://www.vipstarcoin.jp/img/team/m.png') no-repeat;
+	background: url('../img/team/m.png') no-repeat;
+	background-size: contain;
+}
+#team .team-bruin {
+	background: url('../img/team/bruin-kun.png') no-repeat;
 	background-size: contain;
 }
 #team img {
@@ -841,7 +845,7 @@ ol.type li a:hover {
 	font-size: 18px;
 }
 #team .team-position {
-	margin: 10px auto 50px;
+	margin: 10px auto;
 	font-size: 18px;
 }
 #team .label {
