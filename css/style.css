@@ -756,6 +756,12 @@ ol.type li a:hover {
 	text-align: center;
 	padding: 0 15px;
 }
+#partner .partner-image div {
+	margin-top: 50px;
+}
+#partner .partner-image div:first-child {
+	margin-top: 0;
+}
 #partner .partner-image img {
 	max-width: 100%;
 }
