@@ -1,3 +1,11 @@
+CryptalDash<br>上場コンペ開始,2018/07/22,event,event-cryptaldash-competition.png,https://twitter.com/VIPSTARCOIN/status/1020869459022557184
+株式会社VIPSTAR<br>オフィス開設,2018/07/20,other,other-office-open.jpg,https://www.vipstarcoin.jp/blog/2018/07/20/%E7%A5%9D%EF%BC%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEvipstar%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%EF%BC%81/
+業務提携<br>合同会社Alien Games,2018/07/20,other,other-aliengames.png,http://www.aliengames.co.jp/
+マレーチャン×VIPSTARCOIN<br>コラボキャンペーン,2018/07/19,other,other-malaychan-campaign.jpg,https://jakim.co.jp/user_data/vipstarcoin201807
+VIPSグッズ販売中<br>ハンブルク J-Store,2018/07/19,other,other-j-store.jpg,https://twitter.com/VIPSTARCOIN/status/1019827084984643584
+Binance寄付キャンペーンのお知らせ,2018/07/19,other,other-aid-for-world.png,https://www.vipstarcoin.jp/blog/2018/07/19/%E3%81%94%E6%8C%A8%E6%8B%B6%EF%BC%8F%E5%AF%84%E4%BB%98%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%e3%80%80announcement-donation-campaign/
+Androidウォレット向けスワップ受付開始,2018/07/17,develop,develop-swap-android.png,https://docs.google.com/forms/d/e/1FAIpQLSc5SWk5YVk-OHW-jYdL2z-uprgY4ay-9phi_z6N6Bfc65sJgQ/viewform
+仮想通貨でお買い物選手権,2018/07/17,event,event-cryptocurrency-shopping.jpg,https://twitter.com/rufyiitan/status/1018812686459523072
 CoAketお品書き その3,2018/07/15,event,event-coaket-goods-3.jpg,https://twitter.com/VIPSTARCOIN/status/1018487308033536000
 CoAket報告,2018/07/15,event,event-coaket.png,https://github.com/vips-web/github-pages/raw/master/download/CoAket.pdf
 ジングルコンテスト開催,2018/07/15,event,event-jingle.png,https://twitter.com/zxybroccoli/status/1018468595666333696

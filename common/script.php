@@ -13,3 +13,12 @@
 <script type="text/javascript" src="<?php echo URL; ?>/js/jquery.inview.min.js"></script>
 <script type="text/javascript" src="<?php echo URL; ?>/js/main.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
+
+<?php if ($lang == 'ja' | $lang == 'vip'): ?>
+  <script type="text/javascript" src="<?php echo URL; ?>/js/lightbox.min.js"></script>
+  <a href="<?php echo URL; ?>/images/cryptaldash.png"
+     class="js_event"
+     data-lightbox="event"
+     data-title="CryptalDash上場コンペ開催中！ <a href='https://twitter.com/VIPSTARCOIN/status/1020869459022557184' target='_blank'>詳細</a><br>
+                 <a href='https://www.cryptaldash.com/new-coin-listing/vips'>投票ページ</a>"></a>
+<?php endif; ?>
