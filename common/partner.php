@@ -11,7 +11,7 @@
     </div>
     <div>
       <a href="http://www.aliengames.co.jp/" target="_blank">
-        <img src="<?php echo URL; ?>/img/partner/alien-games.png" alt="AlienGames" width="240">
+        <img src="<?php echo URL; ?>/img/partner/aliengames.png" alt="AlienGames" width="240">
       </a>
     </div>
   </div>
