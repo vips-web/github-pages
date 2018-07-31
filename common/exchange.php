@@ -12,10 +12,6 @@
     </a><br>
     <a href="https://www.coinexmarket.io" target="_blank">
       <img src="<?php echo URL; ?>/img/exchange/coinexmarket.png" alt="CoinExMarket" width="250">
-    </a><br>
-    <br><br><br>
-    <a href="https://www.cryptaldash.com/new-coin-listing/vips" target="_blank">
-      <img src="<?php echo URL; ?>/img/exchange/cryptaldash.jpg" alt="CryptalDash" width="500">
     </a>
   </div>
 </div>
