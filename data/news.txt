@@ -1,3 +1,4 @@
+発表カウントダウン開始,2018/08/06,event,event-countdown.png,https://www.vipstarcoin.jp/lp/countdown-germany/
 CryptalDash<br>上場決定,2018/07/31,develop,develop-cryptaldash-listing-decision.png,https://medium.com/@cryptaldashcoin/vipstarcoin-vips-wins-instant-listing-at-the-cryptaldash-exchange-8cc35de92c44
 CryptalDash<br>上場コンペ開始,2018/07/22,event,event-cryptaldash-competition.png,https://twitter.com/VIPSTARCOIN/status/1020869459022557184
 株式会社VIPSTAR<br>オフィス開設,2018/07/20,other,other-office-open.jpg,https://www.vipstarcoin.jp/blog/2018/07/20/%E7%A5%9D%EF%BC%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEvipstar%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%EF%BC%81/
