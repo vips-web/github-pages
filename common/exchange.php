@@ -12,6 +12,12 @@
     </a><br>
     <a href="https://www.coinexmarket.io" target="_blank">
       <img src="<?php echo URL; ?>/img/exchange/coinexmarket.png" alt="CoinExMarket" width="250">
-    </a>
+    </a><br>
+    <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+      <br><br><br>
+      <a href="https://www.vipstarcoin.jp/blog/2018/08/06/vipstarcoin%E8%B3%BC%E5%85%A5%E6%89%8B%E9%A0%86/" class="button button-bw" target="_blank">
+        購入手順&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+      </a>
+    <?php endif; ?>
   </div>
 </div>
