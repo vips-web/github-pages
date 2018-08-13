@@ -271,7 +271,7 @@
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
 							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">
-							            <span class="fa fa-angle-up"></span> 仮想通貨ではなく物理トークンなのはなぜですか？
+							            <span class="fa fa-angle-up"></span> 仮想通貨ではなく物理トークンなのはなぜ？
 							          </a>
 							        </h4>
 							      </div>
@@ -288,7 +288,7 @@
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
 							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-							            <span class="fa fa-angle-down"></span> 提携の目的は何ですか？
+							            <span class="fa fa-angle-down"></span> 提携の目的は何？
 							          </a>
 							        </h4>
 							      </div>
@@ -315,17 +315,50 @@
 												スポンサーにはドイツゲーム協会、欧州で知名度のあるテレビ局ARTEやUtomik等がついており、また、ノルトライン＝ヴェストファーレン州首相がパートナーに名を連ねています。
                       </div>
 							      </div>
+									</div>
+									
+									<div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+							            <span class="fa fa-angle-down"></span> 一部のブースで利用できるだけ？
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse4" class="panel-collapse collapse">
+							        <div class="panel-body">
+											  ブースと名は付いていますが、本コインが流通するのはインディーゲームを扱うエリア全体となります。<br>
+                        エリア全体の昨年の動員数は約8万人で、毎年増加傾向にあります。<br>
+                        本エリアはインディーゲームのみを扱うイベントや他ゲーム見本市のエリアと比較してもダントツの、世界最大規模を誇ります。
+                      </div>
+							      </div>
+									</div>
+									
+									<div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+							            <span class="fa fa-angle-down"></span> 注目度はどの程度？
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse5" class="panel-collapse collapse">
+							        <div class="panel-body">
+											  世界最大ということもあり、政府関係者は必ず来場します。<br>
+                        昨年はメルケル首相の視察箇所にも当初は入っていましたが、残念ながら警備上の理由により叶いませんでした。
+                      </div>
+							      </div>
 							    </div>
 
 							    <div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
-							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
 							            <span class="fa fa-angle-down"></span> 誰が行くの？
 							          </a>
 							        </h4>
 							      </div>
-							      <div id="collapse4" class="panel-collapse collapse">
+							      <div id="collapse6" class="panel-collapse collapse">
 							        <div class="panel-body">
 										  	会場にはたくぞう、oruteペアが行きます。<br>
 										  	今回は時間、スケジュール共に余裕がありそうなので、じっくり会場をレポートしてたくさん皆さんに報告できると思います。謎の狐面男との再会も！<br>
@@ -337,12 +370,27 @@
 									<div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
-							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+							            <span class="fa fa-angle-down"></span> gamescom内での物販が禁止されてるのにコインは販売できるの？
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse7" class="panel-collapse collapse">
+							        <div class="panel-body">
+										  	gamescom内では基本的に物販は禁止されていますが、我々の提携するコインの販売及びそのコインを利用したIAB内での物販は特別に許可されています。
+							        </div>
+							      </div>
+									</div>
+
+									<div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
 							            <span class="fa fa-angle-down"></span> コインの日本向け販売はあるの？
 							          </a>
 							        </h4>
 							      </div>
-							      <div id="collapse5" class="panel-collapse collapse">
+							      <div id="collapse8" class="panel-collapse collapse">
 							        <div class="panel-body">
 										  	今のところ販売は考えておりませんが、現地でいくつか持って帰っていいかを聞いてみて、何かイベント等の特典に加えたいです。
 							        </div>
@@ -352,12 +400,12 @@
 									<div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
-							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
 							            <span class="fa fa-angle-down"></span> 今後のイベントで、リアルコインではなくVIPSもしくはVIPSトークンを使う予定、計画はあるの？
 							          </a>
 							        </h4>
 							      </div>
-							      <div id="collapse6" class="panel-collapse collapse">
+							      <div id="collapse9" class="panel-collapse collapse">
 							        <div class="panel-body">
 											  今回の提携により相手方に「おもしろそう！」と興味を持っていただけたので、今後ブロックチェーン技術、仮想通貨が世界に認められていくにつれて実現の可能性は上がっていくと思いますし、我々も推奨していく予定です。
 							        </div>
