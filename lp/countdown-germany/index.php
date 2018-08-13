@@ -6,6 +6,11 @@
     ini_set('display_errors', 0);
     define('URL', 'https://www.vipstarcoin.jp');
   }
+
+  if (time() > strtotime('2018-08-13 15:00:00')) {
+    header('Location: ' . URL . '/lp/gamescom/');
+    exit();
+  }
 ?>
 <!DOCTYPE html>
 <html>
@@ -125,7 +130,7 @@
   <script type="text/javascript" src="js/jquery.final-countdown.min.js"></script>
   <script type="text/javascript">
     $('.countdown').final_countdown({}, function() {
-      // location.reload();
+      setTimeout(function(){location.reload()}, Math.random() * 5000);
     });
 
     setInterval("imgTimer()", 5000);
