@@ -341,15 +341,49 @@
 							      </div>
 							    </div>
 
-							    <div class="panel panel-default">
+
+									<div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
 							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-							            <span class="fa fa-angle-down"></span> Who goes there?
+							            <span class="fa fa-angle-down"></span> Can I use the coin only at the booth?
 							          </a>
 							        </h4>
 							      </div>
 							      <div id="collapse4" class="panel-collapse collapse">
+							        <div class="panel-body">
+												Although it is called “booth,” this coin can be used at the entire indie-game area.<br>
+												About 80,000 people visited the area last year, and the number of visitors is increasing every year.<br>
+												This area is the largest indie-game exhibition in the world even compared with other indie-specific game events and fairs.
+							        </div>
+							      </div>
+									</div>
+
+							    <div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+							            <span class="fa fa-angle-down"></span> How much attention is the area attracting?
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse5" class="panel-collapse collapse">
+							        <div class="panel-body">
+												Since it is the world’s “largest” event, government officials definitely visit the area.<br>
+												Even prime minister Merkel planned to visit last year (unfortunately it did not happen for security reasons).
+							        </div>
+							      </div>
+									</div>
+
+							    <div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+							            <span class="fa fa-angle-down"></span> Who goes there?
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse6" class="panel-collapse collapse">
 							        <div class="panel-body">
 											  Takuzo and orute will be on site.<br>
                       	As we have some time this time, we will walk around the event and could report details of the event. We also meet anonymous "Fox man"!<br>
@@ -361,12 +395,27 @@
 									<div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
-							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+							            <span class="fa fa-angle-down"></span> Is it allowed to sell the coin while sales are prohibited at gamescom?
+							          </a>
+							        </h4>
+							      </div>
+							      <div id="collapse7" class="panel-collapse collapse">
+							        <div class="panel-body">
+											  Yes. Even though sales are basically prohibited inside gamescom, selling our tie-up coin and purchasing goods with the coin at the IAB are specially permitted.
+							        </div>
+							      </div>
+									</div>
+
+									<div class="panel panel-default">
+							      <div class="panel-heading">
+							        <h4 class="panel-title">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
 							            <span class="fa fa-angle-down"></span> Are you going to sell those coins?
 							          </a>
 							        </h4>
 							      </div>
-							      <div id="collapse5" class="panel-collapse collapse">
+							      <div id="collapse8" class="panel-collapse collapse">
 							        <div class="panel-body">
 												We are not currently planning to sell those coins.<br>
 												We may ask if we could bring back some and use as presents for future events
@@ -377,12 +426,12 @@
 									<div class="panel panel-default">
 							      <div class="panel-heading">
 							        <h4 class="panel-title">
-							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+							          <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
 							            <span class="fa fa-angle-down"></span> Are you planning to use VIPS or VIPS tokens instead of real coins at a future event?
 							          </a>
 							        </h4>
 							      </div>
-							      <div id="collapse6" class="panel-collapse collapse">
+							      <div id="collapse9" class="panel-collapse collapse">
 							        <div class="panel-body">
 												Through this partnership, we hope IAB team find concept and technology of crypyocurrency interesting.<br>
 												We expect such chances increase as blockchain technology and cryptocurrencty get known to public.<br>
