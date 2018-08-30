@@ -520,6 +520,15 @@ hr {
 	display: inline-block;
 	margin: 0 10px 25px;
 }
+#wallet .wallet-button-web {
+	height: 52px; 
+	padding: 10px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #fff;
+	border-color: #330867;
+	background: linear-gradient(to right, #30cfd0, #330867); 
+}
 #wallet .wallet-text {
 	margin-top: 50px;
 	text-align: center;
