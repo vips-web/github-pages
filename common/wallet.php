@@ -44,6 +44,10 @@
               HOW TO USE&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
           <?php endif; ?>
+          <br><br><br>
+          <a href="https://wallet.vipstarco.in/" class="button button-bw wallet-button-web" target="_blank">
+            <i class="fas fa-globe"></i>&nbsp;&nbsp;WEB WALLET</i>
+          </a>
         </div>
       </div>
     </div>

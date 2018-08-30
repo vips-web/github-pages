@@ -1,4 +1,5 @@
 <?php 
+/*
   $special_url = URL . '/lp/gamescom/';
   if ($lang != 'ja' && $lang != 'vip') {
     $special_url .= 'en/';
@@ -12,3 +13,7 @@
     IAB@gamescom&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
   </a>
 </div>
+
+<?php 
+*/
+?>
