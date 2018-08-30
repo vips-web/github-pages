@@ -84,8 +84,8 @@
                   <span><b>A. We plan to increase the number of people who have heard of VIPS at first; then we release an app that enables holders to use VIPS as a payment method. Detailed plans are to be developed.</b></span>
                 </p>
                 <p>
-                  <span>Q. What is NUQUMORITY?</span><br>
-                  <span><b>A. NUQUMORITY is the word originated in the VIP community. The word is the combination of a Japanese word 'Nukumori'(tenderness, warmness) and an English word 'Quality.' In 5ch (formerly known as 2ch), the word 'Quality' is sometimes used in the context of expressing an 'identity' of a board. 'NUQUMORITY' is the word to express the tenderness in the VIP community and a slogan to spread it outside the VIP community.</b></span>
+                  <span>Q. What is NUKUMORITY?</span><br>
+                  <span><b>A. NUKUMORITY is the word originated in the VIP community. The word is the combination of a Japanese word 'Nukumori'(tenderness, warmness) and an English word 'Quality.' In 5ch (formerly known as 2ch), the word 'Quality' is sometimes used in the context of expressing an 'identity' of a board. 'NUKUMORITY' is the word to express the tenderness in the VIP community and a slogan to spread it outside the VIP community.</b></span>
                 </p>
                 <p>
                   <span>Q. Where can I get more information on VIPS?</span><br>
@@ -117,7 +117,7 @@
                   2. We determine and ensure the budget needed for promoting VIPS before listed. This enables us to continue to conduct marketing, advertisement, and development for a while in the future. <br>
                 </p>
                 <p class="modal-text">
-                  3. We also keep a certain portion of VIPS for distribution ('NUQUMORITY' activities) and provide vipper with VIPS coins periodically. This will contribute to gain support from our original community continuously.<br>
+                  3. We also keep a certain portion of VIPS for distribution ('NUKUMORITY' activities) and provide vipper with VIPS coins periodically. This will contribute to gain support from our original community continuously.<br>
                 </p>
                 <p class="modal-text">
                   4. Since VIPS is originated from 5ch (formerly known as 2ch) as Monacoin is, strong support from the community can be expected.<br>

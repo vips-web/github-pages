@@ -9,7 +9,7 @@
       We are targeting ...<br>
       to enable VIPS holders to make easy payments with a QR code.<br>
       to support individuals and companies that try to create an original VIPS compliant token.<br>
-      to encourage the recovery of devastated areas around the world with the spirit of 'Worldwide Nuqumority'(tenderness for the world).<br>
+      to encourage the recovery of devastated areas around the world with the spirit of 'Worldwide Nukumority'(tenderness for the world).<br>
       Our roadmap is shown below.
     </p>
     <div class="row">
@@ -76,7 +76,7 @@
             <div class="timeline-panel">
               <div class="timeline-body">
                 <p>Starting the development of a social game using VIPS</p>
-                <p>Starting the development of an app for the “worldwide nuqumority-project“</p>
+                <p>Starting the development of an app for the “worldwide nukumority-project“</p>
                 <p>Release of the first VIPSGirls game</p>
               </div>
             </div>
@@ -93,7 +93,7 @@
                 <p>Donation to disaster-stricken areas over the world in VIPS</p>
                 <p>Launching the social game using VIPS</p>
                 <p>Launching the file uploading SNS using VIPS</p>
-                <p>Completion of beta version of the app for the “worldwide nuqumority-project“</p>
+                <p>Completion of beta version of the app for the “worldwide nukumority-project“</p>
               </div>
             </div>
           </li>
@@ -103,10 +103,10 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>LAUNCHING THE 'WORLDWIDE NUQUMORITY' SERVICE</h4>
+                <h4>LAUNCHING THE 'WORLDWIDE NUKUMORITY' SERVICE</h4>
               </div>
               <div class="timeline-body">
-                <p>The Worldwide Nuqumority is a service that shows organizations in the disaster-stricken areas that hold VIPS wallets.</p>
+                <p>The Worldwide Nukumority is a service that shows organizations in the disaster-stricken areas that hold VIPS wallets.</p>
                 <p>VIPS holders can donate to them easily by just pushing a button one time</p>
                 <p>VIPS will reach the receiver's wallet faster than sending fiat money and could make purchases without withdrawing money from banks where a VIPS settlement system has been developed.</p>
               </div>

@@ -58,7 +58,7 @@
                 <p>为VIPS持有者启动FLEA市场服务</p>
                 <p>从5CH获得官方认可</p>
                 <p>开始为VIPS持有者开发一个文件上传器</p>
-                <p>开始“全球NUQUMORITY”应用程序的开发</p>
+                <p>开始“全球NUKUMORITY”应用程序的开发</p>
                 <p>*该服务将作为智能手机应用程序提供</p>
               </div>
             </div>
@@ -75,7 +75,7 @@
                 <p>在VIPS的世界上为灾难严重的地区捐款</p>
                 <p>发布文件上传服务</p>
                 <p>发布社交游戏APP</p>
-                <p>完成“全球NUQUMORITY”APP的测试版本</p>
+                <p>完成“全球NUKUMORITY”APP的测试版本</p>
               </div>
             </div>
           </li>
@@ -85,10 +85,10 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>启动'全球NUQUMORITY'服务</h4>
+                <h4>启动'全球NUKUMORITY'服务</h4>
               </div>
               <div class="timeline-body">
-                <p>全球Nuqumority是一项服务，显示了持有VIPS钱包的灾难地区的组织。</p>
+                <p>全球Nukumority是一项服务，显示了持有VIPS钱包的灾难地区的组织。</p>
                 <p>只需按一次按钮，VIPS持有者就可以轻松捐赠给他们</p>
                 <p>VIPS将比发送法定货币更快到达收款人的钱包，并且可以在没有从已开发VIPS结算系统的银行提取钱款的情况下进行购买。</p>
               </div>

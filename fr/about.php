@@ -101,11 +101,11 @@
                     </b></span>
                   </p>
                   <p>
-                    <span>Q. Qu'est ce que NUQUMORITY?</span><br>
+                    <span>Q. Qu'est ce que NUKUMORITY?</span><br>
                     <span><b>
-                      R. NUQUMORITY est un mot originaire d'une communauté VIP.<br>
+                      R. NUKUMORITY est un mot originaire d'une communauté VIP.<br>
                       Ce mot est une combinaison du mot japonais "Nukumori"(chaleur, tendresse) et du mot anglais "Quality".<br>
-                      "NUQUMORITY" est un mot pour exprimer la tendresse dans communauté VIP et un slogan pour l'étendre à l'extérieur de la communauté VIP.
+                      "NUKUMORITY" est un mot pour exprimer la tendresse dans communauté VIP et un slogan pour l'étendre à l'extérieur de la communauté VIP.
                     </b></span>
                   </p>
                   <p>
@@ -142,7 +142,7 @@
                     Cela nous permet de continuer à conduire le marketing, la publicité, et le développement pour un certain temps dans l'avenir.
                   </p>
                   <p class="modal-text">
-                    3. Nous garderons aussi une certaine portion de VIPS pour la distribution ('NUQUMORITY' activities) et fournirons les vippers avec la monnaie VIPS périodiquement.<br>
+                    3. Nous garderons aussi une certaine portion de VIPS pour la distribution ('NUKUMORITY' activities) et fournirons les vippers avec la monnaie VIPS périodiquement.<br>
                     Cela contribuera à gagner le soutient de notre communauté originale continuellement.
                   </p>
                   <p class="modal-text">
