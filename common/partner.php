@@ -14,5 +14,10 @@
         <img src="<?php echo URL; ?>/img/partner/aliengames.png" alt="AlienGames" width="240">
       </a>
     </div>
+    <div>
+      <a href="https://www.indiearenabooth.de/" target="_blank">
+        <img src="<?php echo URL; ?>/img/partner/iab.png" alt="AlienGames" width="400">
+      </a>
+    </div>
   </div>
 </div>
