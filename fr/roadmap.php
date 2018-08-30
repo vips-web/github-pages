@@ -89,7 +89,7 @@
                 <p>Les dons avec VIPS aux régions sinistrées à travers le monde</p>
                 <p>Lancement du jeu social pour les titulaires VIPS</p>
                 <p>Lancement du SNS de téléchargement de fichiers pour les titulaires VIPS</p>
-                <p>Achèvement de la version bêta de l’application pour le “worldwide nuqumority project“</p>
+                <p>Achèvement de la version bêta de l’application pour le “worldwide nukumority project“</p>
               </div>
             </div>
           </li>

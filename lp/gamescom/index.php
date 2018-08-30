@@ -36,6 +36,12 @@
   <meta property="og:image" content="<?php echo URL; ?>/lp/gamescom/assets/images/og.png">
   <meta property="og:site_name" content="VIPSTARCOIN">
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:url" content="<?php echo URL; ?>/lp/gamescom/">
+  <meta name="description"
+        content="VIPSTARCOIN in IAB@gamescom VIPSが世界最大のゲームイベントに参戦！ インディーアリーナブースと提携">
+  <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨,gamescom,IAB">
+  <meta property="og:description"
+        content="VIPSTARCOIN in IAB@gamescom VIPSが世界最大のゲームイベントに参戦！ インディーアリーナブースと提携">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="<?php echo URL; ?>/img/favicon.png" type="image/x-icon">
@@ -525,7 +531,7 @@
           crossorigin="anonymous"></script>
   <script type="text/javascript" src="assets/js/jquery.countdown.min.js"></script>
   <script type="text/javascript" src="assets/js/app.js"></script>
-  <script type="text/javascript" src="assets/js/custom.js"></script>
+  <script type="text/javascript" src="assets/js/custom.js?d=20180817"></script>
   <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
 </body>
 </html>

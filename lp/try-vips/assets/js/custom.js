@@ -42,7 +42,7 @@
 	/*  2. EVENT TIME COUNTER
 	/* ----------------------------------------------------------- */
 
-	$('#mu-event-counter').countdown(unixTime2ymd(1534834800)).on('update.countdown', function(event) {
+	$('#mu-event-counter').countdown('2018/08/21 10:00:00').on('update.countdown', function(event) {
 	  var $this = $(this).html(event.strftime(''
 	    + '<span class="mu-event-counter-block"><span>%D</span> Days</span> '
 	    + '<span class="mu-event-counter-block"><span>%H</span> Hours</span> '
@@ -50,17 +50,6 @@
 	    + '<span class="mu-event-counter-block"><span>%S</span> Secs</span>'));
 	});
 
-	function unixTime2ymd(intTime){
-		var d = new Date( intTime * 1000 );
-		var year  = d.getFullYear();
-		var month = d.getMonth() + 1;
-		var day  = d.getDate();
-		var hour = ( '0' + d.getHours() ).slice(-2);
-		var min  = ( '0' + d.getMinutes() ).slice(-2);
-		var sec   = ( '0' + d.getSeconds() ).slice(-2);
-	
-		return( year + '-' + month + '-' + day + ' ' + hour + ':' + min + ':' + sec );
-	}
 
     /* ----------------------------------------------------------- */
 	/*  3. MENU SMOOTH SCROLLING
@@ -197,13 +186,13 @@
 
 		/* Start for accordion #1*/
 		$('#accordion .panel-collapse').on('shown.bs.collapse', function () {
-		$(this).prev().find(".fa").removeClass("fa-angle-down").addClass("fa-angle-up");
+		$(this).prev().find(".fa").removeClass("fa-angle-up").addClass("fa-angle-down");
 		});
 
 		//The reverse of the above on hidden event:
 
 		$('#accordion .panel-collapse').on('hidden.bs.collapse', function () {
-		$(this).prev().find(".fa").removeClass("fa-angle-up").addClass("fa-angle-down");
+		$(this).prev().find(".fa").removeClass("fa-angle-down").addClass("fa-angle-up");
 		});
 
 

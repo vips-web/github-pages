@@ -84,8 +84,8 @@
                     <span><b>答. 我们计划首先增加听说过VIPS的人数;因此我们将发布一个应用程序，使持有人可以使用VIPS作为付款方式。详细计划有待开发。</b></span>
                   </p>
                   <p>
-                    <span>问. 什么是NUQUMORITY？</span><br>
-                    <span><b>答. NUQUMORITY是一个起源于VIP社区的词汇。这个词是日语单词“Nukumori”（温柔，温暖）和英语单词“质量”的结合。在5ch（以前称为2ch）中，“质量”一词有时用于表达董事会的“身份”。 “NUQUMORITY”这个词表达了VIP社区的温柔，并且是一个将其传播到VIP社区之外的口号。</b></span>
+                    <span>问. 什么是NUKUMORITY？</span><br>
+                    <span><b>答. NUKUMORITY是一个起源于VIP社区的词汇。这个词是日语单词“Nukumori”（温柔，温暖）和英语单词“质量”的结合。在5ch（以前称为2ch）中，“质量”一词有时用于表达董事会的“身份”。 “NUKUMORITY”这个词表达了VIP社区的温柔，并且是一个将其传播到VIP社区之外的口号。</b></span>
                   </p>
                   <p>
                     <span>问. 我可以在哪里获得更多关于VIPS的信息？</span><br>
@@ -117,7 +117,7 @@
                     2. 我们确定并确保上市前推广VIPS所需的预算。这使我们能够在将来继续进行营销，广告和发展。
                   </p>
                   <p class="modal-text">
-                    3. 我们还保留VIPS的某个部分用于分发（'NUQUMORITY'活动）并定期为VIP提供VIPS硬币。<br>
+                    3. 我们还保留VIPS的某个部分用于分发（'NUKUMORITY'活动）并定期为VIP提供VIPS硬币。<br>
                     这将有助于不断获得我们原有社区的支持。
                   </p>
                   <p class="modal-text">

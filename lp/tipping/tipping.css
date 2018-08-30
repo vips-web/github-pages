@@ -1,0 +1,101 @@
+.container {
+	position: relative;
+	padding: 0;
+}
+#nav {
+	position: fixed;
+	width: 100%;
+}
+.navbar-brand {
+	margin: 0;
+	color: #fff;
+}
+.navbar-back {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#page-supporter {
+	padding: 82px 20px 30px;
+}
+
+.card {
+	margin: 0 auto;
+	width: 600px;
+	max-width: 100%;
+	/* min-width: 300px; */
+	transition-duration: .1s;
+}
+
+.card:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.card .card-title {
+	text-transform: none;
+	margin-bottom: 5px;
+}
+
+.card .card-title a {
+	color: #000;
+}
+.card .card-body a .fab {
+	color: #1da1f2;
+}
+
+.card li:hover {
+	background-color: #f5f5f5;
+}
+
+/* .card .card-body a {
+	color: #ffc000;
+} */
+
+.card .card-body a:hover  {
+	opacity: .7;
+}
+
+/* .card .card-body .link-twitter {
+	color: #1da1f2;
+} */
+
+.card .card-body .link-instagram {
+	margin-left: 10px;
+	color: #000;
+}
+
+.card .card-body img {
+	border-radius: calc(.25rem - 1px);
+}
+
+.card .card-address {
+	font-size: .9rem;
+}
+
+.card .card-hp {
+	color: #ffc000;
+}
+
+.card .card-hp .fas {
+	float: right;
+	margin-top: 5px;
+	font-size: .9rem;
+	color: #e0e0e0;
+}
+
+@media (max-width: 640px) {
+    .card-columns {
+        column-count: 1;
+    }
+}
+@media (min-width: 640px) and (max-width: 975px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+@media (min-width: 975px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
