@@ -49,7 +49,7 @@
           <li><a href="https://twitter.com/<?php echo $twitter_account; ?>" target="_blank">
             <i class="fab fa-twitter-square fa-4x"></i></i>
           </a></li>
-          <li><a href="https://www.facebook.com/vipstarcoin/" target="_blank">
+          <li><a href="https://www.facebook.com/VIPSTARCoinOfficial/" target="_blank">
             <i class="fab fa-facebook-square fa-4x"></i></i>
           </a></li>
           <li><a href="http://seesaawiki.jp/vips/" target="_blank">
