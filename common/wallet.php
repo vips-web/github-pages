@@ -39,6 +39,10 @@
             <a href="https://www.vipstarcoin.jp/blog/2018/08/03/android-wallet%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/" class="button button-bw" target="_blank">
               使い方&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
+          <?php else: ?>
+            <a href="https://www.vipstarcoin.jp/blog/2018/08/14/how-to-install-android-wallet/" class="button button-bw" target="_blank">
+              HOW TO USE&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>
           <?php endif; ?>
         </div>
       </div>
