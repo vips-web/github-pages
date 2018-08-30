@@ -15,17 +15,33 @@
         <div>
           <p class="team-image team-takuzo"></p>
           <p class="team-name">吉澤拓哉<br>（たくぞう）</p>
-          <p class="team-position"><span class="label">CMO</span></p>
+          <p class="team-position">
+            <span class="label">CMO</span>
+            <a href="https://twitter.com/tak_zou_vips" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
+        </div>
+        <div>
+          <p class="team-image team-orute"></p>
+          <p class="team-name">orute</p>
+          <p class="team-position">
+            <span class="label">CTO</span>
+            <a href="https://twitter.com/OruteV" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
         </div>
       </div>
       <div class="team-row">
         <div>
           <p class="team-image team-uruhu"></p>
           <p class="team-name">uruhu</p>
-        </div>
-        <div>
-          <p class="team-image team-orute"></p>
-          <p class="team-name">orute</p>
+          <p class="team-position">
+            <a href="https://twitter.com/uruhu_vips" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
         </div>
         <div>
           <p class="team-image team-m"></p>
@@ -51,17 +67,33 @@
         <div>
           <p class="team-image team-takuzo"></p>
           <p class="team-name">Takuya Yoshizawa<br>（takuzo）</p>
-          <p class="team-position"><span class="label">CMO</span></p>
+          <p class="team-position">
+            <span class="label">CMO</span>
+            <a href="https://twitter.com/tak_zou_vips" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
+        </div>
+        <div>
+          <p class="team-image team-orute"></p>
+          <p class="team-name">orute</p>
+          <p class="team-position">
+            <span class="label">CTO</span>
+            <a href="https://twitter.com/OruteV" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
         </div>
       </div>
       <div class="team-row">
         <div>
           <p class="team-image team-uruhu"></p>
           <p class="team-name">uruhu</p>
-        </div>
-        <div>
-          <p class="team-image team-orute"></p>
-          <p class="team-name">orute</p>
+          <p class="team-position">
+            <a href="https://twitter.com/uruhu_vips" target="_blank" class="label">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </p>
         </div>
         <div>
           <p class="team-image team-m"></p>
