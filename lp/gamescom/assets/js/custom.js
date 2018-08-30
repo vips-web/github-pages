@@ -42,7 +42,7 @@
 	/*  2. EVENT TIME COUNTER
 	/* ----------------------------------------------------------- */
 
-	$('#mu-event-counter').countdown('2018/08/21 10:00:00').on('update.countdown', function(event) {
+	$('#mu-event-counter').countdown(unixTime2ymd(1534834800)).on('update.countdown', function(event) {
 	  var $this = $(this).html(event.strftime(''
 	    + '<span class="mu-event-counter-block"><span>%D</span> Days</span> '
 	    + '<span class="mu-event-counter-block"><span>%H</span> Hours</span> '
@@ -50,6 +50,17 @@
 	    + '<span class="mu-event-counter-block"><span>%S</span> Secs</span>'));
 	});
 
+	function unixTime2ymd(intTime){
+		var d = new Date( intTime * 1000 );
+		var year  = d.getFullYear();
+		var month = d.getMonth() + 1;
+		var day  = d.getDate();
+		var hour = ( '0' + d.getHours() ).slice(-2);
+		var min  = ( '0' + d.getMinutes() ).slice(-2);
+		var sec   = ( '0' + d.getSeconds() ).slice(-2);
+	
+		return( year + '-' + month + '-' + day + ' ' + hour + ':' + min + ':' + sec );
+	}
 
     /* ----------------------------------------------------------- */
 	/*  3. MENU SMOOTH SCROLLING
