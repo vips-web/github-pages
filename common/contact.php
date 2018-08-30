@@ -43,6 +43,19 @@
       </div>
       <div class="social">
         <ul>
+          <li><a href="https://discord.gg/sEaaxau" target="_blank">
+            <i class="fab fa-discord fa-4x"></i></i>
+          </a></li>
+          <li><a href="https://twitter.com/<?php echo $twitter_account; ?>" target="_blank">
+            <i class="fab fa-twitter-square fa-4x"></i></i>
+          </a></li>
+          <li><a href="https://www.facebook.com/vipstarcoin/" target="_blank">
+            <i class="fab fa-facebook-square fa-4x"></i></i>
+          </a></li>
+          <li><a href="http://seesaawiki.jp/vips/" target="_blank">
+            <i class="fas fa-edit fa-4x"></i>
+          </a></li>
+          <br>
           <li><a href="https://t.me/vipstarcoin_officiai" target="_blank">
             <i class="fab fa-telegram fa-4x"></i></i>
           </a></li>
@@ -57,9 +70,6 @@
           </a></li>
           <li><a href="https://www.vipstarcoin.jp/blog/" target="_blank">
             <i class="fab fa-wordpress fa-4x"></i>
-          </a></li>
-          <li><a href="http://seesaawiki.jp/vips/" target="_blank">
-            <i class="fas fa-edit fa-4x"></i>
           </a></li>
         </ul>
       </div>
