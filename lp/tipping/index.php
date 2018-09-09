@@ -60,25 +60,25 @@
     [
       'image' => 'rockon7-1.jpg',
       'name' => 'Rockon7',
-      'twitter' => '',
+      'twitter' => 'rockon7wave',
       'vips' => 'VEANCfDkT5oepAyPwtrJnb55nRJXuCpNVF',
     ],
     [
       'image' => 'rockon7-2.jpg',
       'name' => 'Rockon7',
-      'twitter' => '',
+      'twitter' => 'rockon7wave',
       'vips' => 'VEANCfDkT5oepAyPwtrJnb55nRJXuCpNVF',
     ],
     [
       'image' => 'rockon7-3.jpg',
       'name' => 'Rockon7',
-      'twitter' => '',
+      'twitter' => 'rockon7wave',
       'vips' => 'VEANCfDkT5oepAyPwtrJnb55nRJXuCpNVF',
     ],
     [
       'image' => 'rockon7-4.png',
       'name' => 'Rockon7',
-      'twitter' => '',
+      'twitter' => 'rockon7wave',
       'vips' => 'VEANCfDkT5oepAyPwtrJnb55nRJXuCpNVF',
     ],
     [
