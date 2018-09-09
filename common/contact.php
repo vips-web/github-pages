@@ -13,16 +13,10 @@
       <hr>
     </div>
     <div class="col-md-8 col-md-offset-2">
-      <div class="col-md-6">
-        <a href="mailto:vipstarcoin&#64;gmail.com">
+      <div>
+        <a href="mailto:pr&#64;vipstarcoin.jp">
           <i class="far fa-envelope fa-5x"></i>
-          <p>vipstarcoin&#64;gmail.com</p>
-        </a>
-      </div>
-      <div class="col-md-6">
-        <a href="https://twitter.com/<?php echo $twitter_account; ?>" target="_blank">
-          <i class="fab fa-twitter fa-5x"></i>
-          <p>@<?php echo $twitter_account; ?></p>
+          <p>pr&#64;vipstarcoin.jp</p>
         </a>
       </div>
       <div class="clearfix"></div>
