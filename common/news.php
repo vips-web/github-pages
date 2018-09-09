@@ -1,4 +1,3 @@
-<!-- News Section -->
 <div id="news">
   <div class="container">
     <div class="section-title text-center center">

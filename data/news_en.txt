@@ -1,3 +1,13 @@
+VIPS payment introduced<br>Osaka Toriten honpo neyagawa,2018/09/07,other,other-settlement.png,https://twitter.com/toriten_0110
+Announcement of donation campaign for earthquake in Hokkaido,2018/09/06,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1037544968020094976
+TOPBTC<br>Listing decision,2018/09/05,other,other-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
+Announcement of donation campaign for 21st typhoon,2018/09/04,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1036955592827392000
+VIPSTARCOIN Insight released<br>(Token explorer),2018/09/02,develop,develop-insight.png,https://insight.vipstarco.in/
+VIPS Community German Branch,2018/08/31,other,other-german-community-en.png,javascript:;
+Campaign of Partnership with IAB,2018/08/30,event,event-iab-twitter-2.jpg,https://twitter.com/VIPSTARCOIN/status/1034935613173071872
+Welcome PoS campaign!,2018/08/21,event,event-pos.png,https://www.vipstarcoin.jp/blog/2018/08/21/welcome-pos-campaign/
+Release of Web wallet,2018/08/21,develop,develop-web-wallet.png,https://wallet.vipstarco.in/
+Release of Web wallet (Test version),2018/08/17,develop,develop-web-wallet.png,https://wallet.vipstarco.in/
 Commemoration of Partnership with IAB<br>Twitter campaign,2018/08/13,event,event-iab-twitter-en.jpg,https://twitter.com/VIPSTARCOIN/status/1028984867462078464
 VIPS joins the world's biggest games event!,2018/08/13,event,event-iab-en.png,https://www.vipstarcoin.jp/lp/gamescom/en/
 Crowdfunding<br>VIPSTARCOIN official goods,2018/08/11,other,other-crowd-funding-2.png,https://camp-fire.jp/projects/view/71974
@@ -41,6 +51,7 @@ Mid-term Action Plan announced,2018/06/10,other,other-action-plan.png,https://gi
 QRCode Generator released,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
 RegVIPS released,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
 Boon is commissioned to become a 5ch official volunteer,2018/05/22,other,other-cap.jpg,https://twitter.com/VIPSTARCOIN/status/998820163012055040
+PoS Bonus event,2018/05/07,event,event-pos.png,https://twitter.com/VIPSTARCOIN/status/993422698268127232
 Partnership<br>Nzigen Inc.,2018/05/04,other,other-nzigen.png,https://nzigen.com/
 International Airdrop Event started,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
 VIPS payment introduced<br>Ikebukuro Malaychan,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/

@@ -1,3 +1,13 @@
+VIPS決済導入<br>大阪 とり天本舗 寝屋川店,2018/09/07,other,other-settlement.png,https://twitter.com/toriten_0110
+北海道大地震被災者・被災地への寄付のお知らせ,2018/09/06,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1037544968020094976
+TOPBTC<br>上場決定,2018/09/05,other,other-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
+台風第21号被災者・被災地への寄付のお知らせ,2018/09/04,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1036955592827392000
+VIPSTARCOIN Insight公開<br>（トークン対応エクスプローラー）,2018/09/02,develop,develop-insight.png,https://insight.vipstarco.in/
+VIPSコミュニティドイツ支部設立,2018/08/31,other,other-german-community.png,javascript:;
+IAB提携記念キャンペーン,2018/08/30,event,event-iab-twitter-2.jpg,https://twitter.com/VIPSTARCOIN/status/1034935613173071872
+VIPS夏のPoS祭り！,2018/08/21,event,event-pos.png,https://www.vipstarcoin.jp/blog/2018/08/21/welcome-pos-campaign/
+WEBウォレット正式版リリース,2018/08/21,develop,develop-web-wallet.png,https://wallet.vipstarco.in/
+WEBウォレットテスト版リリース,2018/08/17,develop,develop-web-wallet.png,https://wallet.vipstarco.in/
 VIPS世界進出記念！<br>Twitter拡散キャンペーン！,2018/08/13,event,event-iab-twitter.png,https://twitter.com/VIPSTARCOIN/status/1028984867462078464
 VIPSが世界最大のゲームイベントに参戦！,2018/08/13,event,event-iab.png,https://www.vipstarcoin.jp/lp/gamescom/
 クラウドファンディング<br>VIPSTARCOIN公式グッズ販売,2018/08/11,other,other-crowd-funding-2.png,https://camp-fire.jp/projects/view/71974
@@ -41,6 +51,7 @@ VIPSトークン登録ボット&一覧ページ公開,2018/06/10,develop,develop
 QRCode Generator公開,2018/05/26,develop,develop-qr.png,https://fkfk.github.io/vips/qrcode/
 RegVIPS公開,2018/05/26,develop,develop-reg.jpg,https://twitter.com/VIPSTARCOIN/status/1000377968349229056
 ブーン5chキャップ就任&規制解除,2018/05/22,other,other-cap.jpg,https://twitter.com/VIPSTARCOIN/status/998820163012055040
+PoSボーナスイベント,2018/05/07,event,event-pos.png,https://twitter.com/VIPSTARCOIN/status/993418235109294080
 業務提携<br>エヌ次元株式会社,2018/05/04,other,other-nzigen.png,https://nzigen.com/
 海外Airdropイベント開始,2018/05/03,event,event-airdrop-overseas.png,https://twitter.com/VIPSTARCOIN/status/992051802890686464
 VIPS決済導入<br>池袋 マレーチャン,2018/04/30,other,other-settlement.png,http://www.malaychan-satu.jp/
