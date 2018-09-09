@@ -56,7 +56,7 @@
       <div class="section-title center">
         <h2>TEAM</h2>
         <hr>
-        <h3>VIPSTAR.Co</h3>
+        <h3>VIPSTAR Inc.</h3>
       </div>
       <div class="team-row" ontouchstart="">
         <div>
