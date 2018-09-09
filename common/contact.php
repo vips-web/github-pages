@@ -1,4 +1,3 @@
-<!-- Contact Section -->
 <?php
   if ($lang == 'ja' || $lang == 'vip') {
     $twitter_account = 'VIPSTARCOIN';

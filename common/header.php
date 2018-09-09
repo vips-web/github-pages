@@ -1,4 +1,3 @@
-<!-- Header -->
 <header id="header" class="header">
   <h1>
     <?php if ($lang == 'ja' || $lang == 'vip'): ?>

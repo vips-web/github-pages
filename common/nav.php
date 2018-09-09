@@ -1,4 +1,3 @@
-<!-- Navigation -->
 <div id="nav">
   <nav class="navbar navbar-custom">
     <div class="container">
