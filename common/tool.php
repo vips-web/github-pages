@@ -13,6 +13,9 @@
           <a class="button button-bw" href="#" data-toggle="modal" data-target="#miningModal">
             MINING TOOL&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </a><br>
+          <a href="https://insight.vipstarco.in/" class="button button-bw" target="_blank">
+            VIPSTARCOIN Insight&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+          </a><br>
           <a href="http://explorer.vipstarcoin.jp/" class="button button-bw" target="_blank">
             VIPSTARCOIN Explorer&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </a>
