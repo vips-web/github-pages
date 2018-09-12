@@ -1,6 +1,9 @@
+TOPBTC エアドロップイベント,2018/09/12,event,event-topbtc-airdrop.jpg,https://www.topbtc.one/home/art/index/id/444.html
+TOPBTC上場,2018/09/12,develop,develop-topbtc.jpg,https://topbtc.com/home/Market/index/market/USDT/coin/VIPS.html
+『What is this coin?』キャンペーン,2018/09/12,event,event-topbtc-what.jpg,https://twitter.com/VIPSTARCOIN/status/1039757713591476225
 VIPS決済導入<br>大阪 とり天本舗 寝屋川店,2018/09/07,other,other-settlement.png,https://twitter.com/toriten_0110
 北海道大地震被災者・被災地への寄付のお知らせ,2018/09/06,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1037544968020094976
-TOPBTC<br>上場決定,2018/09/05,other,other-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
+TOPBTC<br>上場決定,2018/09/05,develop,develop-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
 台風第21号被災者・被災地への寄付のお知らせ,2018/09/04,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1036955592827392000
 VIPSTARCOIN Insight公開<br>（トークン対応エクスプローラー）,2018/09/02,develop,develop-insight.png,https://insight.vipstarco.in/
 VIPSコミュニティドイツ支部設立,2018/08/31,other,other-german-community.png,javascript:;

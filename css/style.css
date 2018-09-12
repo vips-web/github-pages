@@ -608,7 +608,27 @@ hr {
 }
 #exchange .exchange-image img {
 	max-width: 100%;
+	margin-bottom: 40px;
+	padding: 10px 20px;
+	border-radius: 4px;
 }
+#exchange .exchange-topbtc img {
+	width: 251px;
+	background-color: #2b2b2b;
+}
+#exchange .exchange-coinexchange img {
+	width: 448px;
+	background-color: #f8f8f8;
+}
+#exchange .exchange-cryptobridge img {
+	width: 250px;
+	background-color: #111;
+}
+#exchange .exchange-coinexmarket img {
+	width: 250px;
+	background-color: #fff;
+}
+
 /* News Section */
 #news {
 	padding: 80px 0;
