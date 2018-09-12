@@ -34,7 +34,7 @@
       </div>
       <div class="large-cell">
         <div class="cell">
-          <a href="<?php echo URL; ?>/download/corporate_registry.pdf" target="_blank">
+          <a href="https://goo.gl/maps/NDpzQrTkkMs" target="_blank">
             <img src="<?php echo URL; ?>/img/header/06.png" alt="Office" class="cell-image">
           </a>
         </div>
