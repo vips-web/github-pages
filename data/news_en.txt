@@ -1,6 +1,9 @@
+TOPBTC Airdrop,2018/09/12,event,event-topbtc-airdrop.jpg,https://www.topbtc.one/home/art/index/id/444.html
+TOPBTC Listing,2018/09/12,develop,develop-topbtc.jpg,https://topbtc.com/home/Market/index/market/USDT/coin/VIPS.html
+'What is this coin?'<br>Campaign,2018/09/12,event,event-topbtc-what.jpg,https://twitter.com/VIPSTARCOIN/status/1039757713591476225
 VIPS payment introduced<br>Osaka Toriten honpo neyagawa,2018/09/07,other,other-settlement.png,https://twitter.com/toriten_0110
 Announcement of donation campaign for earthquake in Hokkaido,2018/09/06,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1037544968020094976
-TOPBTC<br>Listing decision,2018/09/05,other,other-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
+TOPBTC<br>Listing decision,2018/09/05,develop,develop-topbtc-voting.jpg,https://topbtc.com/home/art/index/id/437.html
 Announcement of donation campaign for 21st typhoon,2018/09/04,other,other-donation.png,https://twitter.com/VIPSTARCOIN/status/1036955592827392000
 VIPSTARCOIN Insight released<br>(Token explorer),2018/09/02,develop,develop-insight.png,https://insight.vipstarco.in/
 VIPS Community German Branch,2018/08/31,other,other-german-community-en.png,javascript:;
