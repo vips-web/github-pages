@@ -1,3 +1,5 @@
+FOne Japan Community Trading Zone<br>Listing decision,2018/09/15,develop,develop-topbtc-fone.png,https://www.fcoin.com/fone
+Announcement of MAG2018 VIPSTARCOIN Esports Area<br>(Supported by CAPCOM and Nintendo),2018/09/14,event,event-mag2018.png,https://mag-con.de/2018/09/14/vipstarcoin-esports-area-mit-tollen-turnieren/
 TOPBTC Airdrop,2018/09/12,event,event-topbtc-airdrop.jpg,https://www.topbtc.one/home/art/index/id/444.html
 TOPBTC Listing,2018/09/12,develop,develop-topbtc.jpg,https://topbtc.com/home/Market/index/market/USDT/coin/VIPS.html
 'What is this coin?'<br>Campaign,2018/09/12,event,event-topbtc-what.jpg,https://twitter.com/VIPSTARCOIN/status/1039757713591476225
