@@ -462,6 +462,9 @@ hr {
 .timeline .timeline-panel {
 	display: none;
 }
+.bl_history-button {
+	margin-top: 50px;
+}
 /* Holding Section */
 #holding {
 	padding: 100px 0;

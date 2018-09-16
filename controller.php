@@ -28,4 +28,9 @@
   $discord_members_json = file_get_contents(__DIR__ . $discord_members_data);
   $discord_members_array = json_decode($discord_members_json, true);
   $discord_members_count = $discord_members_array['count'];
+
+  $twitter_user_data = '/data/twitter-user-VIPSTARCOIN.json';
+  $twitter_user_json = file_get_contents(__DIR__ . $twitter_user_data);
+  $twitter_user_array = json_decode($twitter_user_json, true);
+  $twitter_followers_count = $twitter_user_array['followers_count'];
 ?>
