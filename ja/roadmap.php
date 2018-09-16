@@ -116,5 +116,11 @@
         </ul>
       </div>
     </div>
+
+    <p class="bl_history-button text-center">
+      <a class="button button-bw" href="<?php echo URL; ?>/history/">
+        VIPSTARCOINの歩み&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+      </a>
+    </p>
   </div>
 </div>
