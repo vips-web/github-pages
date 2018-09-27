@@ -31,7 +31,7 @@
 
 <!-- Stylesheet -->
 <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>/css/lightbox.min.css">
-<link rel="stylesheet" type="text/css"  href="<?php echo URL; ?>/css/style.css?v=20180913">
+<link rel="stylesheet" type="text/css"  href="<?php echo URL; ?>/css/style.css?v=20180916">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
