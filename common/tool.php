@@ -57,7 +57,7 @@
             <h4 class="modal-title" id="miningModalLabel">MINING TOOL</h4>
           </div>
           <div class="modal-body">
-            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelperWin-1.0.2.zip" class="button button-bw" target="_blank">
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelperWin-1.0.3.zip" class="button button-bw" target="_blank">
               Mining Helper (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a><br>
             <a href="https://github.com/vips-web/github-pages/raw/master/download/MiningHelperMac-1.0.2.dmg" class="button button-bw" target="_blank">
