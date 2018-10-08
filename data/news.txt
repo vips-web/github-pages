@@ -1,3 +1,9 @@
+TOKYO MX『爆走ロケハンター』<br>番組協力,2018/10/03,other,other-baku-roke.png,https://prtimes.jp/main/html/rd/p/000000001.000038032.html
+VIPSTARCOINウォレット バージョン1.0.1 リリース,2018/09/28,develop,develop-vips-core-1.0.1.png,https://www.vipstarcoin.jp/#wallet
+SWFT Blockchain<br>上場,2018/09/28,develop,develop-swft-blockchain.png,https://medium.com/@SwftCoin/vipstar-coin-is-live-in-swft-blockchain-9e57b6bc5c70
+『What is this coin?』キャンペーン 第2弾,2018/09/19,event,event-topbtc-what-2.jpg,https://twitter.com/VIPSTARCOIN/status/1042290960116342785
+ゲーム初公開決定<br>東京ゲームショウ2018,2018/09/17,event,event-tgs-2018.jpg,https://twitter.com/VIPSTARCOIN/status/1041678673219186688
+オリジナル惑星・オリジナルもやし名称募集企画 結果発表,2018/09/17,event,event-game-name-idea-result.png,https://www.vipstarcoin.jp/img/news/event-game-name-idea-result.png
 FOne Japan Community Trading Zone<br>上場決定,2018/09/15,develop,develop-topbtc-fone.png,https://www.fcoin.com/fone
 MAG2018 VIPSTARCOIN Esports Area発表,2018/09/14,event,event-mag2018-2.png,https://mag-con.de/2018/09/14/vipstarcoin-esports-area-mit-tollen-turnieren/
 TOPBTC エアドロップイベント,2018/09/12,event,event-topbtc-airdrop.jpg,https://www.topbtc.one/home/art/index/id/444.html
