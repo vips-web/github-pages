@@ -613,22 +613,27 @@ hr {
 	margin-bottom: 40px;
 	padding: 10px 20px;
 	border-radius: 4px;
+	box-sizing: border-box;
 }
 #exchange .exchange-topbtc img {
-	width: 251px;
+	width: 211px;
 	background-color: #2b2b2b;
 }
 #exchange .exchange-coinexchange img {
-	width: 448px;
+	width: 408px;
 	background-color: #f8f8f8;
 }
 #exchange .exchange-cryptobridge img {
-	width: 250px;
+	width: 210px;
 	background-color: #111;
 }
 #exchange .exchange-coinexmarket img {
-	width: 250px;
+	width: 210px;
 	background-color: #fff;
+}
+#exchange .exchange-swft-blockchain img {
+	width: 210px;
+	background-color: #0095ff;
 }
 
 /* News Section */
