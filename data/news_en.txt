@@ -1,3 +1,9 @@
+Cooperation for TV program<br>TOKYO MX '爆走ロケハンター',2018/10/03,other,other-baku-roke.png,https://prtimes.jp/main/html/rd/p/000000001.000038032.html
+Release of VIPSTARCOIN Wallet version 1.0.1,2018/09/28,develop,develop-vips-core-1.0.1.png,https://www.vipstarcoin.jp/en/#wallet
+SWFT Blockchain<br>Listing,2018/09/28,develop,develop-swft-blockchain.png,https://medium.com/@SwftCoin/vipstar-coin-is-live-in-swft-blockchain-9e57b6bc5c70
+'What is this coin?'<br>Campaign part2,2018/09/19,event,event-topbtc-what-2.jpg,https://twitter.com/VIPSTARCOIN/status/1042290960116342785
+Official game first public appearance<br>TOKYO GAME SHOW 2018,2018/09/17,event,event-tgs-2018.jpg,https://twitter.com/VIPSTARCOIN/status/1041678673219186688
+Result of original planets / bean sprout name contest,2018/09/17,event,event-game-name-idea-result.png,https://www.vipstarcoin.jp/img/news/event-game-name-idea-result.png
 FOne Japan Community Trading Zone<br>Listing decision,2018/09/15,develop,develop-topbtc-fone.png,https://www.fcoin.com/fone
 Announcement of MAG2018 VIPSTARCOIN Esports Area,2018/09/14,event,event-mag2018-2.png,https://mag-con.de/2018/09/14/vipstarcoin-esports-area-mit-tollen-turnieren/
 TOPBTC Airdrop,2018/09/12,event,event-topbtc-airdrop.jpg,https://www.topbtc.one/home/art/index/id/444.html
