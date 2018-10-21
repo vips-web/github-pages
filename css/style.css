@@ -635,6 +635,14 @@ hr {
 	width: 210px;
 	background-color: #0095ff;
 }
+#exchange .exchange-cryptaldash img {
+	width: 255px;
+	background-color: #0a4b98;
+}
+#exchange .exchange-nusa-exchange img {
+	width: 300px;
+	background-color: #1e3047;
+}
 
 /* News Section */
 #news {
