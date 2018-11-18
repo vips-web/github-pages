@@ -8,7 +8,6 @@ body, html {
 }
 h1 {
 	margin: 0;
-  display: none;
 }
 h2 {
 	margin: 0;
@@ -177,36 +176,6 @@ hr {
 }
 .header.affix-affected {
 	margin-bottom: 52px;
-}
-.header-images {
-	display: block;
-	width: 100%;
-	letter-spacing: -.4em;
-	overflow-x: hidden;
-}
-.header-images img {
-	width: 100%;
-	border-style: none;
-}
-.header-images .column {
-	display: inline-block;
-	vertical-align: top;
-}
-.header-images .single {
-	width: 25%;
-}
-.header-images .double {
-	width: 50%;
-}
-.header-images .column .cell {
-	display: inline-block;
-}
-.header-images .double .large-cell {
-	width: 100%;
-}
-.header-images .double .cell {
-	width: 100%;
-	width: 50%;
 }
 .intro {
 	display: table;
@@ -1207,12 +1176,6 @@ header .intro-text {
 
 /* For Smartphone */
 @media(max-width:425px) {
-h1 {
-  display: inline;
-}
-.header-images {
-  display: none;
-}
 .hover-bg .hover-text>h4 {
 	opacity: 1;
 	-webkit-backface-visibility: hidden;

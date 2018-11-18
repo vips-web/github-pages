@@ -1,3 +1,10 @@
+グッズ販売イベント,2018/11/15,event,event-goods-sale.jpg,https://twitter.com/VIPSTARCOIN/status/1063087000457113600
+イベント参加<br>Crypto Future Base Shibuya,2018/11/12,event,event-cfbs.jpg,https://www.c2pt.info/
+NEKOCOIN<br>VIPSTARCOINトークンへスワップ決定,2018/11/06,other,other-nekocoin.png,https://www.vipstarcoin.jp/blog/2018/11/06/vipsneko/
+PC用ウォレット<br>アップデートのお願い,2018/11/05,develop,develop-wallet-update-v1.0.1.0.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
+株式会社 VIPSTAR<br>新体制に関するお知らせ,2018/10/30,other,other-shintaisei.png,https://github.com/vips-web/github-pages/raw/master/download/shintaisei.pdf
+提携<br>AIRCOINS,2018/10/30,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1057076761362481152
+代表にまつわる<br>騒動について,2018/10/29,other,other-syazaibun.png,https://github.com/vips-web/github-pages/raw/master/download/syazaibun.pdf
 Nusa Exchange<br>上場,2018/10/19,develop,develop-nusa.jpg,https://nusax.co.id/
 MAG2018ご報告,2018/10/19,event,event-mag2018-blog.jpg,https://www.vipstarcoin.jp/blog/2018/10/19/mag2018/
 WORLD BLOCKCHAIN FESTIVAL2018 出店,2018/10/13,event,event-wbf2018.jpg,https://wbf2018.jp/
