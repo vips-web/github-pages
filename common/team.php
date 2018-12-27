@@ -5,7 +5,7 @@
         <h2>TEAM</h2>
         <hr>
       </div>
-      <h3 class="team-community">コミュニティ運営</h3>
+      <h3 class="team-community">コミュニティ管理人</h3>
       <div class="team-row">
         <div>
           <p class="team-image team-bruin"></p>
@@ -59,7 +59,7 @@
         <h2>TEAM</h2>
         <hr>
       </div>
-      <h3 class="team-community">Community Administrator</h3>
+      <h3 class="team-community">Community Admin</h3>
       <div class="team-row">
         <div>
           <p class="team-image team-bruin"></p>
