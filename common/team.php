@@ -4,19 +4,40 @@
       <div class="section-title center">
         <h2>TEAM</h2>
         <hr>
-        <h3>株式会社VIPSTAR</h3>
       </div>
-      <div class="team-row" ontouchstart="">
+      <h3 class="team-community">コミュニティ運営</h3>
+      <div class="team-row">
         <div>
-          <p class="team-image team-boon"></p>
-          <p class="team-name">ブーン<br>（VIP☆STAR）</p>
-          <p class="team-position"><span class="label">CEO</span></p>
+          <p class="team-image team-bruin"></p>
+          <p class="team-name">Bruin-kun</p>
         </div>
         <div>
+          <p class="team-image team-uruhu"></p>
+          <p class="team-name">uruhu</p>
+        </div>
+      </div>
+      <div class="team-row">
+        <div>
+          <p class="team-image team-ner"></p>
+          <p class="team-name">NeR</p>
+        </div>
+        <div>
+          <p class="team-image team-rockon7"></p>
+          <p class="team-name">rockon7</p>
+        </div>
+        <div>
+          <p class="team-image team-samuraimiyabi"></p>
+          <p class="team-name">samuraimiyabi</p>
+        </div>
+      </div>
+      
+      <h3 class="team-corporation">株式会社VIPSTAR</h3>
+      <div class="team-row" ontouchstart="">
+        <div>
           <p class="team-image team-takuzo"></p>
-          <p class="team-name">吉澤拓哉<br>（たくぞう）</p>
+          <p class="team-name">たくぞう<br>（吉澤拓哉）</p>
           <p class="team-position">
-            <span class="label">CMO</span>
+            <span class="label">CEO</span>
             <a href="https://twitter.com/tak_zou_vips" target="_blank" class="label">
               <i class="fab fa-twitter"></i>
             </a>
@@ -31,44 +52,46 @@
               <i class="fab fa-twitter"></i>
             </a>
           </p>
-        </div>
-      </div>
-      <div class="team-row">
-        <div>
-          <p class="team-image team-uruhu"></p>
-          <p class="team-name">uruhu</p>
-          <p class="team-position">
-            <a href="https://twitter.com/uruhu_vips" target="_blank" class="label">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </p>
-        </div>
-        <div>
-          <p class="team-image team-m"></p>
-          <p class="team-name">寺生まれの<br>Mさん</p>
-        </div>
-        <div>
-          <p class="team-image team-bruin"></p>
-          <p class="team-name">Bruin-kun</p>
         </div>
       </div>
     <?php else: ?>
       <div class="section-title center">
         <h2>TEAM</h2>
         <hr>
-        <h3>VIPSTAR Inc.</h3>
       </div>
-      <div class="team-row" ontouchstart="">
+      <h3 class="team-community">Community Administrator</h3>
+      <div class="team-row">
         <div>
-          <p class="team-image team-boon"></p>
-          <p class="team-name">Boon<br>（VIP☆STAR）</p>
-          <p class="team-position"><span class="label">CEO</span></p>
+          <p class="team-image team-bruin"></p>
+          <p class="team-name">Bruin-kun</p>
         </div>
         <div>
+          <p class="team-image team-uruhu"></p>
+          <p class="team-name">uruhu</p>
+        </div>
+      </div>
+      <div class="team-row">
+        <div>
+          <p class="team-image team-ner"></p>
+          <p class="team-name">NeR</p>
+        </div>
+        <div>
+          <p class="team-image team-rockon7"></p>
+          <p class="team-name">rockon7</p>
+        </div>
+        <div>
+          <p class="team-image team-samuraimiyabi"></p>
+          <p class="team-name">samuraimiyabi</p>
+        </div>
+      </div>
+      
+      <h3 class="team-corporation">VIPSTAR Inc.</h3>
+      <div class="team-row" ontouchstart="">
+        <div>
           <p class="team-image team-takuzo"></p>
-          <p class="team-name">Takuya Yoshizawa<br>（takuzo）</p>
+          <p class="team-name">takuzo<br>(Takuya Yoshizawa)</p>
           <p class="team-position">
-            <span class="label">CMO</span>
+            <span class="label">CEO</span>
             <a href="https://twitter.com/tak_zou_vips" target="_blank" class="label">
               <i class="fab fa-twitter"></i>
             </a>
@@ -83,25 +106,6 @@
               <i class="fab fa-twitter"></i>
             </a>
           </p>
-        </div>
-      </div>
-      <div class="team-row">
-        <div>
-          <p class="team-image team-uruhu"></p>
-          <p class="team-name">uruhu</p>
-          <p class="team-position">
-            <a href="https://twitter.com/uruhu_vips" target="_blank" class="label">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </p>
-        </div>
-        <div>
-          <p class="team-image team-m"></p>
-          <p class="team-name">M</p>
-        </div>
-        <div>
-          <p class="team-image team-bruin"></p>
-          <p class="team-name">Bruin-kun</p>
         </div>
       </div>
     <?php endif; ?>
