@@ -86,25 +86,23 @@
               <div class="text-center">
                 <img src="<?php echo URL; ?>/img/donation/20180707/image.png" alt="西日本豪雨への寄付のお知らせ・お願い" class="donation-image">
               </div>
-              今回の大雨災害の被災者の方々にお悔やみとお見舞いを申し上げます。<br>
-              また、VIPSTARは少しでも被災者の力になれるよう、寄付を募ることにいたしました。<br>
-              VIPSの目指すところは、勿論VIPSを用いて今回のような災害へ即座に支援できる環境の設置ではありますので、運営一同インフラの構築にも全力を尽くしていく次第です。<br>
+              西日本豪雨の寄付に関しましては2018年12月4日をもって締め切らせて頂きました。<br>
+              たくさんのご支援ありがとうございました。<br>
+              お寄せ頂きましたご支援のETH換算分を、責任を持って寄付いたします。<br>
               <br>
-              今回の西日本豪雨では大阪震災同様、ホルダーの皆様から寄付して頂いたVIPSの日本円換算分を一度運営で建て替え、寄付致します。<br>
+              VIPSでの寄付総額：10,679,157.59855170<br>
+              7月25日22時以前：10,576,084.89008400 ※BINANCEへ 3.165 ETH 送金済<br>
+              7月25日22時以降：103,072.70846770<br>
+              寄付募集開始時のVIPSの価格：6sat　合計 0.00618436 BTC　<br>
               <br>
-              寄付受付専用のウォレットアドレスは以下となります。<br>
-              此方のアドレスに寄付をして頂いた分は定期的に全て報告し、必要に迫られるまで実質のロックアップとさせて頂きます。<br>
+              寄付募集開始時のレート換算額（2018/07/07）：4,157円　0.335 ETH<br>
+              7月7日のBTC最高値：686,399円 最安値：657,924円 中間：672,161.5円（JPY/BTC）<br>
+              <a href="https://coinmarketcap.com/ja/currencies/bitcoin/historical-data/" target="_blank" style="color: #ffc000;">※coinmarketcap参照</a><br>
               <br>
-              皆様の温もりあふれるご支援を、よろしくお願いいたします。<br>
+              <a href="https://support.binance.com/hc/en-us/articles/360007069891-West-Japan-Disaster-Relief-Donation" target="_blank" style="color: #ffc000;">寄付先はこちら</a><br>
               <br>
-              <div class="input-group">
-                <input type="text" id="address" class="form-control" value="VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT" aria-label="Recipient's username" aria-describedby="basic-addon2" readonly="">
-                <div class="input-group-append">
-                  <button id="copy" class="btn btn-outline-secondary" type="button">コピー</button>
-                </div>
-              </div><br>
-              <p><a href="vipstarcoin:VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT?amount=100" class="btn btn-lg btn-block btn-warning">ウォレット起動</a></p>
-              <p class="donation-notice text-center">※送金額は100VIPSが指定されています。ウォレット上で任意に変更が可能です。</p>
+              たくさんのご支援ありがとうございました。<br>
+              <br>
               <p class="text-center">
                 <a href="http://explorer.vipstarcoin.jp/address/VJhhZhocLxjA6iA6BmY1dpstuGnNjVivvT" target="_blank" class="donation-link">寄付状況確認</a>
               </p>
