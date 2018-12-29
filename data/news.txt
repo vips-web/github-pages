@@ -1,9 +1,23 @@
+冬コミ新作グッズ販売のお知らせ,2018/12/27,event,event-c95-goods.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
+CoAket × VIPSTARCOIN<br>コラボキャンペーン,2018/12/26,event,event-coaket-campaign-20181226.jpg,https://twitter.com/VIPSTARCOIN/status/1077930894613143552
+CoAketイラストコンペ<br>VIPSが賞金に採用,2018/12/24,event,event-coaket-illust-compe.png,https://twitter.com/VIPSTARCOIN/status/1077206600270532609
+VIPS × Aircoins × 秋葉原<br>投下キャンペーン,2018/12/23,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1076789176714981376
+12/22<br>オフィスムーンビル<br>グッズ販売のお知らせ,2018/12/20,event,event-goods-sale-20181122.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
+コミュニティ運営からのお知らせ,2018/12/16,other,other-notice-181216.png,https://github.com/vips-web/github-pages/raw/master/download/181216_Notice.pdf
+㈱VIPSTAR<br>大忘年会のお知らせ,2018/12/14,event,event-year-end-party.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
+㈱VIPSTAR<br>パートナーシップ締結<br>株式会社プラチナエッグ,2018/12/13,other,other-platinum-egg.png,https://www.platinum-egg.com/
+VIPS SUPPORTERS<br>Nightmakerさん新刊発表,2018/12/07,other,other-nightmaker-new-book.jpg,https://twitter.com/VIPSTARCOIN/status/1070971613657497605
+VIPSTARCOIN<br>コミケ参戦が決定,2018/12/02,event,event-c95.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
+バーンアドレス結果発表<br>&<br>バーン完了のお知らせ,2018/11/26,other,other-burn-complete.png,http://explorer.vipstarcoin.jp/address/VBoonburnwwwwwwwwwwwwwwwwwwwsL3j5g
+VIPSトークン初上場決定,2018/11/24,other,other-vavt-listing-decision.png,https://vavt.jp/
+VIPS<br>バーンアドレス投票,2018/11/22,event,event-burn-vote.png,https://goo.gl/forms/6Ld8x1fv1bOVxUw92
+モバイルウォレット翻訳作業についてのお願い,2018/11/22,develop,develop-crowdin.png,https://crowdin.com/project/vips-wallet
 グッズ販売イベント,2018/11/15,event,event-goods-sale.jpg,https://twitter.com/VIPSTARCOIN/status/1063087000457113600
 イベント参加<br>Crypto Future Base Shibuya,2018/11/12,event,event-cfbs.jpg,https://www.c2pt.info/
 NEKOCOIN<br>VIPSTARCOINトークンへスワップ決定,2018/11/06,other,other-nekocoin.png,https://www.vipstarcoin.jp/blog/2018/11/06/vipsneko/
 PC用ウォレット<br>アップデートのお願い,2018/11/05,develop,develop-wallet-update-v1.0.1.0.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
 株式会社 VIPSTAR<br>新体制に関するお知らせ,2018/10/30,other,other-shintaisei.png,https://github.com/vips-web/github-pages/raw/master/download/shintaisei.pdf
-提携<br>AIRCOINS,2018/10/30,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1057076761362481152
+提携<br>Aircoins,2018/10/30,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1057076761362481152
 代表にまつわる<br>騒動について,2018/10/29,other,other-syazaibun.png,https://github.com/vips-web/github-pages/raw/master/download/syazaibun.pdf
 Nusa Exchange<br>上場,2018/10/19,develop,develop-nusa.jpg,https://nusax.co.id/
 MAG2018ご報告,2018/10/19,event,event-mag2018-blog.jpg,https://www.vipstarcoin.jp/blog/2018/10/19/mag2018/
