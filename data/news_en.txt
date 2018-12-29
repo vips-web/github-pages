@@ -1,9 +1,23 @@
+Comiket goods introduction,2018/12/27,event,event-c95-goods.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
+CoAket × VIPSTARCOIN<br>Collaboration campaign,2018/12/26,event,event-coaket-campaign-20181226.jpg,https://twitter.com/VIPSTARCOIN/status/1077930894613143552
+VIPSTARCOIN becomes the prize for illustration competition at CoAket,2018/12/24,event,event-coaket-illust-compe.png,https://twitter.com/VIPSTARCOIN/status/1077211852256362496
+VIPS × Aircoins × Akihabara<br>Airdrop campaign,2018/12/23,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1076789176714981376
+12/22<br>Goods sale in office,2018/12/20,event,event-goods-sale-20181122.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
+Notification from Community Admin,2018/12/16,other,other-notice-181216.png,https://github.com/vips-web/github-pages/raw/master/download/181216_Notice.pdf
+VIPSTAR Inc.<br>Year end party,2018/12/14,event,event-year-end-party.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
+VIPSTAR Inc.<br>Partnership with Platinum Egg Inc.,2018/12/13,other,other-platinum-egg.png,https://www.platinum-egg.com/
+VIPS SUPPORTERS<br>New book of Nightmaker,2018/12/07,other,other-nightmaker-new-book.jpg,https://twitter.com/VIPSTARCOIN/status/1070971613657497605
+VIPSTARCOIN<br>Join the Comiket,2018/12/02,event,event-c95.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
+Notification of burn completion,2018/11/26,other,other-burn-complete.png,http://explorer.vipstarcoin.jp/address/VBoonburnwwwwwwwwwwwwwwwwwwwsL3j5g
+First VIPS token listing is decided,2018/11/24,other,other-vavt-listing-decision.png,https://vavt.jp/
+VIPS<br>Vote of burn address,2018/11/22,event,event-burn-vote.png,https://goo.gl/forms/6Ld8x1fv1bOVxUw92
+Request for mobile wallet translation,2018/11/22,develop,develop-crowdin.png,https://crowdin.com/project/vips-wallet
 Event<br>Goods sale,2018/11/15,event,event-goods-sale.jpg,https://twitter.com/VIPSTARCOIN/status/1063087000457113600
 Join the event<br>Crypto Future Base Shibuya,2018/11/12,event,event-cfbs.jpg,https://www.c2pt.info/
 NEKOCOIN will swap Ethereum token for VIPSTARCOIN token,2018/11/06,other,other-nekocoin.png,https://www.vipstarcoin.jp/blog/2018/11/06/vipsneko/
 Please update PC wallet to v1.0.1.0,2018/11/05,develop,develop-wallet-update-v1.0.1.0.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
 Notice on new structure of VIPSTAR Inc.,2018/10/30,other,other-shintaisei.png,https://github.com/vips-web/github-pages/raw/master/download/shintaisei.pdf
-Partnership<br>AIRCOINS,2018/10/30,other,other-aircoins.png,https://twitter.com/AIRCOINS_App/status/1056980263618691074
+Partnership<br>Aircoins,2018/10/30,other,other-aircoins.png,https://twitter.com/AIRCOINS_App/status/1056980263618691074
 About the representative disturbance,2018/10/29,other,other-syazaibun.png,https://github.com/vips-web/github-pages/raw/master/download/syazaibun.pdf
 Nusa Exchange<br>Listing,2018/10/19,develop,develop-nusa.jpg,https://nusax.co.id/
 Report of MAG2018,2018/10/19,event,event-mag2018-blog.jpg,https://www.vipstarcoin.jp/blog/2018/10/19/mag2018/

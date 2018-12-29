@@ -2,7 +2,7 @@
   if ($lang == 'ja' || $lang == 'vip') {
     $twitter_account = 'VIPSTARCOIN';
   } else {
-    $twitter_account = 'VIPSTARCOIN_';
+    $twitter_account = 'VIPSTARCOIN';
   }
 ?>
 <div id="contact" class="text-center">
