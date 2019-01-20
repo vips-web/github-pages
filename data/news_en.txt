@@ -1,11 +1,15 @@
+VIPS × Derby<br>Platinum Star Cup,2018/01/20,event,event-vips-derby.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
+Quest Board System<br>Start,2018/01/20,develop,develop-qb.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
+VIPSTAR Inc.<br>Media Partnership with NEXTMONEY,2018/01/20,other,other-nextmoney.jpg,http://nextmoney.jp/?p=14029
+VIPS come on! Campaign,2018/01/05,event,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1081427022679658497
 Comiket goods introduction,2018/12/27,event,event-c95-goods.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
 CoAket × VIPSTARCOIN<br>Collaboration campaign,2018/12/26,event,event-coaket-campaign-20181226.jpg,https://twitter.com/VIPSTARCOIN/status/1077930894613143552
 VIPSTARCOIN becomes the prize for illustration competition at CoAket,2018/12/24,event,event-coaket-illust-compe.png,https://twitter.com/VIPSTARCOIN/status/1077211852256362496
-VIPS × Aircoins × Akihabara<br>Airdrop campaign,2018/12/23,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1076789176714981376
+VIPS × Aircoins × Akihabara<br>Airdrop campaign,2018/12/23,event,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1076789176714981376
 12/22<br>Goods sale in office,2018/12/20,event,event-goods-sale-20181122.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
 Notification from Community Admin,2018/12/16,other,other-notice-181216.png,https://github.com/vips-web/github-pages/raw/master/download/181216_Notice.pdf
 VIPSTAR Inc.<br>Year end party,2018/12/14,event,event-year-end-party.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01degnzzzfcf.html
-VIPSTAR Inc.<br>Partnership with Platinum Egg Inc.,2018/12/13,other,other-platinum-egg.png,https://www.platinum-egg.com/
+VIPSTAR Inc.<br>Partnership with Platinum Egg Inc.,2018/12/13,other,other-platinum-egg.jpg,https://www.platinum-egg.com/
 VIPS SUPPORTERS<br>New book of Nightmaker,2018/12/07,other,other-nightmaker-new-book.jpg,https://twitter.com/VIPSTARCOIN/status/1070971613657497605
 VIPSTARCOIN<br>Join the Comiket,2018/12/02,event,event-c95.jpg,https://twitter.com/VIPSTARCOIN/status/1069160855718158338
 Notification of burn completion,2018/11/26,other,other-burn-complete.png,http://explorer.vipstarcoin.jp/address/VBoonburnwwwwwwwwwwwwwwwwwwwsL3j5g
