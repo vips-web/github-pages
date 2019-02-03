@@ -1,3 +1,6 @@
+Crypto Derby<br>Release campaign,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
+Release of VIPSTARCOIN Wallet version 1.0.2,2019/01/26,develop,develop-wallet-update.png,https://twitter.com/VIPSTARCOIN/status/1089178886175305728
+VIPSTAR Girls<br>LINE sticker released,2019/01/21,other,other-line-stamp.jpg,https://store.line.me/stickershop/product/6361850
 VIPS × Derby<br>Platinum Star Cup,2018/01/20,event,event-vips-derby.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
 Quest Board System<br>Start,2018/01/20,develop,develop-qb.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
 VIPSTAR Inc.<br>Media Partnership with NEXTMONEY,2018/01/20,other,other-nextmoney.jpg,http://nextmoney.jp/?p=14029
@@ -19,7 +22,7 @@ Request for mobile wallet translation,2018/11/22,develop,develop-crowdin.png,htt
 Event<br>Goods sale,2018/11/15,event,event-goods-sale.jpg,https://twitter.com/VIPSTARCOIN/status/1063087000457113600
 Join the event<br>Crypto Future Base Shibuya,2018/11/12,event,event-cfbs.jpg,https://www.c2pt.info/
 NEKOCOIN will swap Ethereum token for VIPSTARCOIN token,2018/11/06,other,other-nekocoin.png,https://www.vipstarcoin.jp/blog/2018/11/06/vipsneko/
-Please update PC wallet to v1.0.1.0,2018/11/05,develop,develop-wallet-update-v1.0.1.0.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
+Please update PC wallet to v1.0.1.0,2018/11/05,develop,develop-wallet-update.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
 Notice on new structure of VIPSTAR Inc.,2018/10/30,other,other-shintaisei.png,https://github.com/vips-web/github-pages/raw/master/download/shintaisei.pdf
 Partnership<br>Aircoins,2018/10/30,other,other-aircoins.png,https://twitter.com/AIRCOINS_App/status/1056980263618691074
 About the representative disturbance,2018/10/29,other,other-syazaibun.png,https://github.com/vips-web/github-pages/raw/master/download/syazaibun.pdf

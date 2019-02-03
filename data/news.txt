@@ -1,3 +1,6 @@
+Crypto Derby<br>正式版引き継ぎキャンペーン,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
+VIPSTARCOINウォレット バージョン1.0.2 リリース,2019/01/26,develop,develop-wallet-update.png,https://twitter.com/VIPSTARCOIN/status/1089178886175305728
+VIPSTAR Girls<br>LINEスタンプ販売開始,2019/01/21,other,other-line-stamp.jpg,https://store.line.me/stickershop/product/6361850
 VIPS×ダービー<br>プラチナスター杯,2018/01/20,event,event-vips-derby.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
 クエスト・ボードシステム開始,2018/01/20,develop,develop-qb.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
 ㈱VIPSTAR<br>メディアパートナーシップ<br>NEXTMONEY,2018/01/20,other,other-nextmoney.jpg,http://nextmoney.jp/?p=14029
@@ -19,7 +22,7 @@ VIPS<br>バーンアドレス投票,2018/11/22,event,event-burn-vote.png,https:/
 グッズ販売イベント,2018/11/15,event,event-goods-sale.jpg,https://twitter.com/VIPSTARCOIN/status/1063087000457113600
 イベント参加<br>Crypto Future Base Shibuya,2018/11/12,event,event-cfbs.jpg,https://www.c2pt.info/
 NEKOCOIN<br>VIPSTARCOINトークンへスワップ決定,2018/11/06,other,other-nekocoin.png,https://www.vipstarcoin.jp/blog/2018/11/06/vipsneko/
-PC用ウォレット<br>アップデートのお願い,2018/11/05,develop,develop-wallet-update-v1.0.1.0.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
+PC用ウォレット<br>アップデートのお願い,2018/11/05,develop,develop-wallet-update.png,https://github.com/vips-web/github-pages/raw/master/download/wallet_update_v1.0.1.0.pdf
 株式会社 VIPSTAR<br>新体制に関するお知らせ,2018/10/30,other,other-shintaisei.png,https://github.com/vips-web/github-pages/raw/master/download/shintaisei.pdf
 提携<br>Aircoins,2018/10/30,other,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1057076761362481152
 代表にまつわる<br>騒動について,2018/10/29,other,other-syazaibun.png,https://github.com/vips-web/github-pages/raw/master/download/syazaibun.pdf
