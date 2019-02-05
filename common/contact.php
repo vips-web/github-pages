@@ -8,14 +8,14 @@
 <div id="contact" class="text-center">
   <div class="container">
     <div class="section-title center">
-      <h2>CONTACT</h2>
+      <h2>SUPPORT</h2>
       <hr>
     </div>
     <div class="col-md-8 col-md-offset-2">
       <div>
-        <a href="mailto:pr&#64;vipstarcoin.jp">
+        <a href="mailto:support&#64;vipstarcoin.jp">
           <i class="far fa-envelope fa-5x"></i>
-          <p>pr&#64;vipstarcoin.jp</p>
+          <p>support&#64;vipstarcoin.jp</p>
         </a>
       </div>
       <div class="clearfix"></div>
