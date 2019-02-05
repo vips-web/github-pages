@@ -43,16 +43,6 @@
             </a>
           </p>
         </div>
-        <div>
-          <p class="team-image team-orute"></p>
-          <p class="team-name">orute</p>
-          <p class="team-position">
-            <span class="label">CTO</span>
-            <a href="https://twitter.com/OruteV" target="_blank" class="label">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </p>
-        </div>
       </div>
     <?php else: ?>
       <div class="section-title center">
@@ -93,16 +83,6 @@
           <p class="team-position">
             <span class="label">CEO</span>
             <a href="https://twitter.com/tak_zou_vips" target="_blank" class="label">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </p>
-        </div>
-        <div>
-          <p class="team-image team-orute"></p>
-          <p class="team-name">orute</p>
-          <p class="team-position">
-            <span class="label">CTO</span>
-            <a href="https://twitter.com/OruteV" target="_blank" class="label">
               <i class="fab fa-twitter"></i>
             </a>
           </p>
