@@ -1,3 +1,9 @@
+Result of CoAket Art Contest,2019/02/17,event,event-coaket-art-contest-result.jpg,https://www.coaket.com/fullscreen-page/comp-js0j5k8h/5ed6c860-06af-4206-b443-c8076e9b4518/2/%3Fi%3D2%26p%3Dn0w5t%26s%3Dstyle-js0j5kak
+Quest Board<br>Discord server opened,2019/02/11,develop,develop-quest-board-discord.png,https://discord.gg/kpdZZqA
+Vote of CoAket Art Contest,2019/02/09,event,event-coaket-art-contest.jpg,https://www.coaket.com/zeichenwettbewerb
+VIPS questionnaire,2019/02/05,other,other-persona-check.png,https://docs.google.com/forms/d/12eTZYYZOoo586_JoFUXCvj6t5UzkV9u19HC9bVIz-Xk/viewform
+VIPS official lottery,2019/02/05,other,other-lottery.jpg,https://twitter.com/VIPSTARCOIN/status/1092666735457488896
+VIPSTAR goods<br>Online shop open,2019/02/05,develop,develop-online-shop.jpg,https://www.vipstarstore.com/
 Crypto Derby<br>Release campaign,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
 Release of VIPSTARCOIN Wallet version 1.0.2,2019/01/26,develop,develop-wallet-update.png,https://twitter.com/VIPSTARCOIN/status/1089178886175305728
 VIPSTAR Girls<br>LINE sticker released,2019/01/21,other,other-line-stamp.jpg,https://store.line.me/stickershop/product/6361850

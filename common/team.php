@@ -12,12 +12,6 @@
           <p class="team-name">Bruin-kun</p>
         </div>
         <div>
-          <p class="team-image team-uruhu"></p>
-          <p class="team-name">uruhu</p>
-        </div>
-      </div>
-      <div class="team-row">
-        <div>
           <p class="team-image team-ner"></p>
           <p class="team-name">NeR</p>
         </div>
@@ -55,12 +49,6 @@
           <p class="team-image team-bruin"></p>
           <p class="team-name">Bruin-kun</p>
         </div>
-        <div>
-          <p class="team-image team-uruhu"></p>
-          <p class="team-name">uruhu</p>
-        </div>
-      </div>
-      <div class="team-row">
         <div>
           <p class="team-image team-ner"></p>
           <p class="team-name">NeR</p>
