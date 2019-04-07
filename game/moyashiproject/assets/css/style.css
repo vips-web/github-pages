@@ -403,9 +403,13 @@ button:focus {
 	top: 0px;
 }
 
+.mu-nav-show-always {
+	top: 0px;
+}
+
 #mu-hero .navbar-default .navbar-brand {
 	padding: 15px 15px;
-	font-size: 28px;
+	font-size: 20px;
 	line-height: 20px;
 			/* color: #5F3817; */
 	color: #FBEC3F;
@@ -440,7 +444,10 @@ button:focus {
 #mu-moyashi,
 #mu-star,
 #mu-special,
-#mu-vips {
+#mu-vips,
+#mu-about,
+#mu-function,
+#mu-guide {
 	background-color: #8DC449;
 	display: inline;
 	float: left;
@@ -492,6 +499,12 @@ button:focus {
 	width: 100%;
 }
 
+.mu-help-area {
+	display: block;
+	padding: 10px 0 30px;
+	width: 100%;
+}
+
 .mu-about-area .row+.row {
 	margin-top: 60px;
 }
@@ -529,6 +542,12 @@ button:focus {
 	width: 100%;
 }
 
+.mu-about-center {
+	width: 100%;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, .3);
+}
 
 
 /*--------------------*/
@@ -597,6 +616,10 @@ button:focus {
 	padding: 100px 0;
 	/* padding: 200px 0; */
 	text-align: center;
+	width: 100%;
+}
+.mu-bottom-help {
+	padding: 60px 0 50px;
 	width: 100%;
 }
 .mu-bottom-itunes {
@@ -1637,7 +1660,7 @@ button:focus {
 	}
 
 	.mu-hero-featured-content {
-		margin-top: 20px;
+		/* margin-top: 20px; */
 	}
 
 	.mu-hero-featured-content h1 {
