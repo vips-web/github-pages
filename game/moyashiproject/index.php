@@ -28,7 +28,7 @@
 
   <meta property="og:title" content="ゆぐもやしる">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="<?php echo URL; ?>/game/moyashiproject/assets/images/og.png">
+  <meta property="og:image" content="<?php echo URL; ?>/game/moyashiproject/assets/images/og.png?20190407">
   <meta property="og:site_name" content="ゆぐもやしる">
   <meta name="twitter:card" content="summary_large_image">
   <meta property="og:url" content="<?php echo URL; ?>/game/moyashiproject/">
@@ -308,13 +308,15 @@
           <div class="row">
             <div class="col-md-12">
               <div class="mu-bottom-area">
-                <h2>COMING IN AUTUMN 2018</h2>
-                <a href="javascript:;" class="mu-bottom-itunes">
+                <h2>COMING SOON</h2>
+                <img src="assets/images/appstore.png" alt="App Storeからダウンロード" width="225">
+                <img src="assets/images/googleplay.png" alt="Google Playで手に入れよう" width="225">
+                <!-- <a href="javascript:;" class="mu-bottom-itunes">
                   <img src="https://linkmaker.itunes.apple.com/images/badges/ja-jp/badge_appstore-lrg.svg" alt="Download on the App Store" width="200">
                 </a>
                 <a href="javascript:;">
                   <img alt="Google Play で手に入れよう" src="https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png" width="230">
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
