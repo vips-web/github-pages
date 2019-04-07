@@ -338,7 +338,7 @@
         </div>
         <div class="mu-footer-bottom">
           <p class="mu-copy-right">
-            Copyright &copy; 2018 <a href="<?php echo URL; ?>" target="_blank">VIPSTAR</a>. All right reserved.
+            Copyright &copy; 2019 <a href="<?php echo URL; ?>" target="_blank">VIPSTAR</a>. All right reserved.
           </p>
         </div>
       </div>
