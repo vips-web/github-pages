@@ -1,3 +1,15 @@
+Aircoins<br>in Ueno Park,2019/03/31,event,event-aircoins-ueno.png,https://twitter.com/VIPSTARCOIN/status/1112184619145715712
+Announcement of progress,2019/03/29,other,other-190401-sinntyoku.png,https://www.vipstarcoin.jp/download/190401_sinntyoku.pdf
+Announcement of New goods,2019/03/29,other,other-goods-20190329.jpg,https://twitter.com/VIPSTARCOIN/status/1111579427287105536
+Charity auction for Ghana<br>Start,2019/03/29,event,event-donation-ghana-auction-start.jpg,https://twitter.com/VIPSTARCOIN/status/1111294913822359552
+Report of Paycent international conference,2019/03/26,other,other-paycent-conference-blog.png,https://www.vipstarcoin.jp/blog/2019/03/26/peycent/
+Charity auction for Ghana,2019/03/26,event,event-donation-ghana-auction.jpg,https://twitter.com/VIPSTARCOIN/status/1110307873504976896
+The game which can use VIPS is born,2019/03/24,develop,develop-akinndomonogatari.png,https://www.vipstarcoin.jp/blog/2019/03/24/akinndomonogatari/
+Ghana donation campaign 2nd,2019/03/15,event,event-donation-ghana-2.jpg,https://twitter.com/VIPSTARCOIN/status/1106343994785562624
+PolisPay voting campaign,2019/03/14,event,event-polispay-campaign.jpg,https://twitter.com/VIPSTARCOIN/status/1105893238215327744
+VIPS succeeded Atomic swap,2019/03/11,develop,develop-atomicswap.jpg,https://www.vipstarcoin.jp/blog/2019/03/11/atomicswap/
+Ghana donation campaign,2019/03/11,event,event-donation-ghana-campaign.jpg,https://twitter.com/VIPSTARCOIN/status/1104788338785959936
+Announcement of Paycent International conference,2019/03/04,other,other-paycent-conference.png,https://twitter.com/tak_zou_vips/status/1102564832102866944
 Result of CoAket Art Contest,2019/02/17,event,event-coaket-art-contest-result.jpg,https://www.coaket.com/fullscreen-page/comp-js0j5k8h/5ed6c860-06af-4206-b443-c8076e9b4518/2/%3Fi%3D2%26p%3Dn0w5t%26s%3Dstyle-js0j5kak
 Quest Board<br>Discord server opened,2019/02/11,develop,develop-quest-board-discord.png,https://discord.gg/kpdZZqA
 Vote of CoAket Art Contest,2019/02/09,event,event-coaket-art-contest.jpg,https://www.coaket.com/zeichenwettbewerb

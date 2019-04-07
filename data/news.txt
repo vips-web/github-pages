@@ -1,3 +1,15 @@
+Aircoins<br>上野公園花見オフ限定投下,2019/03/31,event,event-aircoins-ueno.png,https://twitter.com/VIPSTARCOIN/status/1112184619145715712
+進捗状況について,2019/03/29,other,other-190401-sinntyoku.png,https://www.vipstarcoin.jp/download/190401_sinntyoku.pdf
+コミュニティメンバーグッズ掲載のお知らせ,2019/03/29,other,other-goods-20190329.jpg,https://twitter.com/VIPSTARCOIN/status/1111579427287105536
+ガーナ寄付チャリティオークションスタート,2019/03/29,event,event-donation-ghana-auction-start.jpg,https://twitter.com/VIPSTARCOIN/status/1111294913822359552
+Paycent国際会議についてまとめ,2019/03/26,other,other-paycent-conference-blog.png,https://www.vipstarcoin.jp/blog/2019/03/26/peycent/
+ガーナ寄付チャリティオークション,2019/03/26,event,event-donation-ghana-auction.jpg,https://twitter.com/VIPSTARCOIN/status/1110307873504976896
+VIPSTARCOIN対応のゲームが誕生,2019/03/24,develop,develop-akinndomonogatari.png,https://www.vipstarcoin.jp/blog/2019/03/24/akinndomonogatari/
+第2回 ガーナの笑顔キャンペーン,2019/03/15,event,event-donation-ghana-2.jpg,https://twitter.com/VIPSTARCOIN/status/1106343994785562624
+PolisPay投票キャンペーン,2019/03/14,event,event-polispay-campaign.jpg,https://twitter.com/VIPSTARCOIN/status/1105893238215327744
+アトミックスワップ成功,2019/03/11,develop,develop-atomicswap.jpg,https://www.vipstarcoin.jp/blog/2019/03/11/atomicswap/
+ガーナ寄付リツイート拡散キャンペーン,2019/03/11,event,event-donation-ghana-campaign.jpg,https://twitter.com/VIPSTARCOIN/status/1104788338785959936
+Paycent国際会議開催のお知らせ,2019/03/04,other,other-paycent-conference.png,https://twitter.com/tak_zou_vips/status/1102564832102866944
 CoAketイラコンVIPSコミュ賞のお知らせ,2019/02/17,event,event-coaket-art-contest-result.jpg,https://www.coaket.com/fullscreen-page/comp-js0j5k8h/5ed6c860-06af-4206-b443-c8076e9b4518/2/%3Fi%3D2%26p%3Dn0w5t%26s%3Dstyle-js0j5kak
 クエストボード<br>サーバーオープンのお知らせ,2019/02/11,develop,develop-quest-board-discord.png,https://discord.gg/kpdZZqA
 CoAketコミュニティ投票のお知らせ,2019/02/09,event,event-coaket-art-contest.jpg,https://www.coaket.com/zeichenwettbewerb
