@@ -169,7 +169,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="mu-about-right text-center">
-                    <img class="img-border" src="assets/images/moyashi.jpg" alt="">
+                    <img class="img-border" src="assets/images/moyashi.png" alt="">
                   </div>
                 </div>
               </div>
@@ -254,7 +254,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="mu-about-right text-center">
-                    <img class="img-border" src="assets/images/special.jpg" alt="">
+                    <img class="img-border" src="assets/images/special.png" alt="">
                   </div>
                 </div>
               </div>
