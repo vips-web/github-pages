@@ -1,3 +1,9 @@
+Notice of Agreement for Cooperation with the City of Sekruwa，Ghana (tentative),2019/05/03,other,other-sekruwa.jpg,https://twitter.com/VIPSTARCOIN/status/1124275485104459782
+Introduce the activities of VIPSTARCOIN<br>(ANICo),2019/05/02,other,other-anico-vipstarcoin.png,https://animebu.com/vipstarcoin/
+VIPSTAR Inc.<br>Media Partnership with ANICo,2019/04/30,other,other-anico.png,https://animebu.com/
+Aircoins<br>Last of Heisei campaign,2019/04/30,event,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1122991449400696832
+CryptoDerby<br>VIPSTAR Cup,2019/04/24,event,event-cryptoderby-vipstar-cup.jpg,https://medium.com/cryptohorserace/vipstar%E6%9D%AF%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-f910f78a3431
+Yugumoyashiru<br>Official HP open,2019/04/18,develop,develop-moyashiproject-hp.png,https://www.vipstarcoin.jp/game/moyashiproject/
 Aircoins<br>in Ueno Park,2019/03/31,event,event-aircoins-ueno.png,https://twitter.com/VIPSTARCOIN/status/1112184619145715712
 Announcement of progress,2019/03/29,other,other-190401-sinntyoku.png,https://www.vipstarcoin.jp/download/190401_sinntyoku.pdf
 Announcement of New goods,2019/03/29,other,other-goods-20190329.jpg,https://twitter.com/VIPSTARCOIN/status/1111579427287105536
@@ -16,7 +22,7 @@ Vote of CoAket Art Contest,2019/02/09,event,event-coaket-art-contest.jpg,https:/
 VIPS questionnaire,2019/02/05,other,other-persona-check.png,https://docs.google.com/forms/d/12eTZYYZOoo586_JoFUXCvj6t5UzkV9u19HC9bVIz-Xk/viewform
 VIPS official lottery,2019/02/05,other,other-lottery.jpg,https://twitter.com/VIPSTARCOIN/status/1092666735457488896
 VIPSTAR goods<br>Online shop open,2019/02/05,develop,develop-online-shop.jpg,https://www.vipstarstore.com/
-Crypto Derby<br>Release campaign,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
+CryptoDerby<br>Release campaign,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
 Release of VIPSTARCOIN Wallet version 1.0.2,2019/01/26,develop,develop-wallet-update.png,https://twitter.com/VIPSTARCOIN/status/1089178886175305728
 VIPSTAR Girls<br>LINE sticker released,2019/01/21,other,other-line-stamp.jpg,https://store.line.me/stickershop/product/6361850
 VIPS × Derby<br>Platinum Star Cup,2018/01/20,event,event-vips-derby.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/
