@@ -34,7 +34,7 @@
   <meta property="og:url" content="<?php echo URL; ?>/game/moyashiproject/">
   <meta name="description"
         content="かの宇宙樹ユグドラシルのごとく、惑星を吸収し大きくなるもやし―――「ゆぐもやしる」を萌子ちゃんといっしょに育てる旅に出よう！ まだ見ぬもやしが君を待っている・・・！">
-  <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨,ゲーム,もやし,ゆぐもやしる,小田萌子">
+  <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,暗号資産,仮想通貨,ゲーム,もやし,ゆぐもやしる,小田萌子">
   <meta property="og:description"
         content="かの宇宙樹ユグドラシルのごとく、惑星を吸収し大きくなるもやし―――「ゆぐもやしる」を萌子ちゃんといっしょに育てる旅に出よう！ まだ見ぬもやしが君を待っている・・・！">
 
@@ -245,9 +245,9 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="mu-about-left">
-                    <h2>仮想通貨との連動</h2>
-                    <p>ゆぐもやしるは VIPSTARCOIN という仮想通貨と連動しています。<p>
-                    <p>もちろん仮想通貨を保有していなくても通常通りプレイできますし、プレイすることでお金がかかることも一切ありません。</p>
+                    <h2>暗号資産との連動</h2>
+                    <p>ゆぐもやしるは VIPSTARCOIN という暗号資産と連動しています。<p>
+                    <p>もちろん暗号資産を保有していなくても通常通りプレイできますし、プレイすることでお金がかかることも一切ありません。</p>
                     <p>VIPSTARCOINを持っていれば、普段のプレイがなんとなく楽しくなるかもしれません。</p>
                     <p>詳細は続報をお待ち下さい。</p>
                   </div>
@@ -290,8 +290,8 @@
                 <div class="col-md-6">
                   <div class="mu-about-right">
                     <h2>VIPSTARCOINとは</h2>
-                    <p>VIPSTARCOIN (VIPS) は5ちゃんねるニュー速VIP板発祥の仮想通貨です。</p>
-                    <p>「楽しさを、買おう。」を合言葉に、国産仮想通貨として多目的に利用されること、ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。</p>
+                    <p>VIPSTARCOIN (VIPS) は5ちゃんねるニュー速VIP板発祥の暗号資産です。</p>
+                    <p>「楽しさを、買おう。」を合言葉に、国産暗号資産として多目的に利用されること、ひいては寄付への利用で世界に貢献することを目指して開発が進んでいます。</p>
                     <a href="https://www.vipstarcoin.jp/" target="_blank" class="mu-send-msg-btn"><span>VIPSTARCOIN公式サイト <i class="fas fa-external-link-alt"></i></span></a>
                   </div>
                 </div>
