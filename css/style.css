@@ -839,6 +839,28 @@ ol.type li a:hover {
 	margin: 10px 0 50px;
 	font-size: 18px;
 }
+/* Character Section */
+#character {
+	padding: 0 0 100px;
+	background: #ffc000;
+}
+#character hr {
+	background: #fff;
+}
+#character .character-image {
+	text-align: center;
+}
+#character .character-image img {
+	width: 520px;
+	max-width: calc(100% - 30px);
+	padding: 10px;
+	background: #fff;
+	border-radius: 10px;
+}
+#character .character-image p {
+	margin-top: 10px;
+	font-size: 18px;
+}
 /* Team Section */
 #team {
 	padding: 100px 0 0;
