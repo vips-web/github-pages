@@ -35,7 +35,7 @@
           <b>Récompense de Mining</b>
         </p>
         <p>
-          Pour 1-2000 blocs, la récompense de PoS PoW sera supprimée à 1 VIPS
+          Pour 1-2000 blocs, la récompense de PoS PoW sera supprimée à 1vips
         </p>
         <p>
           PoS<br>
@@ -51,7 +51,6 @@
           PoW<br>
           2,001~53,611,200 blocs : 100vips
         </p>
-        <p>Rendement annuel attendu : 5%</p>
       </div>
     </div>
   </div>
