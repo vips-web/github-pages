@@ -13,17 +13,11 @@
     <a href="https://wallet.crypto-bridge.org/market/BRIDGE.VIPS_BRIDGE.BTC" target="_blank" class="exchange-cryptobridge">
       <img src="<?php echo URL; ?>/img/exchange/cryptobridge.svg" alt="CryptoBridge">
     </a><br>
-    <a href="https://www.coinexmarket.io" target="_blank" class="exchange-coinexmarket">
-      <img src="<?php echo URL; ?>/img/exchange/coinexmarket.png" alt="CoinExMarket">
-    </a><br>
     <a href="https://www.swft.pro/" target="_blank" class="exchange-swft-blockchain">
       <img src="<?php echo URL; ?>/img/exchange/swft-blockchain.jpg" alt="SWFT Blockchain">
     </a><br>
     <a href="https://www.cryptaldash.com/" target="_blank" class="exchange-cryptaldash">
       <img src="<?php echo URL; ?>/img/exchange/cryptaldash.png" alt="CryptalDash">
-    </a><br>
-    <a href="https://nusax.co.id/trading/vipsbtc" target="_blank" class="exchange-nusa-exchange">
-      <img src="<?php echo URL; ?>/img/exchange/nusa-exchange.png" alt="Nusa Exchange">
     </a><br>
     <?php if ($lang == 'ja' || $lang == 'vip'): ?>
       <br><br><br>
