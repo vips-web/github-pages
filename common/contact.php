@@ -45,7 +45,7 @@
           <li><a href="https://www.facebook.com/VIPSTARCoinOfficial/" target="_blank">
             <i class="fab fa-facebook-square fa-4x"></i></i>
           </a></li>
-          <li><a href="http://seesaawiki.jp/vips/" target="_blank">
+          <li><a href="https://wiki.vipstarcoin.jp/" target="_blank">
             <i class="fas fa-edit fa-4x"></i>
           </a></li>
           <br>
