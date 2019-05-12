@@ -302,7 +302,7 @@
             <div class="col-md-12">
               <div class="mu-bottom-help">
                 <p>ヘルプ、ユーザーガイドを見てもお困りの内容が解決されない場合は、こちらからお問い合わせください。</p>
-                <p><a href="mailto:support&#64;vipstarcoin.jp">support&#64;vipstarcoin.jp</a></p>
+                <p>support&#64;vipstarcoin.jp</p>
                 <p>※状況により返信までにお時間をいただく場合がございます。</p>
               </div>
             </div>
@@ -312,26 +312,6 @@
     </section>
   </main>
 
-  <footer id="mu-footer" role="contentinfo">
-    <div class="container">
-      <div class="mu-footer-area">
-        <div class="addthis_inline_share_toolbox"></div>
-        <div class="mu-footer-top">
-          <div class="mu-social-media">
-            <a href="<?php echo URL; ?>" target="_blank"><i class="fa fa-home"></i></a>
-            <a href="https://twitter.com/VIPSTARCOIN" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a href="https://discord.gg/sEaaxau" target="_blank"><i class="fab fa-discord"></i></a>
-          </div>
-        </div>
-        <div class="mu-footer-bottom">
-          <p class="mu-copy-right">
-            Copyright &copy; 2019 <a href="<?php echo URL; ?>" target="_blank">VIPSTAR</a>. All right reserved.
-          </p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
   <script src="https://code.jquery.com/jquery-2.2.4.min.js"
           integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
           crossorigin="anonymous"></script>
@@ -340,6 +320,5 @@
           crossorigin="anonymous"></script>
   <script type="text/javascript" src="../assets/js/app.js"></script>
   <script type="text/javascript" src="../assets/js/custom.js?d=20180817"></script>
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab60eab9e6f635f"></script>
 </body>
 </html>
