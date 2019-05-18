@@ -35,23 +35,22 @@
           <b>Mining-Belohnungen</b>
         </p>
         <p>
-          1 VIPS für PoW und PoW bis zum 2000. Block<br>
+          1vips für PoW und PoW bis zum 2000. Block<br>
           (Kein Pre-Mining)
         </p>
         <p>
           PoS<br>
           Unter den VIPS-Nutzern werden Gewinner nach dem Zufallprinzip  ausgewählt. <br>
-          2.001-28.000 Blöcke: 3.000 VIPS<br>
-          20.001-525.600 Blöcke: 9.500 VIPS<br>
-          525.601. Block: 4.750 VIPS<br>
-          Danach wird die Belohnung um 525.600 Blöcke halbiert (minimum 100 VIPS)<br>
+          2.001-28.000 Blöcke: 3.000vips<br>
+          20.001-525.600 Blöcke: 9.500vips<br>
+          525.601. Block: 4.750vips<br>
+          Danach wird die Belohnung um 525.600 Blöcke halbiert (minimum 100vips)<br>
           53.611.200. ist der letzte Block.
         </p>
         <p>
           PoW<br>
-          2.001-53.611.200 Blöcke: 100VIPS
+          2.001-53.611.200 Blöcke: 100vips
         </p>
-        <p>Jahreszinsen, Erwartungswert: ca. 5%</p>
       </div>
     </div>
   </div>

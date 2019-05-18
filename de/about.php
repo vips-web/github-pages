@@ -36,9 +36,6 @@
           <p class="bl_about-button text-center">
             <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/whitepaper_de.pdf" target="_blank">WHITEPAPER&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
           </p>
-          <p class="bl_about-button text-center">
-            <a class="button button-bw" href="https://github.com/vips-web/github-pages/raw/master/download/mid-term_action_plan_en.pdf" target="_blank">Mid-term Action Plan&nbsp;&nbsp;<i class="fas fa-file-pdf"></i></a>
-          </p>
           <div class="bl_movie">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/XvFisZm55KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
