@@ -27,6 +27,16 @@
       
       <h3 class="team-corporation">株式会社VIPSTAR</h3>
       <div class="team-row" ontouchstart="">
+        <div class="team-corp">
+          <a href="https://vipstarinc.jp/" target="_blank">
+            <img src="<?php echo URL; ?>/img/team/vipstarinc.jpg" alt="株式会社VIPSTAR">
+          </a>
+          <p class="team-position">
+            <a class="button button-bw" href="https://vipstarinc.jp/" target="_blank">
+              コーポレートサイト <i class="fas fa-external-link-alt"></i>
+            </a>
+          </p>
+        </div>
         <div>
           <p class="team-image team-takuzo"></p>
           <p class="team-name">たくぞう<br>（吉澤拓哉）</p>
@@ -65,6 +75,16 @@
       
       <h3 class="team-corporation">VIPSTAR Inc.</h3>
       <div class="team-row" ontouchstart="">
+        <div class="team-corp">
+          <a href="https://vipstarinc.jp/" target="_blank">
+            <img src="<?php echo URL; ?>/img/team/vipstarinc.jpg" alt="VIPSTAR Inc.">
+          </a>
+          <p class="team-position">
+            <a class="button button-bw" href="https://vipstarinc.jp/" target="_blank">
+              Corporate website <i class="fas fa-external-link-alt"></i>
+            </a>
+          </p>
+        </div>
         <div>
           <p class="team-image team-takuzo"></p>
           <p class="team-name">takuzo<br>(Takuya Yoshizawa)</p>
