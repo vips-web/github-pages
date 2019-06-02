@@ -942,6 +942,13 @@ ol.type li a:hover {
 #team .label {
 	background-color: #ffc000;
 }
+#team .team-row .team-corp img {
+	border-radius: 0;
+}
+#team .team-row .team-corp .button {
+	padding: 4px 8px;
+	font-size: 10px;
+}
 /* Contact Section */
 #contact {
 	padding: 50px 0;
