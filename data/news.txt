@@ -1,3 +1,5 @@
+ゆぐもやしる<br>リリース,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
+ゆぐもやしるβテスター募集,2019/06/03,develop,develop-moyashiproject-hp.png,https://docs.google.com/forms/d/e/1FAIpQLSegdHULlghSA_H26vEV5M_qQ16PPitqhdJe87wEPS8d8cEX1w/viewform?usp=sf_link
 ㈱VIPSTAR<br>コーポレートサイト公開,2019/05/30,develop,develop-vips-corp.jpg,https://vipstarinc.jp/
 VIPSTARCOIN新公式wiki公開,2019/05/26,develop,develop-new-wiki.png,https://wiki.vipstarcoin.jp/
 Aircoins期間限定全世界投下 & ARフォトコンテスト開催,2019/05/19,event,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1130102792964546561

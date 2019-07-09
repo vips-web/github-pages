@@ -1,3 +1,5 @@
+Release of Yugumoyashiru,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
+Recruitment of beta testers for Yugumoyashiru,2019/06/03,develop,develop-moyashiproject-hp.png,https://docs.google.com/forms/d/e/1FAIpQLSegdHULlghSA_H26vEV5M_qQ16PPitqhdJe87wEPS8d8cEX1w/viewform?usp=sf_link
 VIPSTAR Inc.<br>Release of Corporate website,2019/05/30,develop,develop-vips-corp.jpg,https://vipstarinc.jp/
 Release of VIPSTARCOIN new wiki,2019/05/26,develop,develop-new-wiki.png,https://wiki.vipstarcoin.jp/
 Aircoins Time-limited worldwide drop & AR photo contest,2019/05/19,event,other-aircoins.png,https://twitter.com/VIPSTARCOIN/status/1130102792964546561
