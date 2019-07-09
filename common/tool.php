@@ -41,6 +41,12 @@
             </a><br>
             <a href="https://github.com/vips-web/github-pages/raw/master/download/RegVIPS-1.0.3.zip" class="button button-bw" target="_blank">
               RegVIPS (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a><br>
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/VipsSender-JaneStyle-1.0.0.zip" class="button button-bw" target="_blank">
+              <?php echo ($lang == 'ja' || $lang == 'vip') ? 'JaneStyle簡単チップツール' : 'VipsSender JaneStyle'; ?> (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a><br>
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/VipsSender-InternetExplorer-1.0.1.zip" class="button button-bw" target="_blank">
+              <?php echo ($lang == 'ja' || $lang == 'vip') ? 'InternetExplorer簡単チップツール' : 'VipsSender InternetExplorer'; ?>  (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a>
           </div>
           <div class="modal-footer">

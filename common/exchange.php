@@ -10,9 +10,6 @@
     <a href="https://www.coinexchange.io/market/VIPS/BTC" target="_blank" class="exchange-coinexchange">
       <img src="<?php echo URL; ?>/img/exchange/coinexchange.png" alt="CoinExchange">
     </a><br>
-    <a href="https://wallet.crypto-bridge.org/market/BRIDGE.VIPS_BRIDGE.BTC" target="_blank" class="exchange-cryptobridge">
-      <img src="<?php echo URL; ?>/img/exchange/cryptobridge.svg" alt="CryptoBridge">
-    </a><br>
     <a href="https://www.swft.pro/" target="_blank" class="exchange-swft-blockchain">
       <img src="<?php echo URL; ?>/img/exchange/swft-blockchain.jpg" alt="SWFT Blockchain">
     </a><br>
