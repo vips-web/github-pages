@@ -1,4 +1,11 @@
+VIPSTARCOIN is now available in Monya<br>(Cryptocurrency wallet app),2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
+VipsSender for InternetExplorer released,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/en/#tool
+VipsSender for JaneStyle released,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/en/#tool
+VIPSTARCOIN cooperate with Ghanaian company,2019/07/05,other,other-cooperate-ghanaian-company.jpg,https://www.vipstarcoin.jp/blog/2019/07/05/ghana/
 Release of Yugumoyashiru,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
+News about donation to Ghana hospital was broadcasted by AdomTV,2019/06/21,other,other-donate-ghana-babies-tv.jpg,https://twitter.com/VIPSTARCOIN/status/1142225174822969344
+News about our donation is on Ghana news website,2019/06/20,other,other-donate-ghana-babies-news.jpg,https://twitter.com/VIPSTARCOIN/status/1141590569635815424
+Please donate for Ghana newborn babies,2019/06/14,other,other-donate-ghana-babies.jpg,https://twitter.com/VIPSTARCOIN/status/1139502401927303168
 Recruitment of beta testers for Yugumoyashiru,2019/06/03,develop,develop-moyashiproject-hp.png,https://docs.google.com/forms/d/e/1FAIpQLSegdHULlghSA_H26vEV5M_qQ16PPitqhdJe87wEPS8d8cEX1w/viewform?usp=sf_link
 VIPSTAR Inc.<br>Release of Corporate website,2019/05/30,develop,develop-vips-corp.jpg,https://vipstarinc.jp/
 Release of VIPSTARCOIN new wiki,2019/05/26,develop,develop-new-wiki.png,https://wiki.vipstarcoin.jp/

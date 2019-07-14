@@ -1,4 +1,11 @@
+複数通貨対応モバイルウォレット「もにゃ」でVIPSTARCOIN取扱開始,2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
+InternetExplorer簡単チップツール公開,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/#tool
+JaneStyle簡単チップツール公開,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/#tool
+ガーナ共和国企業と協力体制確立のお知らせ,2019/07/05,other,other-cooperate-ghanaian-company.jpg,https://www.vipstarcoin.jp/blog/2019/07/05/ghana/
 ゆぐもやしる<br>リリース,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
+ガーナの病院への寄付の取り組みが現地テレビニュースで放映,2019/06/21,other,other-donate-ghana-babies-tv.jpg,https://twitter.com/VIPSTARCOIN/status/1142019993615253505
+ガーナの病院への寄付の取り組みが現地ニュースサイトに掲載,2019/06/20,other,other-donate-ghana-babies-news.jpg,https://twitter.com/VIPSTARCOIN/status/1141536518583906304
+ガーナ新生児病棟への寄付のご協力のお願い,2019/06/14,other,other-donate-ghana-babies.jpg,https://twitter.com/VIPSTARCOIN/status/1139683939872718849
 ゆぐもやしるβテスター募集,2019/06/03,develop,develop-moyashiproject-hp.png,https://docs.google.com/forms/d/e/1FAIpQLSegdHULlghSA_H26vEV5M_qQ16PPitqhdJe87wEPS8d8cEX1w/viewform?usp=sf_link
 ㈱VIPSTAR<br>コーポレートサイト公開,2019/05/30,develop,develop-vips-corp.jpg,https://vipstarinc.jp/
 VIPSTARCOIN新公式wiki公開,2019/05/26,develop,develop-new-wiki.png,https://wiki.vipstarcoin.jp/
