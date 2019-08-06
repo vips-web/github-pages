@@ -10,8 +10,8 @@
         <li class="selected">Deutsch<i class="fas fa-check"></i></li>
         <li role="separator" class="divider"></li>
         <li><a href="<?php echo URL; ?>/">日本語</a></li>
+        <li><a href="<?php echo URL; ?>/vip/">VIP</a></li>
         <li><a href="<?php echo URL; ?>/en/">English</a></li>
-        <li><a href="<?php echo URL; ?>/de/">Deutsch</a></li>
         <li><a href="<?php echo URL; ?>/fr/">Français</a></li>
         <li><a href="<?php echo URL; ?>/zh/">中文</a></li>
       </ul>
