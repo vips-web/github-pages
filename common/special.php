@@ -1,19 +1,19 @@
 <?php 
-/*
-  $special_url = URL . '/lp/gamescom/';
-  if ($lang != 'ja' && $lang != 'vip') {
-    $special_url .= 'en/';
-  }
+  $special_url = URL . 'lp/ashanti/';
+  // if ($lang != 'ja' && $lang != 'vip') {
+  //   $special_url .= 'en/';
+  // }
+  if ($lang == 'ja' || $lang == 'vip') {
 ?>
 
 <div style="text-align: center; margin-top: 100px;">
   <a href="<?php echo $special_url; ?>" 
      class="btn btn-warning btn-lg" 
-     style="width: 250px; height: 60px; padding: 14px 16px; font-size: 22px; font-weight: bold; background: linear-gradient(to right, #30cfd0, #330867); border-color: #fff;">
-    IAB@gamescom&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
+     style="max-width: 90%; min-height: 60px; padding: 14px 16px; font-size: 22px; font-weight: bold; background: linear-gradient(to right,#999900,#009900); border-color: #fff;">
+     アシャンティ王国の<br>公式仮想通貨に認定<br>詳細はこちら&nbsp;&nbsp;<i class="fas fa-angle-right"></i>
   </a>
 </div>
 
 <?php 
-*/
+  }
 ?>
