@@ -1,3 +1,4 @@
+アシャンティ王国<br>特設ページ公開,2019/08/06,event,event-asanteman.png,https://www.vipstarcoin.jp/lp/ashanti/
 複数通貨対応モバイルウォレット「もにゃ」でVIPSTARCOIN取扱開始,2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
 InternetExplorer簡単チップツール公開,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/#tool
 JaneStyle簡単チップツール公開,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/#tool

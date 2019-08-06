@@ -11,7 +11,7 @@
         <ul class="nav navbar-nav">
           <li class="hidden"><a href="#page-top"></a></li>
           <li><a class="page-scroll" href="#about">ABOUT</a></li>
-          <li><a class="page-scroll" href="#roadmap">ROADMAP</a></li>
+          <li><a class="page-scroll" href="#topics">TOPICS</a></li>
           <li><a class="page-scroll" href="#holding">HOLDING</a></li>
           <li><a class="page-scroll" href="#wallet">WALLET</a></li>
           <li><a class="page-scroll" href="#news">NEWS</a></li>

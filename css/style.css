@@ -314,6 +314,51 @@ hr {
 #feature .bl_feature-button {
 	padding-bottom: 50px;
 }
+/* Topics Section */
+#topics {
+	padding: 100px 0;
+	background: #ffc000;
+}
+#topics hr {
+	background: #fff;
+}
+#topics .topics-button {
+	text-align: center;
+}
+#topics .topics-button a {
+	display: inline-block;
+	margin: 0 10px 25px;
+}
+#topics .topics-button-corp { 
+	min-height: 60px; 
+	padding: 14px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #fff;
+	border-color: #fff;
+	background-color: #000; 
+}
+#topics .topics-button-moyashi { 
+	min-height: 60px; 
+	padding: 14px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #5F3817;
+	border-color: #5F3817;
+	background-color: #8DC449; 
+    text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
+}
+#topics .topics-button-ashanti { 
+	min-height: 60px; 
+	padding: 14px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #fff;
+	border-color: #fff;
+	background: -moz-linear-gradient(to right,#999900,#009900); 
+	background: -webkit-linear-gradient(to right,#999900,#009900); 
+	background: linear-gradient(to right,#999900,#009900); 
+}
 /* Roadmap Section */
 #roadmap {
 	padding: 100px 0;
