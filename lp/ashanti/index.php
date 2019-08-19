@@ -33,10 +33,10 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta property="og:url" content="<?php echo URL; ?>/lp/ashanti/">
   <meta name="description"
-        content="アシャンティ王国がVIPSTARCOINを公式仮想通貨に認定 2019年8月30日に告知セレモニー開催">
+        content="アシャンティ王国がVIPSTARCOINを公式仮想通貨に認定 告知セレモニー開催">
   <meta name="keywords" content="VIPSTAR,VIPSTARCOIN,VIPS,VIP,ニュー速VIP,仮想通貨,暗号資産,アシャンティ王国,ガーナ">
   <meta property="og:description"
-        content="アシャンティ王国がVIPSTARCOINを公式仮想通貨に認定 2019年8月30日に告知セレモニー開催">
+        content="アシャンティ王国がVIPSTARCOINを公式仮想通貨に認定 告知セレモニー開催">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="<?php echo URL; ?>/img/favicon.png" type="image/x-icon">
@@ -102,7 +102,7 @@
             </div>
             <div class="mu-hero-featured-content">
               <h1>アシャンティ王国がVIPSTARCOINを<br>公式仮想通貨に認定</h1>
-              <p class="mu-event-date-line">2019/08/30 告知セレモニー開催</p>
+              <p class="mu-event-date-line">告知セレモニー開催予定</p>
               <div class="mu-event-counter-area">
                 <div id="mu-event-counter"></div>
               </div>
@@ -267,7 +267,7 @@
                   <div class="mu-about-right">
                     <h2>セレモニー内容</h2>
                     <p>
-                      VIPSTARCOINの公式仮想通貨認定の告知のためのセレモニーが、2019年8月30日に開催されます。
+                      VIPSTARCOINの公式仮想通貨認定の告知のためのセレモニーが開催されます。
                     </p>
                     <p>
                       セレモニーの内容は以下のとおりです。<br>
@@ -302,7 +302,7 @@
               <h2>セレモニー会場（中心地点）</h2>
               <h3>Kumase City Center</h3>
               <h4>Prempen II Avenue, Kumasi, Ghana</h4>
-              <p>2019年8月30日（金） 現地時間午前10時（日本時間午後7時）</p>
+              <p></p>
             </div>
           </div>
         </div>
