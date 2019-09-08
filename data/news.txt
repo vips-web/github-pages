@@ -1,4 +1,8 @@
+㈱VIPSTAR<br>2019年度上半期活動内容報告,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
 アシャンティ王国<br>特設ページ公開,2019/08/06,event,event-asanteman.png,https://www.vipstarcoin.jp/lp/ashanti/
+二次創作用Discord素材サーバーオープン,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
+アシャンティ王国でのセレモニー開催費用ご支援のお願い,2019/07/27,other,other-donate-ghana-project.png,https://forms.gle/9jYWrusXVUiWDjR7A
+ガーナ大首長との協力関係構築について,2019/07/25,other,other-ghana-paramount-chief.jpg,https://www.vipstarcoin.jp/blog/2019/07/25/ghananana/
 複数通貨対応モバイルウォレット「もにゃ」でVIPSTARCOIN取扱開始,2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
 InternetExplorer簡単チップツール公開,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/#tool
 JaneStyle簡単チップツール公開,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/#tool
