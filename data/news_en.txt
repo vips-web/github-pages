@@ -1,3 +1,7 @@
+Electrum-VIPS Icon contest,2019/09/21,event,event-electrum-icon-contest.jpg,https://discord.gg/sEaaxau
+Recruitment of beta testers for Electrum-VIPS,2019/09/21,develop,develop-electrum-beta.png,https://docs.google.com/forms/d/e/1FAIpQLSeOP3aPC2E0RDl3koNezu7899uG__im2JELiV0EIhgc5Vtgag/viewform
+VIPS Message released,2019/09/16,develop,develop-vips-message.png,https://www.vipstarcoin.jp/en/#tool
+VIPS payment introduced<br>Ltd.Co. CR corporation,2019/09/13,other,other-settlement.png,https://www.carsensor.net/shop/saitama/317149001/
 VIPSTAR Inc.<br>Activity report for the first half of 2019,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
 VIPSTARCOIN in Ashanti Empire<br>Special website opened,2019/08/06,event,event-asanteman.png,https://www.vipstarcoin.jp/lp/ashanti/
 Discord server for fan fiction,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
