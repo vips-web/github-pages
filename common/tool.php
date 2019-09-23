@@ -47,6 +47,9 @@
             </a><br>
             <a href="https://github.com/vips-web/github-pages/raw/master/download/VipsSender-InternetExplorer-1.0.1.zip" class="button button-bw" target="_blank">
               <?php echo ($lang == 'ja' || $lang == 'vip') ? 'InternetExplorer簡単チップツール' : 'VipsSender for InternetExplorer'; ?>  (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a><br>
+            <a href="https://github.com/takana-v/VIPS_Message/releases/download/v1.0.1/VIPS_Message_1_0_1.zip" class="button button-bw" target="_blank">
+              VIPS Message (Win)&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
             </a>
           </div>
           <div class="modal-footer">
