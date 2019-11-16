@@ -1,9 +1,12 @@
+㈱VIPSTAR<br>フリーマーケット＆忘年会のお知らせ,2019/11/14,event,event-year-end-party-2019.jpg,https://discord.gg/sEaaxau
+VIPSTARCOIN上場先アンケート,2019/11/11,other,other-listing-questionnaire.png,https://forms.gle/R3EHs4m4wwxYjyWN6
+猫の里親募集,2019/10/09,other,other-cat-foster-parent.jpg,https://twitter.com/VIPSTAR_inc/status/1181739128007692289
+CoinExchange閉鎖のお知らせ,2019/10/03,other,other-ce-close.png,https://twitter.com/VIPSTARCOIN/status/1179723030513119234
 Electrum-VIPSアイコンコンテストのお知らせ,2019/09/21,event,event-electrum-icon-contest.jpg,https://discord.gg/sEaaxau
 Electrum-VIPSベータテスター募集のお知らせ,2019/09/21,develop,develop-electrum-beta.png,https://docs.google.com/forms/d/e/1FAIpQLSeOP3aPC2E0RDl3koNezu7899uG__im2JELiV0EIhgc5Vtgag/viewform
 VIPS Messageリリース,2019/09/16,develop,develop-vips-message.png,https://www.vipstarcoin.jp/#tool
 VIPS決済導入<br>有限会社 CR corporation,2019/09/13,other,other-settlement.png,https://www.carsensor.net/shop/saitama/317149001/
 ㈱VIPSTAR<br>2019年度上半期活動内容報告,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
-アシャンティ王国<br>特設ページ公開,2019/08/06,event,event-asanteman.png,https://www.vipstarcoin.jp/lp/ashanti/
 二次創作用Discord素材サーバーオープン,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
 アシャンティ王国でのセレモニー開催費用ご支援のお願い,2019/07/27,other,other-donate-ghana-project.png,https://forms.gle/9jYWrusXVUiWDjR7A
 ガーナ大首長との協力関係構築について,2019/07/25,other,other-ghana-paramount-chief.jpg,https://www.vipstarcoin.jp/blog/2019/07/25/ghananana/

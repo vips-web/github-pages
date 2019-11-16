@@ -7,14 +7,14 @@
     <a href="https://topbtc.com/home/Market/index/market/USDT/coin/VIPS.html" target="_blank" class="exchange-topbtc">
       <img src="<?php echo URL; ?>/img/exchange/topbtc.png" alt="TOPBTC">
     </a><br>
-    <a href="https://www.coinexchange.io/market/VIPS/BTC" target="_blank" class="exchange-coinexchange">
-      <img src="<?php echo URL; ?>/img/exchange/coinexchange.png" alt="CoinExchange">
-    </a><br>
     <a href="https://www.swft.pro/" target="_blank" class="exchange-swft-blockchain">
       <img src="<?php echo URL; ?>/img/exchange/swft-blockchain.jpg" alt="SWFT Blockchain">
     </a><br>
     <a href="https://www.cryptaldash.com/" target="_blank" class="exchange-cryptaldash">
       <img src="<?php echo URL; ?>/img/exchange/cryptaldash.png" alt="CryptalDash">
+    </a><br>
+    <a href="https://ataix.com/currencies/VIPS" target="_blank" class="exchange-ataix">
+      <img src="<?php echo URL; ?>/img/exchange/ataix.svg" alt="ATAIX">
     </a><br>
     <?php if ($lang == 'ja' || $lang == 'vip'): ?>
       <br><br><br>

@@ -657,6 +657,10 @@ hr {
 	width: 300px;
 	background-color: #1e3047;
 }
+#exchange .exchange-ataix img {
+	width: 200px;
+	background-color: #302d43;
+}
 
 /* News Section */
 #news {
