@@ -13,6 +13,9 @@
     <a href="https://www.cryptaldash.com/" target="_blank" class="exchange-cryptaldash">
       <img src="<?php echo URL; ?>/img/exchange/cryptaldash.png" alt="CryptalDash">
     </a><br>
+    <a href="https://ataix.com/currencies/VIPS" target="_blank" class="exchange-ataix">
+      <img src="<?php echo URL; ?>/img/exchange/ataix.svg" alt="ATAIX">
+    </a><br>
     <?php if ($lang == 'ja' || $lang == 'vip'): ?>
       <br><br><br>
       <a href="https://www.vipstarcoin.jp/blog/2018/08/06/vipstarcoin%E8%B3%BC%E5%85%A5%E6%89%8B%E9%A0%86/" class="button button-bw" target="_blank">
