@@ -1,3 +1,7 @@
+㈱VIPSTAR<br>フリーマーケット＆忘年会のお知らせ,2019/11/14,event,event-year-end-party-2019.jpg,https://discord.gg/sEaaxau
+VIPSTARCOIN上場先アンケート,2019/11/11,other,other-listing-questionnaire.png,https://forms.gle/R3EHs4m4wwxYjyWN6
+猫の里親募集,2019/10/09,other,other-cat-foster-parent.jpg,https://twitter.com/VIPSTAR_inc/status/1181739128007692289
+CoinExchange閉鎖のお知らせ,2019/10/03,other,other-ce-close.png,https://twitter.com/VIPSTARCOIN/status/1179723030513119234
 Electrum-VIPSアイコンコンテストのお知らせ,2019/09/21,event,event-electrum-icon-contest.jpg,https://discord.gg/sEaaxau
 Electrum-VIPSベータテスター募集のお知らせ,2019/09/21,develop,develop-electrum-beta.png,https://docs.google.com/forms/d/e/1FAIpQLSeOP3aPC2E0RDl3koNezu7899uG__im2JELiV0EIhgc5Vtgag/viewform
 VIPS Messageリリース,2019/09/16,develop,develop-vips-message.png,https://www.vipstarcoin.jp/#tool
