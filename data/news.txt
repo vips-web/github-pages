@@ -3,7 +3,6 @@ Electrum-VIPSベータテスター募集のお知らせ,2019/09/21,develop,devel
 VIPS Messageリリース,2019/09/16,develop,develop-vips-message.png,https://www.vipstarcoin.jp/#tool
 VIPS決済導入<br>有限会社 CR corporation,2019/09/13,other,other-settlement.png,https://www.carsensor.net/shop/saitama/317149001/
 ㈱VIPSTAR<br>2019年度上半期活動内容報告,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
-アシャンティ王国<br>特設ページ公開,2019/08/06,event,event-asanteman.png,https://www.vipstarcoin.jp/lp/ashanti/
 二次創作用Discord素材サーバーオープン,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
 アシャンティ王国でのセレモニー開催費用ご支援のお願い,2019/07/27,other,other-donate-ghana-project.png,https://forms.gle/9jYWrusXVUiWDjR7A
 ガーナ大首長との協力関係構築について,2019/07/25,other,other-ghana-paramount-chief.jpg,https://www.vipstarcoin.jp/blog/2019/07/25/ghananana/

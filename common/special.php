@@ -1,4 +1,5 @@
 <?php 
+/*
   $special_url = URL . '/lp/ashanti/';
   // if ($lang != 'ja' && $lang != 'vip') {
   //   $special_url .= 'en/';
@@ -17,4 +18,5 @@
 
 <?php 
   }
+*/
 ?>
