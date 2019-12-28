@@ -630,7 +630,8 @@ hr {
 	box-sizing: border-box;
 }
 #exchange .exchange-topbtc img {
-	width: 211px;
+	min-height: 60px;
+	max-height: 80px;
 	background-color: #2b2b2b;
 }
 #exchange .exchange-coinexchange img {
@@ -646,11 +647,13 @@ hr {
 	background-color: #fff;
 }
 #exchange .exchange-swft-blockchain img {
-	width: 210px;
+	min-height: 60px;
+	max-height: 80px;
 	background-color: #0095ff;
 }
 #exchange .exchange-cryptaldash img {
-	width: 255px;
+	min-height: 60px;
+	max-height: 80px;
 	background-color: #0a4b98;
 }
 #exchange .exchange-nusa-exchange img {
@@ -658,8 +661,14 @@ hr {
 	background-color: #1e3047;
 }
 #exchange .exchange-ataix img {
-	width: 200px;
+	min-height: 60px;
+	max-height: 80px;
 	background-color: #302d43;
+}
+#exchange .exchange-treco img {
+	min-height: 60px;
+	max-height: 80px;
+	background-color: #1b2ad3;
 }
 
 /* News Section */
