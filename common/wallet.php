@@ -55,6 +55,12 @@
           <a href="https://electrum-vips.info" class="wallet-electrum" target="_blank">
             <img src="<?php echo URL; ?>/img/wallet/electrum.png" alt="VIPSTARCOIN electrum" width="210">
           </a>
+          <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+            <br>
+            <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:electrum" class="button button-bw" target="_blank">
+              Electrum 導入方法&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>
+          <?php endif; ?>
         </div>
       </div>
     </div>
