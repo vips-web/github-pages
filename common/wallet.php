@@ -8,16 +8,16 @@
       <div class="col-md-8 col-md-offset-2">
         <div class="wallet-button">
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_win_normal_1.0.2.zip">
-            <img src="<?php echo URL; ?>/img/wallet/win-normal.png" alt="" width="161" height="51">
+            <img src="<?php echo URL; ?>/img/wallet/win-normal.png" alt="normal WALLET for Win" width="161" height="51">
           </a>
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_mac_normal_1.0.2.zip">
-            <img src="<?php echo URL; ?>/img/wallet/mac-normal.png" alt="" width="161" height="51">
+            <img src="<?php echo URL; ?>/img/wallet/mac-normal.png" alt="normal WALLET for Mac" width="161" height="51">
           </a><br>
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_win_ms_vips_1.0.2.zip">
-            <img src="<?php echo URL; ?>/img/wallet/win-ms-vips.png" alt="" width="161" height="51">
+            <img src="<?php echo URL; ?>/img/wallet/win-ms-vips.png" alt="Ms. VIPS WALLET for Win" width="161" height="51">
           </a>
           <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSTARCOIN_mac_ms_vips_1.0.2.zip">
-            <img src="<?php echo URL; ?>/img/wallet/mac-ms-vips.png" alt="" width="161" height="51">
+            <img src="<?php echo URL; ?>/img/wallet/mac-ms-vips.png" alt="Ms. VIPS WALLET for Mac" width="161" height="51">
           </a><br>
           <?php if ($lang == 'ja' || $lang == 'vip'): ?>
             <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:pc_wallet" class="button button-bw" target="_blank">
@@ -29,8 +29,8 @@
             </a>
           <?php endif; ?>
           <br><br>
-          <a href='https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet' target="_blank">
-            <img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/images/generic/en_badge_web_generic.png' width="190"/>
+          <a href="https://play.google.com/store/apps/details?id=jp.vipstarcoin.wallet" target="_blank">
+            <img alt="Get it on Google Play" src="https://play.google.com/intl/ja/badges/images/generic/en_badge_web_generic.png" width="190"/>
           </a><br>
           <?php if ($lang == 'ja' || $lang == 'vip'): ?>
             <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:android_wallet" class="button button-bw" target="_blank">
@@ -49,6 +49,16 @@
             <br>
             <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:web_wallet" class="button button-bw" target="_blank">
               Web 導入方法&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>
+          <?php endif; ?>
+          <br><br><br>
+          <a href="https://electrum-vips.info" class="wallet-electrum" target="_blank">
+            <img src="<?php echo URL; ?>/img/wallet/electrum.png" alt="VIPSTARCOIN electrum" width="210">
+          </a>
+          <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+            <br>
+            <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:electrum" class="button button-bw" target="_blank">
+              Electrum 導入方法&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
           <?php endif; ?>
         </div>

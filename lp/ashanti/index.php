@@ -1,4 +1,7 @@
 <?php
+  header('Location: https://www.vipstarcoin.jp', true, 301);
+  exit();
+
   if (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) {
     ini_set('display_errors', 1);
     define('URL', 'http://localhost:8888/vips-web');

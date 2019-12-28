@@ -1,4 +1,8 @@
-VIPSTAR Inc.<br>Free Market & Year end party,2019/11/14,event,event-year-end-party-2019.jpg,https://discord.gg/sEaaxau
+Release of Electrum-VIPS for Android,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips
+Release of Electrum-VIPS,2019/12/24,develop,develop-electrum-vips.png,https://electrum-vips.info/
+Crex24<br>Voting for listing,2019/12/15,event,event-crex24-voting.png,https://twitter.com/Crex_24/status/1205762893515558912
+VIPSTAR Inc.<br>Free Market,2019/12/14,event,event-year-end-market-2019.jpg,https://twitter.com/VIPSTAR_inc/status/1205711024877228032
+VIPSTAR Inc.<br>Free Market & Year end party,2019/11/19,event,event-year-end-party-2019.jpg,https://passmarket.yahoo.co.jp/event/show/detail/01nmsf10mivey.html
 VIPSTARCOIN<br>questionnaire for listing,2019/11/11,other,other-listing-questionnaire.png,https://forms.gle/R3EHs4m4wwxYjyWN6
 Recruitment of cat foster parents,2019/10/09,other,other-cat-foster-parent.jpg,https://twitter.com/VIPSTAR_inc/status/1181739128007692289
 CoinExchange is Closing Down,2019/10/03,other,other-ce-close.png,https://www.coinexchange.io/news/post/85/
