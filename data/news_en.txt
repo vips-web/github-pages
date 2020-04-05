@@ -1,3 +1,4 @@
+VIPS Free Market & Auction<br>Discord server opened,2020/02/01,develop,develop-auction-server.png,https://discordapp.com/channels/414304092282945537/414411653996871690/672838679718526986
 Release of Electrum-VIPS for Android,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips
 Release of Electrum-VIPS,2019/12/24,develop,develop-electrum-vips.png,https://electrum-vips.info/
 Crex24<br>Voting for listing,2019/12/15,event,event-crex24-voting.png,https://twitter.com/Crex_24/status/1205762893515558912
