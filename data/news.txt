@@ -1,4 +1,4 @@
-VIPSフリマ、オークション<br>Discordサーバーオープン,2020/02/01,develop,develop-auction-server.png,https://discordapp.com/channels/414304092282945537/414411653996871690/672838679718526986
+VIPSフリマ、オークション<br>Discordサーバーオープン,2020/02/01,develop,develop-auction-server.png,https://discord.gg/387jRwC
 Electrum-VIPS Android版リリース,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips
 Electrum-VIPSリリース,2019/12/24,develop,develop-electrum-vips.png,https://electrum-vips.info/
 Crex24<br>上場投票イベント,2019/12/15,event,event-crex24-voting.png,https://twitter.com/VIPSTARCOIN/status/1206197857868369920
