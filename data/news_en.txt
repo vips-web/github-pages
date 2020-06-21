@@ -1,3 +1,5 @@
+VIPSTAR Inc.<br>Self lock-up 2020,2020/05/14,other,other-lock-up-2020.png,https://twitter.com/VIPSTAR_inc/status/1260788688864161792
+Lock-up announced,2018/06/10,other,other-lock-up-en.png,https://twitter.com/Vipstarcoin_/status/1005435862711033857
 VIPS Free Market & Auction<br>Discord server opened,2020/02/01,develop,develop-auction-server.png,https://discord.gg/387jRwC
 Release of Electrum-VIPS for Android,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips
 Release of Electrum-VIPS,2019/12/24,develop,develop-electrum-vips.png,https://electrum-vips.info/
