@@ -4,6 +4,9 @@
     <hr>
   </div>
   <div class="exchange-image">
+    <a href="https://crex24.com/ja/" target="_blank" class="exchange-crex24">
+      <img src="<?php echo URL; ?>/img/exchange/crex24.svg" alt="CREX24">
+    </a><br>
     <a href="https://topbtc.com/home/Market/index/market/USDT/coin/VIPS.html" target="_blank" class="exchange-topbtc">
       <img src="<?php echo URL; ?>/img/exchange/topbtc.png" alt="TOPBTC">
     </a><br>
