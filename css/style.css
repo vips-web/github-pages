@@ -645,6 +645,14 @@ hr {
 	border-radius: 4px;
 	box-sizing: border-box;
 }
+#exchange .exchange-crex24 .logo_crax--1K9QqdOLL5Srb0i1vM3S8l {
+	color: #fff;
+}
+#exchange .exchange-crex24 img {
+	min-height: 60px;
+	max-height: 80px;
+	background-color: #1aa29f;
+}
 #exchange .exchange-topbtc img {
 	min-height: 60px;
 	max-height: 80px;
