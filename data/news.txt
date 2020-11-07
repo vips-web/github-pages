@@ -1,3 +1,5 @@
+VIPSTARCOIN x alpha faucet<br>コラボイベント,2020/10/26,event,event-alpha-faucets.png,https://sandego.information-portal.net/archives/6091
+CREX24<br>上場,2020/10/23,develop,develop-crex24.svg,https://twitter.com/VIPSTARCOIN/status/1319636031960801280
 ㈱VIPSTAR<br>セルフロックアップについてのお知らせ,2020/05/14,other,other-lock-up-2020.png,https://twitter.com/VIPSTAR_inc/status/1260788688864161792
 VIPSフリマ、オークション<br>Discordサーバーオープン,2020/02/01,develop,develop-auction-server.png,https://discord.gg/387jRwC
 Electrum-VIPS Android版リリース,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips

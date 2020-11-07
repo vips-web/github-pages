@@ -1,3 +1,5 @@
+VIPSTARCOIN x alpha faucet<br>Collaboration event,2020/10/26,event,event-alpha-faucets.png,https://sandego.information-portal.net/archives/6091
+CREX24<br>Listing,2020/10/23,develop,develop-crex24.svg,https://twitter.com/Crex_24/status/1319631045327769601
 VIPSTAR Inc.<br>Self lock-up 2020,2020/05/14,other,other-lock-up-2020.png,https://twitter.com/VIPSTAR_inc/status/1260788688864161792
 Lock-up announced,2018/06/10,other,other-lock-up-en.png,https://twitter.com/Vipstarcoin_/status/1005435862711033857
 VIPS Free Market & Auction<br>Discord server opened,2020/02/01,develop,develop-auction-server.png,https://discord.gg/387jRwC
