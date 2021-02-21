@@ -15,6 +15,10 @@
             <?php echo ($lang == 'ja' || $lang == 'vip') ? 'VIPSフリマ、オークション' : 'VIPS Free Market & Auction'; ?>
             &nbsp;<i class="fas fa-external-link-alt"></i>
           </a><br>
+          <a href="https://vips-blog.hatenablog.com/about" class="button button-bw topics-button-blog" target="_blank">
+            <?php echo ($lang == 'ja' || $lang == 'vip') ? 'VIPSブログ' : 'VIPS Blog'; ?>
+            &nbsp;<i class="fas fa-external-link-alt"></i>
+          </a><br>
           <a href="https://www.vipstarcoin.jp/game/moyashiproject/" class="button button-bw topics-button-moyashi" target="_blank">
             <?php echo ($lang == 'ja' || $lang == 'vip') ? 'ゆぐもやしる（サービス終了）' : 'Yugumoyashiru (no longer available)'; ?>
             &nbsp;<i class="fas fa-external-link-alt"></i>
