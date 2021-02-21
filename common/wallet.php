@@ -61,6 +61,20 @@
               Electrum 導入方法&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
           <?php endif; ?>
+          <br><br><br>
+          <?php if ($lang == 'ja' || $lang == 'vip'): ?>
+            <a href="https://monya-wallet.github.io/" class="button button-bw wallet-button-monya" target="_blank">
+              もにゃ
+            </a>
+            <br>
+            <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:monya" class="button button-bw" target="_blank">
+              もにゃ 導入方法&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>
+          <?php else: ?>
+            <a href="https://monya-wallet.github.io/wallet/" class="button button-bw wallet-button-monya" target="_blank">
+              Monya
+            </a>
+          <?php endif; ?>
         </div>
       </div>
     </div>

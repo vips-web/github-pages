@@ -586,6 +586,16 @@ hr {
 	border-color: #330867;
 	background: linear-gradient(to right, #30cfd0, #330867); 
 }
+#wallet .wallet-button-monya {
+	width: 200px;
+	height: 52px; 
+	padding: 10px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #7c5702;
+	border-color: #7c5702;
+	background-color: #ffeb47;
+}
 #wallet .wallet-text {
 	margin-top: 50px;
 	text-align: center;
