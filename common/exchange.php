@@ -19,12 +19,12 @@
     <a href="https://ataix.com/currencies/VIPS" target="_blank" class="exchange-ataix">
       <img src="<?php echo URL; ?>/img/exchange/ataix.svg" alt="ATAIX">
     </a><br>
-    <a href="https://tradecoin.space/trading/vipsbtc" target="_blank" class="exchange-treco">
+    <a href="https://tradecoin.space/" target="_blank" class="exchange-treco">
       <img src="<?php echo URL; ?>/img/exchange/treco.png" alt="TRECO">
     </a><br>
     <?php if ($lang == 'ja' || $lang == 'vip'): ?>
       <br><br><br>
-      <a href="https://www.vipstarcoin.jp/blog/2018/08/06/vipstarcoin%E8%B3%BC%E5%85%A5%E6%89%8B%E9%A0%86/" class="button button-bw" target="_blank">
+      <a href="https://wiki.vipstarcoin.jp/doku.php?id=wiki:crex24" class="button button-bw" target="_blank">
         購入手順&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
       </a>
     <?php endif; ?>
