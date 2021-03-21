@@ -985,28 +985,12 @@ ol.type li a:hover {
 	margin: 0 20px;
 	border-radius: 50%;
 }
-#team .team-boon {
-	background: url('../img/team/boon.png') no-repeat;
-	background-size: contain;
-}
 #team .team-takuzo {
 	background: url('../img/team/takuzo.png') no-repeat;
 	background-size: contain;
 }
 #team .team-takuzo:hover {
 	background: url('../img/team/takuzo_2.png') no-repeat;
-	background-size: contain;
-}
-#team .team-uruhu {
-	background: url('../img/team/uruhu.png') no-repeat;
-	background-size: contain;
-}
-#team .team-orute {
-	background: url('../img/team/orute.png') no-repeat;
-	background-size: contain;
-}
-#team .team-m {
-	background: url('../img/team/m.png') no-repeat;
 	background-size: contain;
 }
 #team .team-bruin {
@@ -1017,12 +1001,8 @@ ol.type li a:hover {
 	background: url('../img/team/ner.png') no-repeat;
 	background-size: contain;
 }
-#team .team-rockon7 {
-	background: url('../img/team/rockon7.png') no-repeat;
-	background-size: contain;
-}
-#team .team-samuraimiyabi {
-	background: url('../img/team/samuraimiyabi.png') no-repeat;
+#team .team-1gou {
+	background: url('../img/team/1gou.png') no-repeat;
 	background-size: contain;
 }
 #team img {
