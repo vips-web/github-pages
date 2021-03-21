@@ -36,7 +36,7 @@
       </div>
       <div class="social">
         <ul>
-          <li><a href="https://discord.gg/sEaaxau" target="_blank">
+          <li><a href="https://discord.gg/vJz35a5EWP" target="_blank">
             <i class="fab fa-discord fa-4x"></i></i>
           </a></li>
           <li><a href="https://twitter.com/<?php echo $twitter_account; ?>" target="_blank">
