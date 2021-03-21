@@ -345,7 +345,7 @@ hr {
 	color: #5F3817;
 	border-color: #5F3817;
 	background-color: #8DC449; 
-    text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
+	text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
 }
 #topics .topics-button-discord { 
 	min-height: 60px; 
@@ -364,7 +364,7 @@ hr {
 	color: #000;
 	border-color: #000;
 	background-color: #F43232; 
-    text-shadow: 1px 1px 1px #FDC307, -1px 1px 1px #FDC307, 1px -1px 1px #FDC307, -1px -1px 1px #FDC307;
+	text-shadow: 1px 1px 1px #FDC307, -1px 1px 1px #FDC307, 1px -1px 1px #FDC307, -1px -1px 1px #FDC307;
 }
 #topics .topics-button-blog { 
 	min-height: 60px; 
@@ -1128,6 +1128,20 @@ color: #2c3e50;
 }
 #contact .social ul li i {
 	margin: 40px 0 0;
+}
+#contact .social-5ch {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	line-height: 48px;
+	vertical-align: 10px;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: bold;
+	color: #fff;
+	background-color: #000;
+	border: 1px solid #000;
+	border-radius: 5px;
 }
 #contact a {
 	transition: all 0.25s;
