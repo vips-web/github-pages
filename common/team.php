@@ -16,12 +16,8 @@
           <p class="team-name">NeR</p>
         </div>
         <div>
-          <p class="team-image team-rockon7"></p>
-          <p class="team-name">rockon7</p>
-        </div>
-        <div>
-          <p class="team-image team-samuraimiyabi"></p>
-          <p class="team-name">samuraimiyabi</p>
+          <p class="team-image team-1gou"></p>
+          <p class="team-name">本スレ大臣信者1号</p>
         </div>
       </div>
       

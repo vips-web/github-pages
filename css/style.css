@@ -345,7 +345,16 @@ hr {
 	color: #5F3817;
 	border-color: #5F3817;
 	background-color: #8DC449; 
-    text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
+	text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
+}
+#topics .topics-button-discord { 
+	min-height: 60px; 
+	padding: 14px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #fff;
+	border-color: #36393f;
+	background-color: #7289da; 
 }
 #topics .topics-button-auction { 
 	min-height: 60px; 
@@ -355,7 +364,7 @@ hr {
 	color: #000;
 	border-color: #000;
 	background-color: #F43232; 
-    text-shadow: 1px 1px 1px #FDC307, -1px 1px 1px #FDC307, 1px -1px 1px #FDC307, -1px -1px 1px #FDC307;
+	text-shadow: 1px 1px 1px #FDC307, -1px 1px 1px #FDC307, 1px -1px 1px #FDC307, -1px -1px 1px #FDC307;
 }
 #topics .topics-button-blog { 
 	min-height: 60px; 
@@ -985,28 +994,12 @@ ol.type li a:hover {
 	margin: 0 20px;
 	border-radius: 50%;
 }
-#team .team-boon {
-	background: url('../img/team/boon.png') no-repeat;
-	background-size: contain;
-}
 #team .team-takuzo {
 	background: url('../img/team/takuzo.png') no-repeat;
 	background-size: contain;
 }
 #team .team-takuzo:hover {
 	background: url('../img/team/takuzo_2.png') no-repeat;
-	background-size: contain;
-}
-#team .team-uruhu {
-	background: url('../img/team/uruhu.png') no-repeat;
-	background-size: contain;
-}
-#team .team-orute {
-	background: url('../img/team/orute.png') no-repeat;
-	background-size: contain;
-}
-#team .team-m {
-	background: url('../img/team/m.png') no-repeat;
 	background-size: contain;
 }
 #team .team-bruin {
@@ -1017,12 +1010,8 @@ ol.type li a:hover {
 	background: url('../img/team/ner.png') no-repeat;
 	background-size: contain;
 }
-#team .team-rockon7 {
-	background: url('../img/team/rockon7.png') no-repeat;
-	background-size: contain;
-}
-#team .team-samuraimiyabi {
-	background: url('../img/team/samuraimiyabi.png') no-repeat;
+#team .team-1gou {
+	background: url('../img/team/1gou.png') no-repeat;
 	background-size: contain;
 }
 #team img {
@@ -1139,6 +1128,20 @@ color: #2c3e50;
 }
 #contact .social ul li i {
 	margin: 40px 0 0;
+}
+#contact .social-5ch {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	line-height: 48px;
+	vertical-align: 10px;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+	color: #fff;
+	background-color: #000;
+	border: 1px solid #000;
+	border-radius: 5px;
 }
 #contact a {
 	transition: all 0.25s;

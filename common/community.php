@@ -6,7 +6,7 @@
     </div>
     <div class="row col-md-8 col-md-offset-2">
       <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-delay="200ms">
-        <a href="https://discord.gg/sEaaxau" target="_blank">
+        <a href="https://discord.gg/vJz35a5EWP" target="_blank">
           <div class="community-box">
             <i class="fab fa-discord fa-5x"></i>
             <span class="count"><?php echo $discord_members_count; ?></span>
