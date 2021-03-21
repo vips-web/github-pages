@@ -347,6 +347,15 @@ hr {
 	background-color: #8DC449; 
     text-shadow: 1px 1px 1px #fff, -1px 1px 1px #fff, 1px -1px 1px #fff, -1px -1px 1px #fff;
 }
+#topics .topics-button-discord { 
+	min-height: 60px; 
+	padding: 14px 16px; 
+	font-size: 22px; 
+	font-weight: bold; 
+	color: #fff;
+	border-color: #36393f;
+	background-color: #7289da; 
+}
 #topics .topics-button-auction { 
 	min-height: 60px; 
 	padding: 14px 16px; 
