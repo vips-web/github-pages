@@ -56,7 +56,7 @@
           <b>Self lock-up</b>
         </p>
         <p>
-          Self lock-up for 2020: total about 24.3BN vips<br>
+          Self lock-up for 2021: total about 24.3BN vips<br>
           <br>
           Further Self lock-up amount will be calculated by end of each year,<br>
           while taking management situation and roadmap progress into consideration.<br>

@@ -1,3 +1,9 @@
+New Game<br>Image Scratch,2021/04/10,develop,develop-scratch.png,https://twitter.com/VIPS08037258/status/1380728271654903809
+VIPSTAR Inc.<br>Self lock-up 2021,2021/04/07,other,other-lock-up-2021.png,https://twitter.com/VIPSTAR_inc/status/1379741151192739840
+VIPS Free Market & Auction<br>Campaign the Golden Week Vacation 2021,2021/04/06,event,event-auction-campaign-20210406.jpg,https://twitter.com/VIPS08037258/status/1379403797135560706
+Announcement of Mahjong VIPS Cup,2021/03/31,event,event-mahjong-20210331.jpg,https://vips-blog.hatenablog.com/entry/20210331/1617193788
+vipsvip open beta release,2021/03/29,develop,develop-vipsvip-0.0.1.png,https://www.vipstarcoin.jp/blog/2021/03/29/vipsvip-ver0-0-1%e2%80%bb%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88/
+Announcement of New Insight Explorer,2021/03/24,develop,develop-insight.png,https://www.vipstarcoin.jp/blog/2021/03/24/%e6%96%b0%e3%81%97%e3%81%84insightexplorer%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/
 Announcement of change of HYPERVIPPER,2021/02/28,other,other-hyper-202102.png,https://www.vipstarcoin.jp/blog/2021/03/01/hypervipper%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc%e5%a4%89%e6%9b%b4%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/
 VIPS Blog<br>First posting campaign,2021/02/23,event,event-blog-campaign-20210223.jpg,https://vips-blog.hatenablog.com/entry/2021/02/28/221158
 VIPS 3rd birthdays threads,2021/02/17,event,event-comma-20210217.png,http://hebi.5ch.net/test/read.cgi/news4vip/1613552385/
@@ -10,7 +16,6 @@ VIPS Free Market & Auction<br>Campaign december 2020,2020/12/11,event,event-auct
 VIPSTARCOIN x alpha faucet<br>Collaboration event,2020/10/26,event,event-alpha-faucets.png,https://sandego.information-portal.net/archives/6091
 CREX24<br>Listing,2020/10/23,develop,develop-crex24.svg,https://twitter.com/Crex_24/status/1319631045327769601
 VIPSTAR Inc.<br>Self lock-up 2020,2020/05/14,other,other-lock-up-2020.png,https://twitter.com/VIPSTAR_inc/status/1260788688864161792
-Lock-up announced,2018/06/10,other,other-lock-up-en.png,https://twitter.com/Vipstarcoin_/status/1005435862711033857
 VIPS Free Market & Auction<br>Discord server opened,2020/02/01,develop,develop-auction-server.png,https://discord.gg/387jRwC
 Release of Electrum-VIPS for Android,2019/12/26,develop,develop-electrum-vips-android.jpg,https://play.google.com/store/apps/details?id=org.electrum_vips.electrum_vips
 Release of Electrum-VIPS,2019/12/24,develop,develop-electrum-vips.png,https://electrum-vips.info/
@@ -67,7 +72,6 @@ Vote of CoAket Art Contest,2019/02/09,event,event-coaket-art-contest.jpg,https:/
 VIPS questionnaire,2019/02/05,other,other-persona-check.png,https://docs.google.com/forms/d/12eTZYYZOoo586_JoFUXCvj6t5UzkV9u19HC9bVIz-Xk/viewform
 VIPS official lottery,2019/02/05,other,other-lottery.jpg,https://twitter.com/VIPSTARCOIN/status/1092666735457488896
 VIPSTAR goods<br>Online shop open,2019/02/05,develop,develop-online-shop.jpg,https://www.vipstarstore.com/
-CryptoDerby<br>Release campaign,2019/01/28,event,event-crypto-derby-release.png,https://medium.com/cryptohorserace/ベータ版のクローズについて-1465cdf2bcde
 Release of VIPSTARCOIN Wallet version 1.0.2,2019/01/26,develop,develop-wallet-update.png,https://twitter.com/VIPSTARCOIN/status/1089178886175305728
 VIPSTAR Girls<br>LINE sticker released,2019/01/21,other,other-line-stamp.jpg,https://store.line.me/stickershop/product/6361850
 VIPS × Derby<br>Platinum Star Cup,2018/01/20,event,event-vips-derby.jpg,https://www.vipstarcoin.jp/blog/2019/01/20/commencement_of_qb/

@@ -13,8 +13,11 @@
           <a class="button button-bw" href="#" data-toggle="modal" data-target="#miningModal">
             MINING TOOL&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </a><br>
-          <a href="https://insight.vipstarco.in/" class="button button-bw" target="_blank">
-            VIPSTARCOIN Insight&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+          <a class="button button-bw" href="#" data-toggle="modal" data-target="#vipsvipModal">
+            vipsvip&nbsp;&nbsp;<i class="far fa-window-restore"></i>
+          </a><br>
+          <a class="button button-bw" href="#" data-toggle="modal" data-target="#insightModal">
+            VIPSTARCOIN Insight&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </a><br>
           <a href="http://explorer.vipstarcoin.jp/" class="button button-bw" target="_blank">
             VIPSTARCOIN Explorer&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
@@ -74,6 +77,57 @@
             </a><br>
             <a href="https://github.com/vips-web/github-pages/raw/master/download/ccminer.zip" class="button button-bw" target="_blank">
               CCminer&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="button button-bw" data-dismiss="modal">CLOSE</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="vipsvipModal" tabindex="-1" role="dialog" aria-labelledby="vipsvipModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="vipsvipModalLabel">vipsvip</h4>
+          </div>
+          <div class="modal-body">
+            <p class="modal-text">
+              vipsvip by takana_<br>
+              version 0.0.1<br>
+              <br>
+              このソフトウェアはVIPS上で動く特定のスマートコントラクトを操作し、<br>
+              掲示板のような機能を提供します。<br>
+              簡単に説明すると、VIPS上で動く5chみたいな掲示板にアクセスできるようにするソフトです。
+              <br><br>
+            </p>
+            <a href="https://drive.google.com/file/d/1SGfAAnVOkwfB9BWt5CXqTUa5vELuYDju/view?usp=sharing" class="button button-bw" target="_blank">
+              vipsvip&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="button button-bw" data-dismiss="modal">CLOSE</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="insightModal" tabindex="-1" role="dialog" aria-labelledby="insightModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="insightModalLabel">VIPSTARCOIN Insight</h4>
+          </div>
+          <div class="modal-body">
+            <a href="https://insight.vipstarcoin.jp/" class="button button-bw" target="_blank">
+              https://insight.vipstarcoin.jp/&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a><br>
+            <a href="https://insight.nezirin.net/" class="button button-bw" target="_blank">
+              https://insight.nezirin.net/&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a><br>
+            <a href="https://insight.vipstarco.in/" class="button button-bw" target="_blank">
+              https://insight.vipstarco.in/&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
           </div>
           <div class="modal-footer">
