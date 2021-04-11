@@ -653,6 +653,11 @@ hr {
 	display: inline-block;
 	margin: 0 10px 25px;
 }
+#tool .modal .modal-text {
+	margin: 0;
+	text-indent: 0;
+	text-align: left;
+}
 /* Exchange Section */
 #exchange {
 	padding: 0 0 100px;
