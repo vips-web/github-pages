@@ -681,13 +681,11 @@ hr {
 	color: #fff;
 }
 #exchange .exchange-crex24 img {
-	min-height: 60px;
-	max-height: 80px;
+	width: 220px;
 	background-color: #1aa29f;
 }
 #exchange .exchange-topbtc img {
-	min-height: 60px;
-	max-height: 80px;
+	width: 220px;
 	background-color: #2b2b2b;
 }
 #exchange .exchange-coinexchange img {
@@ -722,8 +720,7 @@ hr {
 	background-color: #302d43;
 }
 #exchange .exchange-treco img {
-	min-height: 60px;
-	max-height: 80px;
+	width: 220px;
 	background-color: #1b2ad3;
 }
 
