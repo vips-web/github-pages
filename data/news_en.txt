@@ -1,3 +1,8 @@
+This and that of VIPS NFT,2021/10/10,event,event-nft-auction.png,https://vips-blog.hatenablog.com/entry/20211010/1633843209
+VIPS 5ch thread summary (2021.08.24-),2021/09/21,other,other-5ch-matome-20210824.jpg,https://www.youtube.com/watch?v=SSRd2hR9EUg
+VIPS Free Market & Auction<br>New campaign,2021/08/01,event,event-auction-campaign-20210801.jpg,https://twitter.com/VIPS08037258/status/1421808315735023623
+How to make a VIPS NFT,2021/07/06,develop,develop-nft-web.png,https://vips-blog.hatenablog.com/entry/20210706/1625575591
+I made software that can make NFT with VIPS,2021/06/20,develop,develop-nft.png,https://vips-blog.hatenablog.com/entry/20210620/1624121969
 Announcement of the 2nd Mahjong VIPSTARCOIN Cup,2021/05/18,event,event-mahjong-20210518.png,https://vips-blog.hatenablog.com/entry/20210518/1621338174
 Notice of Delisting of ATAIX,2021/05/05,other,other-ataix-delist.png,https://twitter.com/VIPSTARCOIN/status/1389782681982885892
 Monya<br>v3.10.4 update,2021/04/26,develop,develop-monya-3.10.4.jpg,https://twitter.com/VIPSTARCOIN/status/1387051612498108428
@@ -35,12 +40,9 @@ VIPS Message released,2019/09/16,develop,develop-vips-message.png,https://www.vi
 VIPS payment introduced<br>Ltd.Co. CR corporation,2019/09/13,other,other-settlement.png,https://www.carsensor.net/shop/saitama/317149001/
 VIPSTAR Inc.<br>Activity report for the first half of 2019,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
 Discord server for fan fiction,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
-Please donate for Ghana project,2019/07/27,other,other-donate-ghana-project.png,https://forms.gle/9jYWrusXVUiWDjR7A
-Cooperation with Ghana paramount chief,2019/07/25,other,other-ghana-paramount-chief.jpg,https://www.vipstarcoin.jp/blog/2019/07/25/cooperation-with-ghana-paramount-chief/
 VIPSTARCOIN is now available in Monya<br>(Cryptocurrency wallet app),2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
 VipsSender for InternetExplorer released,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/en/#tool
 VipsSender for JaneStyle released,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/en/#tool
-VIPSTARCOIN cooperate with Ghanaian company,2019/07/05,other,other-cooperate-ghanaian-company.jpg,https://www.vipstarcoin.jp/blog/2019/07/05/ghana/
 Release of Yugumoyashiru,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
 News about donation to Ghana hospital was broadcasted by AdomTV,2019/06/21,other,other-donate-ghana-babies-tv.jpg,https://twitter.com/VIPSTARCOIN/status/1142225174822969344
 News about our donation is on Ghana news website,2019/06/20,other,other-donate-ghana-babies-news.jpg,https://twitter.com/VIPSTARCOIN/status/1141590569635815424

@@ -1,3 +1,8 @@
+VIPSNFTのあれやこれや,2021/10/10,event,event-nft-auction.png,https://vips-blog.hatenablog.com/entry/20211010/1633843209
+【VIPSTARCOIN】VIP発の仮想通貨『VIPS』本スレまとめ（2021.08.24- ）,2021/09/21,other,other-5ch-matome-20210824.jpg,https://www.youtube.com/watch?v=SSRd2hR9EUg
+VIPSフリマ、オークション<br>新キャンペーン,2021/08/01,event,event-auction-campaign-20210801.jpg,https://twitter.com/VIPS08037258/status/1421808315735023623
+VIPSのNFTの作り方,2021/07/06,develop,develop-nft-web.png,https://vips-blog.hatenablog.com/entry/20210706/1625575591
+VIPSでNFT作れるソフトを作った,2021/06/20,develop,develop-nft.png,https://vips-blog.hatenablog.com/entry/20210620/1624121969
 第二回麻雀VIPSTARCOIN杯開催のお知らせ,2021/05/18,event,event-mahjong-20210518.png,https://vips-blog.hatenablog.com/entry/20210518/1621338174
 ATAIX上場廃止のお知らせ,2021/05/05,other,other-ataix-delist.png,https://twitter.com/VIPSTARCOIN/status/1389782681982885892
 もにゃ<br>v3.10.4アップデート,2021/04/26,develop,develop-monya-3.10.4.jpg,https://twitter.com/VIPSTARCOIN/status/1387051612498108428
@@ -35,12 +40,9 @@ VIPS Messageリリース,2019/09/16,develop,develop-vips-message.png,https://www
 VIPS決済導入<br>有限会社 CR corporation,2019/09/13,other,other-settlement.png,https://www.carsensor.net/shop/saitama/317149001/
 ㈱VIPSTAR<br>2019年度上半期活動内容報告,2019/08/22,other,other-vipstarinc-20190822.png,https://www.vipstarinc.jp/download/20190822.pdf
 二次創作用Discord素材サーバーオープン,2019/07/30,develop,develop-sozai.png,https://www.vipstarcoin.jp/blog/2019/07/30/sozai/
-アシャンティ王国でのセレモニー開催費用ご支援のお願い,2019/07/27,other,other-donate-ghana-project.png,https://forms.gle/9jYWrusXVUiWDjR7A
-ガーナ大首長との協力関係構築について,2019/07/25,other,other-ghana-paramount-chief.jpg,https://www.vipstarcoin.jp/blog/2019/07/25/ghananana/
 複数通貨対応モバイルウォレット「もにゃ」でVIPSTARCOIN取扱開始,2019/07/12,develop,develop-monya.jpg,https://monya-wallet.github.io/
 InternetExplorer簡単チップツール公開,2019/07/07,develop,develop-vips-sender-ie.jpg,https://www.vipstarcoin.jp/#tool
 JaneStyle簡単チップツール公開,2019/07/06,develop,develop-vips-sender-js.png,https://www.vipstarcoin.jp/#tool
-ガーナ共和国企業と協力体制確立のお知らせ,2019/07/05,other,other-cooperate-ghanaian-company.jpg,https://www.vipstarcoin.jp/blog/2019/07/05/ghana/
 ゆぐもやしる<br>リリース,2019/07/05,develop,develop-yugumoyashiru.jpg,https://www.vipstarcoin.jp/game/moyashiproject/
 ガーナの病院への寄付の取り組みが現地テレビニュースで放映,2019/06/21,other,other-donate-ghana-babies-tv.jpg,https://twitter.com/VIPSTARCOIN/status/1142019993615253505
 ガーナの病院への寄付の取り組みが現地ニュースサイトに掲載,2019/06/20,other,other-donate-ghana-babies-news.jpg,https://twitter.com/VIPSTARCOIN/status/1141536518583906304
