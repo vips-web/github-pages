@@ -13,6 +13,9 @@
           <a class="button button-bw" href="#" data-toggle="modal" data-target="#miningModal">
             MINING TOOL&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </a><br>
+          <a class="button button-bw" href="#" data-toggle="modal" data-target="#vipsnftModal">
+            VIPS NFT&nbsp;&nbsp;<i class="far fa-window-restore"></i>
+          </a><br>
           <a class="button button-bw" href="#" data-toggle="modal" data-target="#vipsvipModal">
             vipsvip&nbsp;&nbsp;<i class="far fa-window-restore"></i>
           </a><br>
@@ -85,6 +88,37 @@
         </div>
       </div>
     </div>
+    <div class="modal fade" id="vipsnftModal" tabindex="-1" role="dialog" aria-labelledby="vipsnftModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="vipsnftModalLabel">VIPS NFT</h4>
+          </div>
+          <div class="modal-body">
+            <p class="modal-text">
+              VIPS NFT v0.1.0<br>
+              作者：takana-v<br>
+              <br>
+              VIPSTARCOIN上でNFTを扱うサポートをするソフトです。<br>
+              <br>
+            </p>
+            <a href="https://github.com/vips-web/github-pages/raw/master/download/VIPSNFT-0.1.0.zip" class="button button-bw" target="_blank">
+              VIPS NFT&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a><br>
+            <a href="https://nft.takana.me/" class="button button-bw" target="_blank">
+              VIPSTARCOIN NFT&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a><br>
+            <a href="https://vips-blog.hatenablog.com/entry/20210706/1625575591" class="button button-bw" target="_blank">
+              VIPSのNFTの作り方&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="button button-bw" data-dismiss="modal">CLOSE</button>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="modal fade" id="vipsvipModal" tabindex="-1" role="dialog" aria-labelledby="vipsvipModalLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -99,11 +133,14 @@
               <br>
               このソフトウェアはVIPS上で動く特定のスマートコントラクトを操作し、<br>
               掲示板のような機能を提供します。<br>
-              簡単に説明すると、VIPS上で動く5chみたいな掲示板にアクセスできるようにするソフトです。
-              <br><br>
+              簡単に説明すると、VIPS上で動く5chみたいな掲示板にアクセスできるようにするソフトです。<br>
+              <br>
             </p>
             <a href="https://drive.google.com/file/d/1SGfAAnVOkwfB9BWt5CXqTUa5vELuYDju/view?usp=sharing" class="button button-bw" target="_blank">
               vipsvip&nbsp;&nbsp;<i class="fas fa-file-archive"></i>
+            </a><br>
+            <a href="https://vips-blog.hatenablog.com/entry/20210420/1618926174" class="button button-bw" target="_blank">
+              VIPS上で動く掲示板を作った話&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>
           </div>
           <div class="modal-footer">
