@@ -8,12 +8,12 @@
       <h3 class="team-community">コミュニティ管理人</h3>
       <div class="team-row">
         <div>
-          <p class="team-image team-bruin"></p>
-          <p class="team-name">Bruin-kun</p>
+          <p class="team-image team-nezirin"></p>
+          <p class="team-name">ねじりん</p>
         </div>
         <div>
-          <p class="team-image team-ner"></p>
-          <p class="team-name">NeR</p>
+          <p class="team-image team-araiyuki"></p>
+          <p class="team-name">araiyuki</p>
         </div>
         <div>
           <p class="team-image team-1gou"></p>
@@ -52,20 +52,16 @@
       <h3 class="team-community">Community Admin</h3>
       <div class="team-row">
         <div>
-          <p class="team-image team-bruin"></p>
-          <p class="team-name">Bruin-kun</p>
+          <p class="team-image team-nezirin"></p>
+          <p class="team-name">nezirin</p>
         </div>
         <div>
-          <p class="team-image team-ner"></p>
-          <p class="team-name">NeR</p>
+          <p class="team-image team-araiyuki"></p>
+          <p class="team-name">araiyuki</p>
         </div>
         <div>
-          <p class="team-image team-rockon7"></p>
-          <p class="team-name">rockon7</p>
-        </div>
-        <div>
-          <p class="team-image team-samuraimiyabi"></p>
-          <p class="team-name">samuraimiyabi</p>
+          <p class="team-image team-1gou"></p>
+          <p class="team-name">本スレ大臣信者1号</p>
         </div>
       </div>
       
